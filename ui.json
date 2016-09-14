@@ -3,6 +3,7 @@
     "default": "en-US",
     "en-US": {
       "enabled": false,
+      "campaign": "20160801",
       "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
       "message": "Help make Lantern better, take this one question survey now!",
       "thanks": "Thanks for taking our survey!",
@@ -10,6 +11,7 @@
     },
     "zh-CN": {
       "enabled": true,
+      "campaign": "20160801",
       "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
       "message": "Help make Lantern better, take this one question survey now (ZH)!",
       "thanks": "Thanks for taking our survey (ZH)!",
@@ -17,6 +19,7 @@
     },
     "hi-IN": {
       "enabled": true,
+      "campaign": "20160801",
       "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
       "message": "Help make Lantern better, take this one question survey now!",
       "thanks": "Thanks for taking our survey!",
@@ -24,6 +27,7 @@
     },
     "fa-IR": {
       "enabled": false,
+      "campaign": "20160801",
       "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
       "message": "Help make Lantern better, take this one question survey now (FA)!",
       "thanks": "Thanks for taking our survey (FA)!",
