@@ -18,7 +18,7 @@
       "button": "Take survey (ZH)"
     },
     "hi-IN": {
-      "enabled": true,
+      "enabled": false,
       "campaign": "20160801",
       "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
       "message": "Help make Lantern better, take this one question survey now!",
