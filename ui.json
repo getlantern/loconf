@@ -12,7 +12,7 @@
     },
     "zh-CN": {
       "enabled": false,
-      "probability": 1,
+      "probability": 0,
       "campaign": "20160801",
       "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
       "message": "Help make Lantern better, take this one question survey now (ZH)!",
@@ -30,7 +30,7 @@
     },
     "fa-IR": {
       "enabled": false,
-      "probability": 0.5,
+      "probability": 0,
       "campaign": "20160801",
       "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
       "message": "Help make Lantern better, take this one question survey now (FA)!",
