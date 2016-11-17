@@ -5,7 +5,7 @@
       "enabled": false,
       "probability": 0,
       "campaign": "20160801",
-      "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
+      "url": "",
       "message": "Help make Lantern better, take this one question survey now!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
@@ -14,16 +14,16 @@
       "enabled": false,
       "probability": 0,
       "campaign": "20160801",
-      "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
+      "url": "",
       "message": "Help make Lantern better, take this one question survey now (ZH)!",
       "thanks": "Thanks for taking our survey (ZH)!",
       "button": "Take survey (ZH)"
     },
     "hi_IN": {
-      "enabled": false,
-      "probability": 0,
+      "enabled": true,
+      "probability": 1,
       "campaign": "20160801",
-      "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdNt-0LJAjw7Ib1a70JYrCc52jXTRZDvfvbWugxsaK8ioH3KQ/viewform",
       "message": "Help make Lantern better, take this one question survey now!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
@@ -32,7 +32,7 @@
       "enabled": false,
       "probability": 0,
       "campaign": "20160801",
-      "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
+      "url": "",
       "message": "Help make Lantern better, take this one question survey now!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
@@ -41,7 +41,7 @@
       "enabled": false,
       "probability": 0,
       "campaign": "20160801",
-      "url": "https://docs.google.com/a/getlantern.org/forms/d/1k0_Vgp_JqyfYgbzuAHfa0CNwTxN8wUoF51QudihIrcE/prefill?pref=2&pli=1",
+      "url": "",
       "message": "Help make Lantern better, take this one question survey now (FA)!",
       "thanks": "Thanks for taking our survey (FA)!",
       "button": "Take survey (FA)"
