@@ -2,8 +2,8 @@
   "survey": {
     "default": "en-US",
     "US": {
-      "enabled": true,
-      "probability": 1,
+      "enabled": false,
+      "probability": 0,
       "campaign": "20160801",
       "url": "https://getlantern.org",
       "message": "Help make Lantern better, take this one question survey now!",
