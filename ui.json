@@ -28,16 +28,7 @@
       "thanks": "Thanks for taking our survey (ZH)!",
       "button": "Take survey (ZH)"
     },
-    "hi_IN": {
-      "enabled": true,
-      "probability": 1,
-      "campaign": "20160801",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdNt-0LJAjw7Ib1a70JYrCc52jXTRZDvfvbWugxsaK8ioH3KQ/viewform",
-      "message": "Help make Lantern better, take this one question survey now!",
-      "thanks": "Thanks for taking our survey!",
-      "button": "Take survey"
-    },
-    "en_IN": {
+    "IN": {
       "enabled": true,
       "probability": 1,
       "campaign": "20160801",
