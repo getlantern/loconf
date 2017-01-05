@@ -11,25 +11,25 @@
       "button": "Take survey"
     },
     "en-US": {
-      "enabled": false,
-      "probability": 0,
+      "enabled": true,
+      "probability": 0.05,
       "campaign": "20160801",
-      "url": "",
-      "message": "Help make Lantern better, take this one question survey now!",
+      "url": "https://www.surveymonkey.com/r/MLQSRMB",
+      "message": "Help make Lantern better, take this quick survey now!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": false,
-      "probability": 0,
+      "enabled": true,
+      "probability": 0.05,
       "campaign": "20160801",
-      "url": "",
-      "message": "Help make Lantern better, take this one question survey now (ZH)!",
-      "thanks": "Thanks for taking our survey (ZH)!",
-      "button": "Take survey (ZH)"
+      "url": "https://www.surveymonkey.com/r/MVWTR72",
+      "message": "想让让蓝灯变得更好？立即参与问卷调查 (ZH)!",
+      "thanks": "感谢你参与问卷调查 (ZH)!",
+      "button": "参与问卷调查 (ZH)"
     },
     "IN": {
-      "enabled": true,
+      "enabled": false,
       "probability": 1,
       "campaign": "20160801",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSdNt-0LJAjw7Ib1a70JYrCc52jXTRZDvfvbWugxsaK8ioH3KQ/viewform",
