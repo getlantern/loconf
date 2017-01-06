@@ -2,10 +2,10 @@
   "survey": {
     "default": "en-US",
     "US": {
-      "enabled": true,
-      "probability": 0.60,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "20160801",
-      "url": "https://www.surveymonkey.com/r/MLQSRMB",
+      "url": "",
       "message": "Help make Lantern better, take this quick survey now!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
@@ -38,11 +38,11 @@
       "button": "Take survey"
     },
     "fa-IR": {
-      "enabled": false,
-      "probability": 0,
+      "enabled": true,
+      "probability": 0.60,
       "campaign": "20160801",
-      "url": "",
-      "message": "Help make Lantern better, take this one question survey now (FA)!",
+      "url": "https://www.surveymonkey.com/r/MLQSRMB",
+      "message": "Help make Lantern better, take this short question survey now (FA)!",
       "thanks": "Thanks for taking our survey (FA)!",
       "button": "Take survey (FA)"
     }
