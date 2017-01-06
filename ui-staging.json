@@ -23,8 +23,8 @@
       "button": "Take survey"
     },
     "en-US": {
-      "enabled": false,
-      "probability": 0,
+      "enabled": true,
+      "probability": 1,
       "campaign": "20160801",
       "url": "",
       "message": "Help make Lantern better, take this one question survey now!",
@@ -32,8 +32,8 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": false,
-      "probability": 0,
+      "enabled": true,
+      "probability": 1,
       "campaign": "20160801",
       "url": "",
       "message": "Help make Lantern better, take this one question survey now (ZH)!",
