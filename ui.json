@@ -20,8 +20,8 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": true,
-      "probability": 0.07,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "20160801",
       "url": "https://www.surveymonkey.com/r/MVWTR72",
       "message": "想让让蓝灯变得更好？立即参与问卷调查 (ZH)!",
