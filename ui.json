@@ -12,7 +12,7 @@
     },
     "en-US": {
       "enabled": true,
-      "probability": 0.40,
+      "probability": 0.60,
       "campaign": "20160801",
       "url": "https://www.surveymonkey.com/r/MLQSRMB",
       "message": "Help make Lantern better, take this quick survey now!",
