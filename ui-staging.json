@@ -2,13 +2,13 @@
   "announcement": {
     "default": "en-US",
     "en-US": {
-      "enabled": false,
-      "campaign": "20160801",
+      "campaign": "20160801-new-feature",
       "pro": true,
       "free": true,
+      "expiry": "",
       "title": "Try out the new feature",
       "message": "Believe or not, you'll definitely love it!",
-      "url": "",
+      "url": ""
     }
   },
   "survey": {
