@@ -11,10 +11,10 @@
       "button": "Take survey"
     },
     "en-US": {
-      "enabled": true,
-      "probability": 0.60,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "20160801",
-      "url": "https://www.surveymonkey.com/r/MLQSRMB",
+      "url": "",
       "message": "Help make Lantern better, take this quick survey now!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
@@ -23,7 +23,7 @@
       "enabled": false,
       "probability": 0.00,
       "campaign": "20160801",
-      "url": "https://www.surveymonkey.com/r/MVWTR72",
+      "url": "",
       "message": "想让让蓝灯变得更好？立即参与问卷调查 (ZH)!",
       "thanks": "感谢你参与问卷调查 (ZH)!",
       "button": "参与问卷调查 (ZH)"
