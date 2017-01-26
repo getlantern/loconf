@@ -23,10 +23,10 @@
       "enabled": false,
       "probability": 0.00,
       "campaign": "20160801",
-      "url": "",
-      "message": "想让让蓝灯变得更好？立即参与问卷调查 (ZH)!",
+      "url": "https://www.surveymonkey.com/r/6YZBGQD",
+      "message": "想选择代理服务器的位置吗？ (ZH)!",
       "thanks": "感谢你参与问卷调查 (ZH)!",
-      "button": "参与问卷调查 (ZH)"
+      "button": "请告诉我们 (ZH)"
     },
     "IN": {
       "enabled": false,
