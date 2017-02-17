@@ -21,7 +21,7 @@
     },
     "zh-CN": {
       "enabled": false,
-      "probability": 0.40,
+      "probability": 0.00,
       "campaign": "20160801",
       "url": "",
       "message": "想选择代理服务器的位置吗？ (ZH)!",
@@ -29,13 +29,13 @@
       "button": "请告诉我们 (ZH)"
     },
     "IN": {
-      "enabled": false,
-      "probability": 0,
+      "enabled": true,
+      "probability": 1.00,
       "campaign": "20160801",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdNt-0LJAjw7Ib1a70JYrCc52jXTRZDvfvbWugxsaK8ioH3KQ/viewform",
-      "message": "Help make Lantern better, take this one question survey now!",
-      "thanks": "Thanks for taking our survey!",
-      "button": "Take survey"
+      "url": "https://www.surveymonkey.com/r/JGZ9CD7",
+      "message": "Lantern is hiring an engineer! For more info, and to apply",
+      "thanks": "Thanks for your application!",
+      "button": "Click Here"
     },
     "fa-IR": {
       "enabled": false,
