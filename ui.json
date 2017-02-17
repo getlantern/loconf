@@ -30,7 +30,7 @@
     },
     "IN": {
       "enabled": true,
-      "probability": 1.00,
+      "probability": 1,
       "campaign": "20160801",
       "url": "https://www.surveymonkey.com/r/JGZ9CD7",
       "message": "Lantern is hiring an engineer! For more info, and to apply",
