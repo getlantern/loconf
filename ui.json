@@ -28,7 +28,7 @@
       "thanks": "感谢你参与问卷调查 (ZH)!",
       "button": "请告诉我们 (ZH)"
     },
-    "IN": {
+    "en-IN": {
       "enabled": true,
       "probability": 1.00,
       "campaign": "20170221",
