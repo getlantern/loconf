@@ -31,20 +31,20 @@
     "en-IN": {
       "enabled": true,
       "probability": 1.00,
-      "campaign": "20170221",
+      "campaign": "20170227",
       "url": "https://www.surveymonkey.com/r/JGZ9CD7",
       "message": "Lantern is hiring an engineer in India! For more info, and to apply",
       "thanks": "Thanks for your application!",
       "button": "Click Here"
     },
-    "fa-IR": {
-      "enabled": false,
-      "probability": 0.00,
-      "campaign": "20160801",
-      "url": "",
-      "message": "Help make Lantern better, take this short question survey now (FA)!",
-      "thanks": "Thanks for taking our survey (FA)!",
-      "button": "Take survey (FA)"
+    "en": {
+      "enabled": true,
+      "probability": 1.00,
+      "campaign": "20170227",
+      "url": "https://www.surveymonkey.com/r/JGZ9CD7",
+      "message": "Lantern is hiring an engineer in India! For more info, and to apply",
+      "thanks": "Thanks for your application!",
+      "button": "Click Here""
     }
   }
 }
