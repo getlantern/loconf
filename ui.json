@@ -20,10 +20,10 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": false,
-      "probability": 0.00,
-      "campaign": "20160801",
-      "url": "",
+      "enabled": true,
+      "probability": 0.20,
+      "campaign": "20160228",
+      "url": "https://www.surveymonkey.com/r/9DRKG28",
       "message": "想选择代理服务器的位置吗？ (ZH)!",
       "thanks": "感谢你参与问卷调查 (ZH)!",
       "button": "请告诉我们 (ZH)"
