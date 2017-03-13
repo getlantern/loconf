@@ -29,8 +29,8 @@
       "button": "请告诉我们 (ZH)"
     },
     "en-IN": {
-      "enabled": true,
-      "probability": 1.00,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "201700305",
       "url": "https://www.surveymonkey.com/r/JGZ9CD7",
       "message": "Lantern is hiring an engineer in India! For more info, and to apply",
@@ -38,8 +38,8 @@
       "button": "Click Here"
     },
     "en": {
-      "enabled": true,
-      "probability": 1.00,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "201700305",
       "url": "https://www.surveymonkey.com/r/JGZ9CD7",
       "message": "Lantern is hiring an engineer in India! For more info, and to apply",
