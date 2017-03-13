@@ -11,8 +11,8 @@
       "button": "Take survey"
     },
     "en": {
-      "enabled": true,
-      "probability": 1.00,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "20170227",
       "url": "https://www.surveymonkey.com/r/JGZ9CD7",
       "message": "Lantern is hiring an engineer in India! For more info, and to apply",
@@ -29,8 +29,8 @@
       "button": "请告诉我们 (ZH)"
     },
     "IN": {
-      "enabled": true,
-      "probability": 1.00,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "20170227",
       "url": "https://www.surveymonkey.com/r/JGZ9CD7",
       "message": "Lantern is hiring an engineer in India! For more info, and to apply",
@@ -38,7 +38,7 @@
       "button": "Click Here"
     },
     "en-IN": {
-      "enabled": true,
+      "enabled": false,
       "probability": 1.00,
       "campaign": "20170227",
       "url": "https://www.surveymonkey.com/r/JGZ9CD7",
