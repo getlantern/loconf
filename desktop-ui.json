@@ -2,7 +2,7 @@
   "survey": {
     "default": "en-US",
     "US": {
-      "enabled": false,
+      "enabled": true,
       "probability": 1,
       "campaign": "US20170405",
       "url": "https://www.surveymonkey.com/r/W6YDDSG",
@@ -20,7 +20,7 @@
       "button": "Click Here"
     },
     "zh-CN": {
-      "enabled": false,
+      "enabled": true,
       "probability": 0.20,
       "campaign": "CN20170405",
       "url": " https://www.surveymonkey.com/r/W6CZYJW",
