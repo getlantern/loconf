@@ -3,10 +3,10 @@
     "default": "en-US",
     "US": {
       "enabled": false,
-      "probability": 0,
-      "campaign": "20160801",
-      "url": "https://getlantern.org",
-      "message": "Help make Lantern better, take this one question survey now!",
+      "probability": 1,
+      "campaign": "US20170405",
+      "url": "https://www.surveymonkey.com/r/W6YDDSG",
+      "message": "Are you using lantern from the USA? Take this short survey!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
     },
@@ -22,8 +22,8 @@
     "zh-CN": {
       "enabled": false,
       "probability": 0.20,
-      "campaign": "20160228",
-      "url": "https://www.surveymonkey.com/r/9DRKG28",
+      "campaign": "CN20170405",
+      "url": " https://www.surveymonkey.com/r/W6CZYJW",
       "message": "想选择代理服务器的位置吗？ (ZH)!",
       "thanks": "感谢你参与问卷调查 (ZH)!",
       "button": "请告诉我们 (ZH)"
