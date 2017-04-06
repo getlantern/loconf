@@ -24,9 +24,9 @@
       "probability": 0.20,
       "campaign": "20160228",
       "url": "https://www.surveymonkey.com/r/W6LYMQM",
-      "message": "帮助蓝灯，请参与蓝灯调查 (ZH)!",
-      "thanks": "感谢你参与问卷调查 (ZH)!",
-      "button": "请告诉我们 (ZH)"
+      "message": "帮助蓝灯，请参与蓝灯调查!",
+      "thanks": "感谢你参与问卷调查!",
+      "button": "请告诉我们"
     },
     "en-IN": {
       "enabled": false,
