@@ -20,7 +20,7 @@
       "button": "Click Here"
     },
     "zh-CN": {
-      "enabled": true,
+      "enabled": false,
       "probability": 0.20,
       "campaign": "CN20170405",
       "url": " https://www.surveymonkey.com/r/W6CZYJW",
