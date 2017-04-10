@@ -2,8 +2,8 @@
   "survey": {
     "default": "en-US",
     "US": {
-      "enabled": true,
-      "probability": 1,
+      "enabled": false,
+      "probability": 0,
       "campaign": "US20170405",
       "url": "https://www.surveymonkey.com/r/W6YDDSG",
       "message": "Are you using lantern from the USA? Take this short survey!",
