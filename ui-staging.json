@@ -12,7 +12,6 @@
     }
   },
   "survey": {
-    "default": "en-US",
     "US": {
       "enabled": false,
       "probability": 0,
