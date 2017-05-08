@@ -1,4 +1,14 @@
 {
+  "uninstall-survey": {
+    "en-US": {
+      "enabled": true,
+      "probability": 1.0,
+      "campaign": "US20170509",
+      "url": "https://www.surveymonkey.com/r/HLZ5WBS",
+      "pro": true,
+      "free": true
+    },
+  },
   "survey": {
     "US": {
       "enabled": false,
