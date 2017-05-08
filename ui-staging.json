@@ -12,7 +12,7 @@
     }
   },
   "uninstall-survey": {
-    "en": {
+    "en-US": {
       "enabled": true,
       "probability": 1.00,
       "campaign": "20170227",
