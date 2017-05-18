@@ -1,43 +1,4 @@
 {
-  "uninstall-survey": {
-    "en-US": {
-      "enabled": true,
-      "probability": 1.0,
-      "campaign": "US20170509",
-      "url": "https://www.surveymonkey.com/r/english-opened-uninstall",
-      "pro": false,
-      "free": true
-    }
-  },
-    "uninstall-survey": {
-    "en-US": {
-      "enabled": true,
-      "probability": 1.0,
-      "campaign": "US20170509",
-      "url": "https://www.surveymonkey.com/r/english-pro",
-      "pro": true,
-      "free": false
-    }
-  },
-    "uninstall-survey": {
-    "zh-CN": {
-      "enabled": true,
-      "probability": 1.0,
-      "campaign": "US20170509",
-      "url": "https://www.surveymonkey.com/r/chinese-opened-uninstall",
-      "pro": false,
-      "free": true
-    }  
-  },
-    "uninstall-survey": {
-    "zh-CN": {
-      "enabled": true,
-      "probability": 1.0,
-      "campaign": "US20170509",
-      "url": "https://www.surveymonkey.com/r/chinese-pro",
-      "pro": true,
-      "free": false
-    }
   "survey": {
     "US": {
       "enabled": false,
