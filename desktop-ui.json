@@ -11,7 +11,7 @@
 			"probability": 1.0,
 			"campaign": "US20170509",
 			"url": "https://www.surveymonkey.com/r/chinese-opened-uninstall"
-		},
+		}
 	},
 	"uninstall-survey-pro": {
 		"en-US": {
@@ -25,7 +25,7 @@
 			"probability": 1.0,
 			"campaign": "US20170509",
 			"url": "https://www.surveymonkey.com/r/chinese-pro"
-		},
+		}
 	},
 	"survey": {
 		"US": {
