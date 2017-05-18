@@ -4,13 +4,13 @@
 			"enabled": true,
 			"probability": 1.0,
 			"campaign": "US20170509",
-			"url": "https://www.surveymonkey.com/r/english-opened-uninstall",
+			"url": "https://www.surveymonkey.com/r/english-opened-uninstall"
 		},
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.0,
 			"campaign": "US20170509",
-			"url": "https://www.surveymonkey.com/r/chinese-opened-uninstall",
+			"url": "https://www.surveymonkey.com/r/chinese-opened-uninstall"
 		},
 	},
 	"uninstall-survey-pro": {
@@ -18,13 +18,13 @@
 			"enabled": true,
 			"probability": 1.0,
 			"campaign": "US20170509",
-			"url": "https://www.surveymonkey.com/r/english-pro",
+			"url": "https://www.surveymonkey.com/r/english-pro"
 		},
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.0,
 			"campaign": "US20170509",
-			"url": "https://www.surveymonkey.com/r/chinese-pro",
+			"url": "https://www.surveymonkey.com/r/chinese-pro"
 		},
 	},
 	"survey": {
