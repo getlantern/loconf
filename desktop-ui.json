@@ -1,13 +1,13 @@
  {
 	"uninstall-survey-free": {
 		"en-US": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "US20170509",
 			"url": "https://www.surveymonkey.com/r/english-opened-uninstall"
 		},
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "US20170509",
 			"url": "https://www.surveymonkey.com/r/chinese-opened-uninstall"
@@ -15,13 +15,13 @@
 	},
 	"uninstall-survey-pro": {
 		"en-US": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "US20170509",
 			"url": "https://www.surveymonkey.com/r/english-pro"
 		},
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "US20170509",
 			"url": "https://www.surveymonkey.com/r/chinese-pro"
