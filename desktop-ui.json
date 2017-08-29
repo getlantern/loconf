@@ -47,10 +47,10 @@
 			"button": "Click Here"
 		},
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.20,
-			"campaign": "CN20170405",
-			"url": " https://www.surveymonkey.com/r/W6CZYJW",
+			"enabled": true,
+			"probability": 0.15,
+			"campaign": "20170829",
+			"url": "https://www.surveymonkey.com/r/LDUS1",
 			"message": "帮助蓝灯，请参与蓝灯调查!",
 			"thanks": "感谢你参与问卷调查!",
 			"button": "请告诉我们"
