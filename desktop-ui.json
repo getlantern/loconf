@@ -47,7 +47,7 @@
 			"button": "Click Here"
 		},
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.15,
 			"campaign": "20170922",
 			"url": "https://www.surveymonkey.com/r/DSQMV9S",
