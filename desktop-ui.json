@@ -47,7 +47,7 @@
 			"button": "Click Here"
 		},
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.00,
 			"campaign": "20171011",
 			"url": "https://github.com/getlantern/forum",
