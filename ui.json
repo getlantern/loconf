@@ -20,8 +20,8 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": true,
-      "probability": 1.00,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "20171011",
       "url": "https://github.com/getlantern/forum",
       "message": "蓝灯正在全力修复",
