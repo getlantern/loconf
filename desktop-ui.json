@@ -49,7 +49,7 @@
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.00,
-			"campaign": "20171011",
+			"campaign": "20171107",
 			"url": "https://github.com/getlantern/forum/issues/6657",
 			"message": "蓝灯将补偿专业版用户一个月使用时间",
 			"thanks": "",
