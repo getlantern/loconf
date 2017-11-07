@@ -47,11 +47,11 @@
 			"button": "Click Here"
 		},
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 1.00,
 			"campaign": "20171011",
-			"url": "https://github.com/getlantern/forum",
-			"message": "蓝灯正在全力修复",
+			"url": "https://github.com/getlantern/forum/issues/6657",
+			"message": "蓝灯将补偿专业版用户一个月使用时间",
 			"thanks": "",
 			"button": "点击查看详情"
 		},
