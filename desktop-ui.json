@@ -48,9 +48,9 @@
 		},
 		"zh-CN": {
 			"enabled": false,
-			"probability": 1.00,
-			"campaign": "20171107",
-			"url": "https://github.com/getlantern/forum/issues/6657",
+			"probability": 0.30,
+			"campaign": "20171206",
+			"url": "https://www.surveymonkey.com/r/VFVVQJC",
 			"message": "蓝灯将补偿专业版用户一个月使用时间",
 			"thanks": "",
 			"button": "点击查看详情"
