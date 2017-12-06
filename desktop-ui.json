@@ -47,13 +47,13 @@
 			"button": "Click Here"
 		},
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.30,
+			"enabled": true,
+			"probability": 0.15,
 			"campaign": "20171206",
 			"url": "https://www.surveymonkey.com/r/VFVVQJC",
-			"message": "蓝灯将补偿专业版用户一个月使用时间",
+			"message": "参与调查，帮助蓝灯！",
 			"thanks": "",
-			"button": "点击查看详情"
+			"button": "点击这里"
 		},
 		"IN": {
 			"enabled": false,
