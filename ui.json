@@ -20,7 +20,7 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": false,
+      "enabled": true,
       "probability": 1.00,
       "campaign": "20180313",
       "url": "",
