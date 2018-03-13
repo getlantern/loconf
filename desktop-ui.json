@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"US": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.00,
 			"campaign": "US20170405",
 			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
@@ -47,15 +47,6 @@
 			"button": ""
 		},
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.00,
-			"campaign": "20180313",
-			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
-			"message": "升级到专业版来享受更快更稳定的服务!",
-			"thanks": "",
-			"button": "点击这里"
-		},
-		"zh": {
 			"enabled": true,
 			"probability": 1.00,
 			"campaign": "20180313",
