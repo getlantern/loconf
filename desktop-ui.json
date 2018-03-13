@@ -38,13 +38,13 @@
 			"button": "Take survey"
 		},
 		"en": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 1.00,
 			"campaign": "20170227",
-			"url": "https://www.surveymonkey.com/r/JGZ9CD7",
-			"message": "Lantern is hiring an engineer in India! For more info, and to apply",
-			"thanks": "Thanks for your application!",
-			"button": "Click Here"
+			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
+			"message": "升级到专业版来享受更快更稳定的服务！",
+			"thanks": "",
+			"button": ""
 		},
 		"zh-CN": {
 			"enabled": false,
