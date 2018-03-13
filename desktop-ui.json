@@ -55,6 +55,16 @@
 			"thanks": "",
 			"button": "点击这里"
 		},
+		"zh": {
+			"enabled": true,
+			"probability": 1.00,
+			"campaign": "20180313",
+			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
+			"message": "升级到专业版来享受更快更稳定的服务！",
+			"thanks": "",
+			"button": "点击这里"
+			
+		},
 		"IN": {
 			"enabled": false,
 			"probability": 0.00,
