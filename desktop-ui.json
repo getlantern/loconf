@@ -29,10 +29,10 @@
 	},
 	"survey": {
 		"US": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.00,
 			"campaign": "US20170405",
-			"url": "",
+			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
 			"message": "Upgrade to Pro for fast, stable service!",
 			"thanks": "",
 			"button": "Upgrade!"
