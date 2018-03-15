@@ -23,10 +23,10 @@
       "enabled": true,
       "probability": 1.00,
       "campaign": "20180313",
-      "url": "",
+      "url": "https://www.getlantern.org",
       "message": "点击上方按钮升级到专业版，来享受更快更稳定的服务！",
       "thanks": "",
-      "button": ""
+      "button": "."
     },
     "en-IN": {
       "enabled": false,
