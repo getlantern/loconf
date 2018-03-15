@@ -1,5 +1,5 @@
 {
-   "default":"en-US",
+   "defaultLocale":"en-US",
    "surveys":{
       "US":{
          "enabled":false,
