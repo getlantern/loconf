@@ -30,7 +30,7 @@
 	"survey": {
 		"US": {
 			"enabled": false,
-			"probability": 1.00,
+			"probability": 0.00,
 			"campaign": "US20170405",
 			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
 			"message": "Upgrade to Pro for fast, stable service!",
@@ -39,7 +39,7 @@
 		},
 		"en": {
 			"enabled": false,
-			"probability": 1.00,
+			"probability": 0.00,
 			"campaign": "20170227",
 			"url": "",
 			"message": "",
