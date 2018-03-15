@@ -10,7 +10,7 @@
          "thanks":"Thanks for taking our survey!",
          "button":"Take survey"
       },
-      "en-US":{
+      "en_US":{
          "enabled":false,
          "probability":0.00,
          "isPro": false,
