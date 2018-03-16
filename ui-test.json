@@ -13,7 +13,7 @@
       "en_US":{
          "enabled":true,
          "probability":1.00,
-         "isPro": false,
+         "userType": "free",
          "showPlansScreen": true,
          "campaign":"20160801",
          "url":"",
