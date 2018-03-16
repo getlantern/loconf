@@ -11,7 +11,7 @@
          "button":"Take survey"
       },
       "en_US":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.00,
          "isPro": false,
          "showPlansScreen": true,
