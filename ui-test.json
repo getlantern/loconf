@@ -21,6 +21,17 @@
          "thanks":"",
          "button":"Upgrade Now"
       },
+      "en_GB":{
+         "enabled":true,
+         "probability":1.00,
+         "userType": "free",
+         "showPlansScreen": true,
+         "campaign":"20160801",
+         "url":"",
+         "message":"Try Lantern Pro now for faster, reliable service!",
+         "thanks":"",
+         "button":"Upgrade Now"
+      },
       "zh-CN":{
          "enabled":true,
          "probability":1.00,
