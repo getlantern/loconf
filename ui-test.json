@@ -32,7 +32,7 @@
          "thanks":"",
          "button":"Upgrade Now"
       },
-      "zh-CN":{
+      "zh_CN":{
          "enabled":true,
          "probability":1.00,
          "campaign":"20180313",
@@ -41,7 +41,7 @@
          "thanks":"",
          "button":"."
       },
-      "en-IN":{
+      "en_IN":{
          "enabled":false,
          "probability":0.00,
          "campaign":"201700305",
