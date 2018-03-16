@@ -17,9 +17,9 @@
          "showPlansScreen": true,
          "campaign":"20160801",
          "url":"",
-         "message":"Help make Lantern better, take this quick survey now!",
-         "thanks":"Thanks for taking our survey!",
-         "button":"Upgrade Now"
+         "message":"Experiencing blocking? Try Lantern Pro now for faster, reliable service!",
+         "thanks":"",
+         "button":"Upgrade to Lantern Pro"
       },
       "zh-CN":{
          "enabled":true,
