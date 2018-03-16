@@ -17,9 +17,9 @@
          "showPlansScreen": true,
          "campaign":"20160801",
          "url":"",
-         "message":"Experiencing blocking? Try Lantern Pro now for faster, reliable service!",
+         "message":"Try Lantern Pro now for faster, reliable service!",
          "thanks":"",
-         "button":"Upgrade to Lantern Pro"
+         "button":"Upgrade Now"
       },
       "zh-CN":{
          "enabled":true,
