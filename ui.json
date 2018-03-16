@@ -20,8 +20,8 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": true,
-      "probability": 1.00,
+      "enabled": false,
+      "probability": 0.00,
       "campaign": "20180313",
       "url": "https://www.getlantern.org",
       "message": "点击上方按钮升级到专业版，来享受更快更稳定的服务！",
