@@ -11,7 +11,7 @@
          "button":"Take survey"
       },
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "free",
          "showPlansScreen": true,
@@ -22,7 +22,7 @@
          "button":"Upgrade Now"
       },
       "en_GB":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "free",
          "showPlansScreen": true,
@@ -33,7 +33,7 @@
          "button":"Upgrade Now"
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20180313",
          "url":"https://www.getlantern.org",
