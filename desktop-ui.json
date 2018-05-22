@@ -7,7 +7,7 @@
 			"url": "https://www.surveymonkey.com/r/english-opened-uninstall"
 		},
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "US20180427",
 			"url": "https://www.surveymonkey.com/r/chinese-free-427"
