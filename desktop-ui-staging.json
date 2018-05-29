@@ -38,11 +38,11 @@
 			"button": "Upgrade!"
 		},
 		"en": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.00,
 			"campaign": "20170227",
-			"url": "",
-			"message": "",
+			"url": "https://www.google.com",
+			"message": "Check out the beta group!",
 			"thanks": "",
 			"button": ""
 		},
