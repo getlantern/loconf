@@ -39,7 +39,7 @@
 		},
 		"en": {
 			"enabled": true,
-			"probability": 0.00,
+			"probability": 1.0,
 			"campaign": "20170227",
 			"url": "https://www.google.com",
 			"message": "Check out the beta group!",
