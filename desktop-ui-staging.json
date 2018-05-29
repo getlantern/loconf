@@ -29,13 +29,13 @@
 	},
 	"survey": {
 		"US": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 1.0,
 			"campaign": "US20170405",
 			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
-			"message": "Upgrade to Pro for fast, stable service!",
+			"message": "Check out the beta group",
 			"thanks": "",
-			"button": "Upgrade!"
+			"button": "Go Beta!"
 		},
 		"en": {
 			"enabled": true,
