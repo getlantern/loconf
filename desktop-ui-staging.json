@@ -35,7 +35,7 @@
 			"url": "https://www.google.com",
 			"message": "Check out the beta group for US-en!!!",
 			"thanks": "",
-			"button": "Go Beta!",
+			"button": "Go Beta!"
 		},
 		"US": {
 			"enabled": false,
@@ -44,7 +44,7 @@
 			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
 			"message": "Check out the beta group",
 			"thanks": "",
-			"button": "Go Beta!",
+			"button": "Go Beta!"
 		},
 		"en": {
 			"enabled": false,
