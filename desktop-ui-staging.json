@@ -35,7 +35,8 @@
 			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
 			"message": "Check out the beta group",
 			"thanks": "",
-			"button": "Go Beta!"
+			"button": "Go Beta!",
+			"issue": "issue.type.no_access"
 		},
 		"en": {
 			"enabled": true,
