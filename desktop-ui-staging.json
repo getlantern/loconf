@@ -28,7 +28,7 @@
 		}
 	},
 	"survey": {
-		"issue.type.no_access-en-US": {
+		"Cannot access blocked sites-en-US": {
 			"enabled": true,
 			"probability": 1.0,
 			"campaign": "890318",
