@@ -28,15 +28,14 @@
 		}
 	},
 	"survey": {
-		"US-en": {
+		"issue.type.no_access-en-US": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20170405",
-			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
+			"campaign": "890318",
+			"url": "https://www.google.com",
 			"message": "Check out the beta group for US-en!!!",
 			"thanks": "",
 			"button": "Go Beta!",
-			"issue": "issue.type.no_access"
 		},
 		"US": {
 			"enabled": false,
@@ -46,7 +45,6 @@
 			"message": "Check out the beta group",
 			"thanks": "",
 			"button": "Go Beta!",
-			"issue": "issue.type.no_access"
 		},
 		"en": {
 			"enabled": false,
