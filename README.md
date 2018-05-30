@@ -11,15 +11,15 @@ https://github.com/getlantern/lantern-desktop-ui/blob/master/locale/fa_IR.json#L
 So, for example, a key for a message for users reporting being blocked running in english in the US would be:
 
 ```json
-	"survey": {
-		"Cannot access blocked sites-en-US": {
-			"enabled": true,
-			"probability": 1.0,
-			"campaign": "890318",
-			"url": "https://www.google.com",
-			"message": "Check out the beta group for US-en!!!",
-			"thanks": "",
-			"button": "Go Beta!"
-		},
-  }
+"survey": {
+  "Cannot access blocked sites-en-US": {
+    "enabled": true,
+    "probability": 1.0,
+    "campaign": "890318",
+    "url": "https://www.google.com",
+    "message": "Check out the beta group for US-en!!!",
+    "thanks": "",
+    "button": "Go Beta!"
+  },
+}
 ```
