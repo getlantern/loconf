@@ -23,3 +23,19 @@ So, for example, a key for a message for users reporting being blocked running i
   },
 }
 ```
+
+Desktop also support the special "ANY" flag indicating all users reporting any issue at all, as in:
+
+```json
+"survey": {
+  "ANY-en-US": {
+    "enabled": true,
+    "probability": 1.0,
+    "campaign": "890318",
+    "url": "https://www.google.com",
+    "message": "Check out the beta group for US-en!!!",
+    "thanks": "",
+    "button": "Go Beta!"
+  },
+}
+```
