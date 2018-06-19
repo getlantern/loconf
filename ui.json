@@ -21,12 +21,12 @@
     },
     "zh-CN": {
       "enabled": false,
-      "probability": 0.00,
-      "campaign": "20180313",
-      "url": "https://www.getlantern.org",
-      "message": "点击上方按钮升级到专业版，来享受更快更稳定的服务！",
+      "probability": 0.15,
+      "campaign": "20180619",
+      "url": "https://www.surveymonkey.com/r/junemobilelantern",
+      "message": "你对蓝灯满意吗",
       "thanks": "",
-      "button": "."
+      "button": "请参与蓝灯满意度调查"
     },
     "en-IN": {
       "enabled": false,
