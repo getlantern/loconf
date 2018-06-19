@@ -48,12 +48,12 @@
 		},
 		"zh-CN": {
 			"enabled": false,
-			"probability": 0.00,
-			"campaign": "20180313",
-			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
-			"message": "升级到专业版来享受更快更稳定的服务!",
+			"probability": 0.15,
+			"campaign": "20180619",
+			"url": "https://www.surveymonkey.com/r/junedesktoplantern",
+			"message": "你对蓝灯满意吗?",
 			"thanks": "",
-			"button": "点击这里"
+			"button": "请参与蓝灯满意度调查"
 			
 		},
 		"IN": {
