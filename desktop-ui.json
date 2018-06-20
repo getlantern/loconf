@@ -21,7 +21,7 @@
 			"url": "https://www.surveymonkey.com/r/english-pro"
 		},
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "US20180427",
 			"url": "https://www.surveymonkey.com/r/chinese-pro-427"
@@ -47,8 +47,8 @@
 			"button": ""
 		},
 		"zh-CN": {
-			"enabled": true,
-			"probability": 0.15,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "20180619",
 			"url": "https://www.surveymonkey.com/r/junedesktoplantern",
 			"message": "你对蓝灯满意吗?",
