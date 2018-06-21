@@ -20,7 +20,7 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": true,
+      "enabled": false,
       "probability": 0.20,
       "campaign": "20180619",
       "url": "https://www.surveymonkey.com/r/junemobilelantern",
