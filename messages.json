@@ -1,5 +1,13 @@
 {
    "defaultLocale":"en-US",
+   "ads":{
+      "en_US": {
+         "enabled": true   
+      },
+      "zh_CN": {
+         "enabled": true   
+      },
+   },
    "surveys":{
       "US":{
          "enabled":false,
