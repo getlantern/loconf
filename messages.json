@@ -1,11 +1,11 @@
 {
    "defaultLocale":"en-US",
    "ads":{
-      "en_US": {
-         "enabled": true   
+      "en_US":{
+         "enabled":true   
       },
-      "zh_CN": {
-         "enabled": true   
+      "zh_CN":{
+         "enabled":true   
       },
    },
    "surveys":{
