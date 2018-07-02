@@ -2,12 +2,12 @@
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "text": "隐币-无封锁的加密货币即将到来。\n点击此处了解如何免费获得。",
          "url": "https://staging.yin.bi"
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "text": "隐币-无封锁的加密货币即将到来。\n点击此处了解如何免费获得。",
          "url": "https://staging.yin.bi"
       }
