@@ -4,12 +4,18 @@
       "en_US":{
          "enabled":false,
          "text": "隐币-无封锁的加密货币即将到来。\n点击此处了解如何免费获得。",
-         "url": "https://staging.yin.bi"
+         "url": "https://staging.yin.bi",
+         "display_frequency_seconds": 604800,
+         "presale_start_date": "2018-10-01",
+         "presale_end_date": "2018-10-08"
       },
       "zh_CN":{
          "enabled":false,
          "text": "隐币-无封锁的加密货币即将到来。\n点击此处了解如何免费获得。",
-         "url": "https://staging.yin.bi"
+         "url": "https://staging.yin.bi",
+         "display_frequency_seconds": 604800,
+         "presale_start_date": "2018-10-01",
+         "presale_end_date": "2018-10-08"
       }
    },
    "surveys":{
