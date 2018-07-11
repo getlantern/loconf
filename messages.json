@@ -4,11 +4,13 @@
       "en_US":{
          "enabled":false,
          "text": "隐币-无封锁的加密货币即将到来。\n点击此处了解如何免费获得。",
+         "link_text": "访问网站",
          "url": "https://staging.yin.bi"
       },
       "zh_CN":{
          "enabled":false,
          "text": "隐币-无封锁的加密货币即将到来。\n点击此处了解如何免费获得。",
+         "link_text": "访问网站",
          "url": "https://staging.yin.bi"
       }
    },
