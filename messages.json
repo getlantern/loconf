@@ -2,7 +2,7 @@
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled": false,
+         "enabled": true,
          "text": "在18年8月8日，我们正式宣布隐币-无封锁的加密货币即将到来。",
          "link_text": "了解更多",
          "url": "https://yin.bi"
