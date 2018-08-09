@@ -28,6 +28,15 @@
 		}
 	},
 	"survey": {
+		"en-CN": {
+			"enabled": false,
+			"probability": 0.00,
+			"campaign": "beta-4.7.14",
+			"url": "https://t.me/joinchat/BxT4KUg7B5HATgrFP22VXg",
+			"message": "Please join the Lantern beta group to test the latest features!",
+			"thanks": "",
+			"button": "Join Now!"
+		},
 		"US": {
 			"enabled": false,
 			"probability": 0.00,
