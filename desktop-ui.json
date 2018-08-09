@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"en-CN": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 1.0,
 			"campaign": "beta-4.7.14",
 			"url": "https://t.me/joinchat/BxT4KUg7B5HATgrFP22VXg",
 			"message": "Please join the Lantern beta group to test the latest features!",
