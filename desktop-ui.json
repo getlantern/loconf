@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"en-CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "beta-4.7.14",
 			"url": "https://t.me/joinchat/BxT4KUg7B5HATgrFP22VXg",
 			"message": "Please join the Lantern beta group to test the latest features!",
@@ -63,7 +63,7 @@
 			"message": "你对蓝灯满意吗?",
 			"thanks": "",
 			"button": "请参与蓝灯满意度调查"
-			
+
 		},
 		"IN": {
 			"enabled": false,
