@@ -20,13 +20,13 @@
       "button": "Take survey"
     },
     "zh-CN": {
-      "enabled": false,
-      "probability": 0.20,
-      "campaign": "20180619",
-      "url": "https://www.surveymonkey.com/r/junemobilelantern",
-      "message": "你对蓝灯满意吗?",
+      "enabled": true,
+      "probability": 1.00,
+      "campaign": "20180821",
+      "url": "https://yin.bi/?utm_source=lantern&utm_medium=snackbar&utm_campaign=snackbar_ad",
+      "message": "无封锁的加密货币即将到来。",
       "thanks": "",
-      "button": "请参与蓝灯满意度调查"
+      "button": "了解隐币"
     },
     "en-IN": {
       "enabled": false,
