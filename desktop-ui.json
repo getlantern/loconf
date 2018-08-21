@@ -56,19 +56,19 @@
 			"button": ""
 		},
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 1.00,
 			"campaign": "20180619",
-			"url": "https://www.surveymonkey.com/r/junedesktoplantern",
-			"message": "你对蓝灯满意吗?",
+			"url": "https://yin.bi/?utm_source=lantern&utm_medium=snackbar&utm_campaign=snackbar_ad",
+			"message": "无封锁的加密货币即将到来。",
 			"thanks": "",
-			"button": "请参与蓝灯满意度调查"
+			"button": "了解隐币"
 
 		},
 		"IN": {
 			"enabled": false,
 			"probability": 0.00,
-			"campaign": "20170227",
+			"campaign": "20180821",
 			"url": "https://www.surveymonkey.com/r/JGZ9CD7",
 			"message": "Lantern is hiring an engineer in India! For more info, and to apply",
 			"thanks": "Thanks for your application!",
