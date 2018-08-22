@@ -148,7 +148,7 @@
          "button":"Upgrade Now"
       },
       "en-GB":{
-         "enabled":False,
+         "enabled":false,
          "probability":0.00,
          "userType": "free",
          "showPlansScreen": false,
