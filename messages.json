@@ -161,7 +161,7 @@
       "zh_CN":{
          "enabled":true,
          "probability":1.00,
-         "userType": "free",
+         "userType": "",
          "showPlansScreen": false,
          "campaign":"20180822",
          "url":"https://yin.bi/?utm_source=lantern%20mobile&utm_medium=snackbar_mobile&utm_campaign=snackbar_ad_mobile",
