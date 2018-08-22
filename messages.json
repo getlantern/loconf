@@ -147,25 +147,27 @@
          "thanks":" ",
          "button":"Upgrade Now"
       },
-      "en_GB":{
-         "enabled":false,
+      "zh_CN":{
+         "enabled":true,
          "probability":1.00,
          "userType": "free",
-         "showPlansScreen": true,
-         "campaign":"20160801",
-         "url":"",
-         "message":"Try Lantern Pro now for faster, reliable service!",
+         "showPlansScreen": false,
+         "campaign":"20180822",
+         "url":"https://yin.bi/?utm_source=lantern%20mobile&utm_medium=snackbar_mobile&utm_campaign=snackbar_ad_mobile",
+         "message":"无封锁的加密货币即将到来。",
          "thanks":"",
-         "button":"Upgrade Now"
+         "button":"了解隐币"
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
-         "campaign":"20180313",
-         "url":"https://www.getlantern.org",
-         "message":"点击上方按钮升级到专业版，来享受更快更稳定的服务！",
+         "userType": "pro",
+         "showPlansScreen": false,
+         "campaign":"20180822",
+         "url":"https://yin.bi/?utm_source=lantern%20mobile&utm_medium=snackbar_mobile&utm_campaign=snackbar_ad_mobile",
+         "message":"无封锁的加密货币即将到来。",
          "thanks":"",
-         "button":"."
+         "button":"了解隐币"
       },
       "en_IN":{
          "enabled":false,
