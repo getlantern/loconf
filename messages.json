@@ -147,21 +147,21 @@
          "thanks":" ",
          "button":"Upgrade Now"
       },
-      "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+      "en-GB":{
+         "enabled":False,
+         "probability":0.00,
          "userType": "free",
          "showPlansScreen": false,
          "campaign":"20180822",
-         "url":"https://yin.bi/?utm_source=lantern%20mobile&utm_medium=snackbar_mobile&utm_campaign=snackbar_ad_mobile",
-         "message":"无封锁的加密货币即将到来。",
+         "url":"",
+         "message":"",
          "thanks":"",
-         "button":"了解隐币"
+         "button":""
       },
       "zh_CN":{
          "enabled":true,
          "probability":1.00,
-         "userType": "pro",
+         "userType": "free",
          "showPlansScreen": false,
          "campaign":"20180822",
          "url":"https://yin.bi/?utm_source=lantern%20mobile&utm_medium=snackbar_mobile&utm_campaign=snackbar_ad_mobile",
