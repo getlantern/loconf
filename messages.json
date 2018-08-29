@@ -97,6 +97,11 @@
        "en-US": {
          "enabled": true,
          "resellerLinkText": "Purchase bulk pro accounts, get bulk Yinbi!",
+         "purchaseButtonText": "Purchase",
+         "planDescriptions": {
+           "1-year": "1 Year + Free Yinbi: <strong>$32 (USD)</strong>",
+           "2-year": "2 Years + 2x Free Yinbi: <strong>$48 (USD)</strong>"
+         },
          "details": [
            "Faster Speed",
            "Blocking Resistant",
@@ -110,6 +115,11 @@
        "en_US": {
          "enabled": false,
          "resellerLinkText": "Purchase bulk pro accounts, get bulk Yinbi!",
+         "purchaseButtonText": "Purchase",
+         "planDescriptions": {
+           "1-year": "1 Year + Free Yinbi: <strong>$32 (USD)</strong>",
+           "2-year": "2 Years + 2x Free Yinbi: <strong>$48 (USD)</strong>"
+         },
          "details": [
            "Faster Speed",
            "Blocking Resistant",
@@ -123,6 +133,11 @@
        "zh_CN": {
          "enabled": false,
          "resellerLinkText": "批量购买专业版账号，批量获得隐币",
+         "purchaseButtonText": "购买",
+         "planDescriptions": {
+           "1-year": "买一年  附送隐币: <strong>32 (USD)</strong>",
+           "2-year": "买两年 双倍隐币: <strong>48 (USD)</strong>"
+         },
          "details": [
            "速度更快",
            "更抗封锁",
@@ -136,6 +151,11 @@
        "zh": {
          "enabled": false,
          "resellerLinkText": "批量购买专业版账号，批量获得隐币",
+         "purchaseButtonText": "购买",
+         "planDescriptions": {
+           "1-year": "买一年  附送隐币: <strong>32 (USD)</strong>",
+           "2-year": "买两年 双倍隐币: <strong>48 (USD)</strong>"
+         },
          "details": [
            "速度更快",
            "更抗封锁",
