@@ -29,11 +29,11 @@
 	},
 	"survey": {
 		"en-CN": {
-			"enabled": false,
-			"probability": 0.00,
-			"campaign": "beta-4.8.1",
+			"enabled": true,
+			"probability": 1.00,
+			"campaign": "beta-4.8.2",
 			"url": "https://t.me/joinchat/BxT4KUg7B5HATgrFP22VXg",
-			"message": "Lantern 4.8.1 is available in our Telegram beta group.",
+			"message": "Lantern 4.8.2 is available in our Telegram beta group.",
 			"thanks": "",
 			"button": "Join Now!"
 		},
