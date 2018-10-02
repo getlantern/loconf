@@ -223,7 +223,7 @@
          "enabled":true,
          "probability":1.00,
          "userType": "free",
-         "showPlansScreen": true,
+         "showPlansScreen": false,
          "campaign":"20160801",
          "url":"https://www.youtube.com/watch?v=Gru4IfbKlfU",
          "message":"Here's a test video",
