@@ -2,7 +2,7 @@
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled": false,
+         "enabled": true,
          "text": "Here's a test video",
          "link_text": "Watch now",
          "url": "https://www.youtube.com/watch?v=Gru4IfbKlfU"
@@ -26,7 +26,7 @@
          "url": "https://yin.bi"
       },
       "US":{
-         "enabled": false,
+         "enabled": true,
          "text": "Here's a test video",
          "link_text": "Watch now",
          "url": "https://www.youtube.com/watch?v=Gru4IfbKlfU"
@@ -220,7 +220,7 @@
          "button":"Take survey"
       },
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "free",
          "showPlansScreen": false,
