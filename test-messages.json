@@ -67,7 +67,7 @@
    "popUpAds":{
      "en_US":{
         "enabled":true,
-        "url": https://www.youtube.com/watch?v=Gru4IfbKlfU",
+        "url": "https://www.youtube.com/watch?v=Gru4IfbKlfU",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
