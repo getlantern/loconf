@@ -108,7 +108,7 @@
    "yinbiPlans": {
      "web": {
        "en-US": {
-         "enabled": true,
+         "enabled": false,
          "resellerLinkText": "Purchase bulk pro accounts, get bulk Yinbi!",
          "purchaseButtonText": "Purchase",
          "planDescriptions": {
