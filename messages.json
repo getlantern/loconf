@@ -68,6 +68,7 @@
      "en-US":{
         "enabled":false,
         "url": "https://staging.yin.bi",
+        "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
@@ -81,6 +82,7 @@
      "en_US":{
         "enabled":false,
         "url": "https://staging.yin.bi",
+        "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
@@ -94,6 +96,7 @@
      "zh_CN":{
         "enabled":false,
         "url": "https://staging.yin.bi",
+        "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
@@ -107,6 +110,7 @@
      "zh":{
         "enabled":false,
         "url": "https://staging.yin.bi",
+        "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
