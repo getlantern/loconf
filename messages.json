@@ -90,6 +90,19 @@
         "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
         "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
         "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>"
+     },
+     "zh":{
+        "enabled":false,
+        "url": "https://staging.yin.bi",
+        "display_frequency_seconds": 86400,
+        "content.desktop.header": "Special Offer!",
+        "content.desktop.subheader": "Cryptocurrency Giveaway!",
+        "content.desktop.button.free": "Buy Lantern Pro Get Yinbi",
+        "content.desktop.button.pro": "Renew Now Get Yinbi",
+        "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nWhat is Yinbi?",
+        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
+        "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
+        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>"
      }
    },
    "yinbiPlans": {
