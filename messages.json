@@ -148,7 +148,7 @@
              "Free Months",
              "Limited time offer, Act now!"
            ],
-           "note": "Your newly purchased plan time will be added to your current plan time"
+           "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
          }
        },
        "en_US": {
@@ -175,7 +175,7 @@
              "Free Months",
              "Limited time offer, Act now!"
            ],
-           "note": "Your newly purchased plan time will be added to your current plan time"
+           "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
          }
        },
        "zh_CN": {
@@ -202,7 +202,7 @@
              "Free Months",
              "Limited time offer, Act now!"
            ],
-           "note": "Your newly purchased plan time will be added to your current plan time"
+           "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
          }
        },
        "zh": {
@@ -229,7 +229,7 @@
              "Free Months",
              "Limited time offer, Act now!"
            ],
-           "note": "Your newly purchased plan time will be added to your current plan time"
+           "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
          }
        }
      },
