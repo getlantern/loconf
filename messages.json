@@ -159,6 +159,17 @@
              "Limited time offer, Act now!"
            ],
            "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
+         },
+         "welcomeScreen": {
+           "menu_button_text": "Yinbi Menu",
+           "purchase": {
+             "title": "Welcome to Lantern Pro!",
+             "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
+           },
+           "renewal": {
+             "title": "Renewal Success!",
+             "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
+           }
          }
        },
        "en_US": {
@@ -190,6 +201,17 @@
              "Limited time offer, Act now!"
            ],
            "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
+         },
+         "welcomeScreen": {
+           "menu_button_text": "Yinbi Menu",
+           "purchase": {
+             "title": "Welcome to Lantern Pro!",
+             "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
+           },
+           "renewal": {
+             "title": "Renewal Success!",
+             "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
+           }
          }
        },
        "zh_CN": {
@@ -221,75 +243,16 @@
              "Limited time offer, Act now!"
            ],
            "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
-         }
-       },
-       "yinbiWelcomeScreen": {
-         "web": {
-           "en-US": {
-             "menu_button_text": "Yinbi Menu",
-             "purchase": {
-               "title": "Welcome to Lantern Pro!",
-               "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             },
-             "renewal": {
-               "title": "Renewal Success!",
-               "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             }
+         },
+         "welcomeScreen": {
+           "menu_button_text": "Yinbi Menu",
+           "purchase": {
+             "title": "Welcome to Lantern Pro!",
+             "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
            },
-           "en_US": {
-             "menu_button_text": "Yinbi Menu",
-             "purchase": {
-               "title": "Welcome to Lantern Pro!",
-               "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             },
-             "renewal": {
-               "title": "Renewal Success!",
-               "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             }
-           },
-           "zh": {
-             "menu_button_text": "Yinbi Menu",
-             "purchase": {
-               "title": "Welcome to Lantern Pro!",
-               "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             },
-             "renewal": {
-               "title": "Renewal Success!",
-               "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             }
-           },
-           "zh_CN": {
-             "menu_button_text": "Yinbi Menu",
-             "purchase": {
-               "title": "Welcome to Lantern Pro!",
-               "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             },
-             "renewal": {
-               "title": "Renewal Success!",
-               "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             }
-           },
-           "CN": {
-             "menu_button_text": "Yinbi Menu",
-             "purchase": {
-               "title": "Welcome to Lantern Pro!",
-               "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             },
-             "renewal": {
-               "title": "Renewal Success!",
-               "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             }
-           },
-           "US": {
-             "menu_button_text": "Yinbi Menu",
-             "purchase": {
-               "title": "Welcome to Lantern Pro!",
-               "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             },
-             "renewal": {
-               "title": "Renewal Success!",
-               "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
-             }
+           "renewal": {
+             "title": "Renewal Success!",
+             "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
            }
          }
        },
@@ -322,6 +285,17 @@
              "Limited time offer, Act now!"
            ],
            "note": "NOTE: Your newly purchased plan time will be added to your current plan time"
+         },
+         "welcomeScreen": {
+           "menu_button_text": "Yinbi Menu",
+           "purchase": {
+             "title": "Welcome to Lantern Pro!",
+             "body": "Thank you for purchasing Lantern Pro!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
+           },
+           "renewal": {
+             "title": "Renewal Success!",
+             "body": "Thank you for renewing your Lantern Pro account!<br/>You will receive free Yinbi (YNB) for your purchase when today’s giveaway ends. Check out the Yinbi menu for more details."
+           }
          }
        }
      },
