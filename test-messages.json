@@ -89,7 +89,7 @@
      "zh_CN":{
         "enabled":false,
         "url": "https://staging.yin.bi",
-        "display_frequency_seconds": 86400,
+        "display_frequency_seconds": 360,
         "content.desktop.header": "Special Offer!",
         "content.desktop.subheader": "Cryptocurrency Giveaway!",
         "content.desktop.button.free": "Buy Lantern Pro Get Yinbi",
