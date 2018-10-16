@@ -2,7 +2,7 @@
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled": true,
+         "enabled": false,
          "text": "Here's a test video",
          "link_text": "Watch now",
          "url": "https://www.youtube.com/watch?v=Gru4IfbKlfU"
