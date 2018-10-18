@@ -128,6 +128,112 @@
         "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>"
      }
    },
+   "homescreen": {
+     "en-US": {
+       "web": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       },
+       "mobile": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       }
+     },
+     "en_US": {
+       "web": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       },
+       "mobile": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       }
+     },
+     "zh_CN": {
+       "web": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       },
+       "mobile": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       }
+     },
+     "zh": {
+       "web": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       },
+       "mobile": {
+         "purchase.title": "Lantern Pro",
+         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
+         "purchase.button_text": "Upgrade Now",
+         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "renew.title": "Renew Today",
+         "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
+         "renew.button_text": "Renew Now",
+         "renew.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
+         "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
+       }
+     }
+   },
    "surveys":{
       "US":{
          "enabled":false,
