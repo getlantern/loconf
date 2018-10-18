@@ -288,11 +288,11 @@
          "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
        },
        "zh_CN": {
-         "purchase.title": "Lantern Pro",
-         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
-         "purchase.button_text": "Upgrade Now",
-         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
+         "purchase.button_text": "立即升级开抢免费隐币",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
@@ -300,11 +300,11 @@
          "renew.reseller_link_text": "Renew using your Pro activation code(s) to grab free Yinbi"
        },
        "zh": {
-         "purchase.title": "Lantern Pro",
-         "purchase.subtitle": "Faster. Stronger.  Unlimited.  Free Yinbi Cryptocurrency.",
-         "purchase.button_text": "Upgrade Now",
-         "purchase.reseller_prompt": "Purchased Lantern Pro activation code(s) online?",
-         "purchase.reseller_link_text": "Upgrade using your Pro activation code(s) to grab free Yinbi",
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
+         "purchase.button_text": "立即升级开抢免费隐币",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
          "renew.title": "Renew Today",
          "renew.subtitle": "Receive free Yinbi Cryptocurrency!",
          "renew.button_text": "Renew Now",
