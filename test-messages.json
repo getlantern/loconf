@@ -369,24 +369,24 @@
    },
    "surveys":{
       "US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "campaign":"20160801",
-         "url":"https://www.surveymonkey.com/r/WPZG9JZ",
-         "message":"Are you using lantern from the USA? Take this short survey!",
+         "url":"https://www.youtube.com/watch?v=Gru4IfbKlfU",
+         "message":"ویدئو ویروسی هفته. برای خال کوبی Maeeh Hojabri نگاهی بیندازید.",
          "thanks":"Thanks for taking our survey!",
-         "button":"Take survey"
+         "button":"الان ببین"
       },
       "en_US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "userType": "free",
          "showPlansScreen": false,
          "campaign":"20160801",
          "url":"https://www.youtube.com/watch?v=Gru4IfbKlfU",
-         "message":"Viral Video of the Week",
+         "message":"ویدئو ویروسی هفته. برای خال کوبی Maeeh Hojabri نگاهی بیندازید.",
          "thanks":" ",
-         "button":"Watch Now"
+         "button":"الان ببین"
       },
       "en-GB":{
          "enabled":false,
