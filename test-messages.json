@@ -370,7 +370,7 @@
    },
    "surveys":{
       "US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20160801",
          "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
@@ -384,21 +384,21 @@
          "userType": "free",
          "showPlansScreen": false,
          "campaign":"20160801",
-         "url":"https://www.youtube.com/watch?v=Gru4IfbKlfU",
-         "message":"ویدئو ویروسی هفته. برای خال کوبی Maeeh Hojabri نگاهی بیندازید.",
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
          "thanks":" ",
-         "button":"الان ببین"
+         "button":"تماشا کنید"
       },
-      "en-GB":{
-         "enabled":false,
-         "probability":0.00,
+      "en_GB":{
+         "enabled":true,
+         "probability":1.00,
          "userType": "free",
          "showPlansScreen": false,
-         "campaign":"20180822",
-         "url":"",
-         "message":"",
-         "thanks":"",
-         "button":""
+         "campaign":"20160801",
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
+         "thanks":" ",
+         "button":"تماشا کنید"
       },
       "zh_CN":{
          "enabled":true,
