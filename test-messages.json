@@ -66,7 +66,7 @@
    },
    "popUpAds":{
      "en-US":{
-        "enabled":true,
+        "enabled":false,
         "url": "https://yin.bi",
         "button_url":"https://yin.bi",
         "display_frequency_seconds": 60,
@@ -91,7 +91,7 @@
         "content.mobile.secondary_screen.pro": "Yinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!"
      },
      "en_US":{
-        "enabled":true,
+        "enabled":false,
         "url": "https://yin.bi",
         "button_url":"https://yin.bi",
         "display_frequency_seconds": 60,
@@ -373,10 +373,10 @@
          "enabled":true,
          "probability":1.00,
          "campaign":"20160801",
-         "url":"https://www.youtube.com/watch?v=Gru4IfbKlfU",
-         "message":"ویدئو ویروسی هفته. برای خال کوبی Maeeh Hojabri نگاهی بیندازید.",
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
          "thanks":"Thanks for taking our survey!",
-         "button":"الان ببین"
+         "button":"تماشا کنید"
       },
       "en_US":{
          "enabled":true,
