@@ -249,6 +249,15 @@
          "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
+      "fa_IR":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
+         "thanks":"با تشکر",
+         "button":"تماشا کنید"
+      },
       "en_US":{
          "enabled":false,
          "probability":1.00,
