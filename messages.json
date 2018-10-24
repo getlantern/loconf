@@ -232,13 +232,13 @@
    },
    "surveys":{
       "US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
-         "campaign":"20160801",
-         "url":"https://www.surveymonkey.com/r/WPZG9JZ",
-         "message":"Are you using lantern from the USA? Take this short survey!",
-         "thanks":"Thanks for taking our survey!",
-         "button":"Take survey"
+         "showPlansScreen": false,
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
+         "thanks":"با تشکر",
+         "button":"تماشا کنید"
       },
       "IR":{
          "enabled":true,
