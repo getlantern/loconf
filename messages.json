@@ -265,7 +265,7 @@
    },
    "surveys":{
       "US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
@@ -292,7 +292,7 @@
          "button":"تماشا کنید"
       },
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "userType": "free",
          "probability":1.00,
          "showPlansScreen": false,
