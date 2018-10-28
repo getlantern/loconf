@@ -119,7 +119,7 @@
         "enabled":false,
         "url": "https://yin.bi",
         "button_url":"https://yin.bi",
-        "display_frequency_seconds": 86400,
+        "display_frequency_seconds": 259200,
         "content.desktop.header": "特别优惠",
         "content.desktop.subheader": "加密货币隐币免费赠送",
         "content.desktop.button.free": "Yin.bi",
