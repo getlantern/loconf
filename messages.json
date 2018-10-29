@@ -116,7 +116,7 @@
         "content.mobile.secondary_screen.pro": "隐币(YNB)即将发布，是无封锁的加密货币。隐币无外汇限制，瞬时安全跨国转账，低手续费。蓝灯用户能在第一时间获得这种加密货币。"
      },
      "zh_CN":{
-        "enabled":false,
+        "enabled":true,
         "url": "https://yin.bi",
         "button_url":"https://yin.bi",
         "display_frequency_seconds": 259200,
@@ -146,7 +146,7 @@
         "content.mobile.secondary_screen.pro": "隐币(YNB)即将发布，是无封锁的加密货币。隐币无外汇限制，瞬时安全跨国转账，低手续费。蓝灯用户能在第一时间获得这种加密货币。"
      },
      "zh":{
-        "enabled":false,
+        "enabled":true,
         "url": "https://yin.bi",
         "button_url":"https://yin.bi",
         "display_frequency_seconds": 259200,
