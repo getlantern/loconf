@@ -26,10 +26,10 @@
          "url": "https://yin.bi"
       },
       "US":{
-         "enabled": false,
-         "text": "Here's a test video",
-         "link_text": "Watch now",
-         "url": "https://www.youtube.com/watch?v=Gru4IfbKlfU"
+         "enabled": true,
+         "text": "无封锁的加密货币即将到来。",
+         "link_text": "了解隐币",
+         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
       }
    },
    "desktopBannerAds":{
