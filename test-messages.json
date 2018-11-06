@@ -379,7 +379,7 @@
          "button":"تماشا کنید"
       },
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "free",
          "showPlansScreen": false,
@@ -390,7 +390,7 @@
          "button":"تماشا کنید"
       },
       "en_GB":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "free",
          "showPlansScreen": false,
@@ -401,7 +401,7 @@
          "button":"تماشا کنید"
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "userType": "",
          "showPlansScreen": false,
