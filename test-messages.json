@@ -63,6 +63,11 @@
          "link_text": "了解隐币",
          "url": "https://yin.bi"
       }
+      "en-US":{
+         "enabled": true,
+         "text": "无封锁的加密货币即将到来。",
+         "link_text": "了解隐币",
+         "url": "https://yin.bi"
    },
    "popUpAds":{
      "en-US":{
