@@ -65,7 +65,7 @@
 			"button": ""
 		},
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.00,
 			"campaign": "20180619",
 			"url": "https://yin.bi/?utm_source=lantern&utm_medium=snackbar&utm_campaign=snackbar_ad",
