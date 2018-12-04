@@ -23,7 +23,7 @@
          "enabled": true,
          "text": "升级到蓝灯5.1，12月5日开抢隐币！",
          "link_text": "点此升级",
-         "url": "https://yin.bi"
+         "url": "https://github.com/getlantern/download"
       },
       "US":{
          "enabled": false,
@@ -47,21 +47,21 @@
       },
       "zh_CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
+         "text": "升级到蓝灯5.1，12月5日开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
       },
       "zh":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "升级到蓝灯5.1，12月5日开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
       },
       "CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "升级到蓝灯5.1，12月5日开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
       },
       "US":{
          "enabled": false,
