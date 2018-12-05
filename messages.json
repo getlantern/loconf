@@ -123,10 +123,10 @@
         "content.mobile.buy.lantern.pro.button": "Yin.bi",
         "content.mobile.renewal.button.url": "https://yin.bi",
         "content.mobile.main_screen.free": "蓝灯与隐币(YNB)合作，蓝灯用户将免费获赠隐币。11月19日0点1分在蓝灯内正式开抢隐币！",
-        "content.mobile.main_screen.free.details": "隐币是什么？", 
+        "content.mobile.main_screen.free.details": "隐币是什么？",
         "content.mobile.secondary_screen.free": "隐币(YNB)即将发布，是无封锁的加密货币。隐币无外汇限制，瞬时安全跨国转账，低手续费。蓝灯用户能在第一时间获得这种加密货币。",
         "content.mobile.main_screen.pro": "蓝灯与隐币(YNB)合作，蓝灯用户将免费获赠隐币。11月19日0点1分在蓝灯内正式开抢隐币！",
-        "content.mobile.main_screen.pro.details": "隐币是什么？", 
+        "content.mobile.main_screen.pro.details": "隐币是什么？",
         "content.mobile.secondary_screen.pro": "隐币(YNB)即将发布，是无封锁的加密货币。隐币无外汇限制，瞬时安全跨国转账，低手续费。蓝灯用户能在第一时间获得这种加密货币。"
      },
      "zh_CN":{
@@ -155,13 +155,13 @@
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
         "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.free.details": "", 
+        "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
         "content.mobile.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.pro.details": "", 
+        "content.mobile.main_screen.pro.details": "",
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
      },
-           "zh_HK":{
+    "zh_HK":{
         "enabled":true,
         "url": "",
         "button_url":"https://github.com/getlantern/download",
@@ -187,10 +187,10 @@
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
         "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.free.details": "", 
+        "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
         "content.mobile.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.pro.details": "", 
+        "content.mobile.main_screen.pro.details": "",
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
      },
            "zh_TW":{
@@ -219,10 +219,10 @@
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
         "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.free.details": "", 
+        "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
         "content.mobile.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.pro.details": "", 
+        "content.mobile.main_screen.pro.details": "",
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
      },
      "zh":{
@@ -251,10 +251,10 @@
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
         "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.free.details": "", 
+        "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
         "content.mobile.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
-        "content.mobile.main_screen.pro.details": "", 
+        "content.mobile.main_screen.pro.details": "",
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
      }
    },
@@ -296,7 +296,7 @@
          "renew.reseller_prompt": "网上打折购买了专业版激活码？",
          "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
        },
-               "zh_HK": {
+      "zh_HK": {
          "purchase.title": "蓝灯专业版",
          "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
          "purchase.button_text": "立即升级",
@@ -308,7 +308,7 @@
          "renew.reseller_prompt": "网上打折购买了专业版激活码？",
          "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
        },
-               "zh_TW": {
+      "zh_TW": {
          "purchase.title": "蓝灯专业版",
          "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
          "purchase.button_text": "立即升级",
@@ -370,7 +370,7 @@
          "renew.reseller_prompt": "网上打折购买了专业版激活码？",
          "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
        },
-               "zh_HK": {
+      "zh_HK": {
          "purchase.title": "蓝灯专业版",
          "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币。",
          "purchase.button_text": "立即升级",
@@ -382,7 +382,7 @@
          "renew.reseller_prompt": "网上打折购买了专业版激活码？",
          "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
        },
-               "zh_TW": {
+      "zh_TW": {
          "purchase.title": "蓝灯专业版",
          "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币。",
          "purchase.button_text": "立即升级",
