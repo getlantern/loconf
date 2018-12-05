@@ -110,7 +110,6 @@
          "text": "升级到蓝灯5.2，立即开抢隐币！",
          "link_text": "点此升级",
          "url": "https://github.com/getlantern/download"
-      },
      },
       "zh-CN":{
          "enabled": true,
@@ -299,8 +298,7 @@
         "content.mobile.main_screen.pro.details": "",
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
      },
-
-           "zh_TW":{
+    "zh_TW":{
         "enabled":true,
         "url": "",
         "button_url":"https://github.com/getlantern/download",
