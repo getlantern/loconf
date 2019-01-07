@@ -156,6 +156,7 @@
       }
    },
    "popUpAds":{
+     "last_updated_epoch_time": 1546893857,
      "en-US":{
         "enabled":false,
         "url": "https://staging.yin.bi",
