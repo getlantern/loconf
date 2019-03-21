@@ -2,34 +2,76 @@
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled": true,
+         "enabled": false,
          "text": "无封锁的加密货币即将到来。",
          "link_text": "了解隐币",
-         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
+         "url": "https://yin.bi"
       },
       "zh_CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh_HK":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh_MO":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh_TW":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh-CN":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh-HK":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh-MO":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh-TW":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
       },
       "zh":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
       },
       "CN":{
          "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "US":{
+         "enabled": false,
          "text": "无封锁的加密货币即将到来。",
          "link_text": "了解隐币",
          "url": "https://yin.bi"
-      },
-      "US":{
-         "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
       }
    },
    "desktopBannerAds":{
@@ -39,41 +81,83 @@
          "link_text": "了解隐币",
          "url": "https://yin.bi"
       },
-      "zh_CN":{
-         "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi/?utm_source=lantern%20mobile%20or%20desktop&utm_medium=banner&utm_campaign=banner_ad_mobile_desktop"
-      },
-      "zh":{
-         "enabled": true,
+      "en-US":{
+         "enabled": false,
          "text": "无封锁的加密货币即将到来。",
          "link_text": "了解隐币",
          "url": "https://yin.bi"
+      },
+      "zh_CN":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh_HK":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh_MO":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh_TW":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+     },
+      "zh-CN":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh-HK":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh-MO":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+      "zh-TW":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
+      },
+
+      "zh":{
+         "enabled": true,
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
       },
       "CN":{
          "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
+         "text": "购买蓝灯专业版，立即开抢隐币！",
+         "link_text": "点此升级",
+         "url": "https://github.com/getlantern/download"
       },
       "US":{
-         "enabled": true,
-         "text": "无封锁的加密货币即将到来。",
-         "link_text": "了解隐币",
-         "url": "https://yin.bi"
-      },
-      "en-US":{
-         "enabled": true,
+         "enabled": false,
          "text": "无封锁的加密货币即将到来。",
          "link_text": "了解隐币",
          "url": "https://yin.bi"
       }
    },
    "popUpAds":{
-     "last_updated_epoch_time": 1546893857,
      "en-US":{
-        "enabled":true,
+        "enabled":false,
         "url": "https://staging.yin.bi",
         "button_url":"https://staging.yin.bi",
         "display_frequency_seconds": 86400,
@@ -86,15 +170,15 @@
         "content.desktop.dismiss_button": "Don't show this again",
         "content.desktop.body.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nWhat is Yinbi?",
         "content.desktop.body.main_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://staging.yin.bi\">Yin.bi</a>",
+        "content.desktop.body.secondary_screen.free": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that purchases Lantern Pro! Purchase now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here:  <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>",
         "content.desktop.body.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
         "content.desktop.body.main_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nWhat is Yinbi?",
-        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://staging.yin.bi\">Yin.bi</a>"
+        "content.desktop.body.secondary_screen.pro": "Lantern has partnered with Yinbi (YNB) to give YNB to everyone that renews Lantern Pro! Renew now to get access to today’s giveaway!\n\nYinbi (YNB) is a new unblockable cryptocurrency launching soon that allows for fast, reliable, easy to use, and low-cost mobile transactions. Lantern users are the first to have early access to this new cryptocurrency!\n\nFind out more here: <a id=\"yinbi_link\" target=\"_blank\" href=\"https://yin.bi\">Yin.bi</a>"
      },
      "en_US": {
-        "enabled":true,
-        "url": "https://staging.yin.bi",
-        "button_url":"https://staging.yin.bi",
+        "enabled":false,
+        "url": "https://yin.bi",
+        "button_url":"https://yin.bi",
         "display_frequency_seconds": 259200,
         "display_frequency_seconds_free": 259200,
         "display_frequency_seconds_pro": 259200,
@@ -121,7 +205,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "Yin.bi",
         "content.mobile.buy.lantern.pro.button": "Yin.bi",
-        "content.mobile.renewal.button.url": "https://staging.yin.bi",
+        "content.mobile.renewal.button.url": "https://yin.bi",
         "content.mobile.main_screen.free": "蓝灯与隐币(YNB)合作，蓝灯用户将免费获赠隐币。11月19日0点1分在蓝灯内正式开抢隐币！",
         "content.mobile.main_screen.free.details": "隐币是什么？",
         "content.mobile.secondary_screen.free": "隐币(YNB)即将发布，是无封锁的加密货币。隐币无外汇限制，瞬时安全跨国转账，低手续费。蓝灯用户能在第一时间获得这种加密货币。",
@@ -141,12 +225,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -179,12 +263,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -217,12 +301,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -255,12 +339,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -293,12 +377,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -331,12 +415,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -369,12 +453,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -407,12 +491,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -445,12 +529,12 @@
         "content.desktop.button.free": "下载蓝灯5.2",
         "content.desktop.button.pro": "下载蓝灯5.2",
         "content.desktop.dismiss_button": "不再显示此信息",
-        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币赠送。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。",
-        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
-        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，续费蓝灯可免费获赠隐币！即刻续费，一起分享当日隐币配送。\n\nYNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
+        "content.desktop.body.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.free": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.main_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
+        "content.desktop.body.secondary_screen.pro": "蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
         "content.mobile.left.image.resource": "lantern_yinbi_logo",
         "content.mobile.left.image.url": "",
         "content.mobile.right.image.resource": "yinbi_logo_small",
@@ -470,123 +554,6 @@
         "content.mobile.main_screen.pro": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.pro.details": "",
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
-     }
-   },
-   "yinbiPlans": {
-     "web": {
-       "en-US": {
-         "enabled": true,
-         "resellerLinkText": "Purchase bulk pro accounts, get bulk Yinbi!",
-         "purchaseButtonText": "Purchase",
-         "planDescriptions": {
-           "1-year": "1 Year + Free Yinbi: <strong>$32 (USD)</strong>",
-           "2-year": "2 Years + 2x Free Yinbi: <strong>$48 (USD)</strong>"
-         },
-         "details": [
-           "Faster Speed",
-           "Blocking Resistant",
-           "More Reliable",
-           "Register up to 3 Devices",
-           "Unlimited Data"
-         ],
-         "emphasizedDetail": "Free Yinbi with Purchase!",
-         "description": "Yinbi (YNB) launches soon, and Lantern users are the first to have early access to this new cryptocurrency!<br/><br/>YNB will be distributed at the end of every day, based on the number of people that upgrade, and the number of years or accounts you purchase."
-       },
-       "en_US": {
-         "enabled": false,
-         "resellerLinkText": "Purchase bulk pro accounts, get bulk Yinbi!",
-         "purchaseButtonText": "Purchase",
-         "planDescriptions": {
-           "1-year": "1 Year + Free Yinbi: <strong>$32 (USD)</strong>",
-           "2-year": "2 Years + 2x Free Yinbi: <strong>$48 (USD)</strong>"
-         },
-         "details": [
-           "Faster Speed",
-           "Blocking Resistant",
-           "More Reliable",
-           "Register up to 3 Devices",
-           "Unlimited Data"
-         ],
-         "emphasizedDetail": "Free Yinbi with Purchase!",
-         "description": "Yinbi (YNB) launches soon, and Lantern users are the first to have early access to this new cryptocurrency!<br/><br/>YNB will be distributed at the end of every day, based on the number of people that upgrade, and the number of years or accounts you purchase."
-       },
-       "zh_CN": {
-         "enabled": false,
-         "resellerLinkText": "批量购买专业版账号，批量获得隐币",
-         "purchaseButtonText": "购买",
-         "planDescriptions": {
-           "1-year": "买一年  附送隐币: <strong>32 (USD)</strong>",
-           "2-year": "买两年 双倍隐币: <strong>48 (USD)</strong>"
-         },
-         "details": [
-           "速度更快",
-           "更抗封锁",
-           "更加稳定",
-           "支持3设备",
-           "无限流量"
-         ],
-         "emphasizedDetail": "免费赠送隐币",
-         "description": "隐币(YNB)即将发布。蓝灯用户有机会抢先获得隐币加密货币。<br/><br/>蓝灯用户有机会抢先获得隐币加密货币。隐币会根据每天购买升级专业版的人数和时长赠送。"
-       },
-       "zh": {
-         "enabled": false,
-         "resellerLinkText": "批量购买专业版账号，批量获得隐币",
-         "purchaseButtonText": "购买",
-         "planDescriptions": {
-           "1-year": "买一年  附送隐币: <strong>32 (USD)</strong>",
-           "2-year": "买两年 双倍隐币: <strong>48 (USD)</strong>"
-         },
-         "details": [
-           "速度更快",
-           "更抗封锁",
-           "更加稳定",
-           "支持3设备",
-           "无限流量"
-         ],
-         "emphasizedDetail": "免费赠送隐币",
-         "description": "隐币(YNB)即将发布。蓝灯用户有机会抢先获得隐币加密货币。<br/><br/>蓝灯用户有机会抢先获得隐币加密货币。隐币会根据每天购买升级专业版的人数和时长赠送。"
-       }
-     },
-     "mobile": {
-       "en_US": {
-         "enabled": false,
-         "resellerLinkText": "Purchase bulk pro accounts, get bulk Yinbi!",
-         "details": [
-           "Faster Speed",
-           "Blocking Resistant",
-           "More Reliable",
-           "Register up to 3 Devices",
-           "Unlimited Data"
-         ],
-         "emphasizedDetail": "Free Yinbi with Purchase!",
-         "description": "Yinbi (YNB) launches soon, and Lantern users are the first to have early access to this new cryptocurrency!<br/><br/>YNB will be distributed at the end of every day, based on the number of people that upgrade, and the number of years or accounts you purchase."
-       },
-       "zh_CN": {
-         "enabled": false,
-         "resellerLinkText": "批量购买专业版账号，批量获得隐币",
-         "details": [
-           "速度更快",
-           "更抗封锁",
-           "更加稳定",
-           "支持3设备",
-           "无限流量"
-         ],
-         "emphasizedDetail": "免费赠送隐币",
-         "description": "隐币(YNB)即将发布。蓝灯用户有机会抢先获得隐币加密货币。蓝灯用户有机会抢先获得隐币加密货币。隐币会根据每天购买升级专业版的人数和时长赠送。"
-       },
-       "zh": {
-         "enabled": false,
-         "resellerLinkText": "批量购买专业版账号，批量获得隐币",
-         "details": [
-           "速度更快",
-           "更抗封锁",
-           "更加稳定",
-           "支持3设备",
-           "无限流量"
-         ],
-         "emphasizedDetail": "免费赠送隐币",
-         "description": "隐币(YNB)即将发布。蓝灯用户有机会抢先获得隐币加密货币。蓝灯用户有机会抢先获得隐币加密货币。隐币会根据每天购买升级专业版的人数和时长赠送。"
-       }
      }
    },
    "homescreen": {
@@ -618,7 +585,43 @@
        "zh_CN": {
          "purchase.title": "蓝灯专业版",
          "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
-         "purchase.button_text": "立即升级开抢免费隐币",
+         "purchase.button_text": "立即升级",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
+      "zh_HK": {
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
+         "purchase.button_text": "立即升级",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
+      "zh_MO": {
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
+         "purchase.button_text": "立即升级",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
+      "zh_TW": {
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
+         "purchase.button_text": "立即升级",
          "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
          "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
          "renew.title": "今天续费",
@@ -630,7 +633,7 @@
        "zh": {
          "purchase.title": "蓝灯专业版",
          "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
-         "purchase.button_text": "立即升级开抢免费隐币",
+         "purchase.button_text": "立即升级",
          "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
          "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
          "renew.title": "今天续费",
@@ -677,6 +680,42 @@
          "renew.reseller_prompt": "网上打折购买了专业版激活码？",
          "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
        },
+      "zh_HK": {
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币。",
+         "purchase.button_text": "立即升级",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币！",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
+      "zh_MO": {
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币。",
+         "purchase.button_text": "立即升级",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币！",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
+      "zh_TW": {
+         "purchase.title": "蓝灯专业版",
+         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币。",
+         "purchase.button_text": "立即升级",
+         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币！",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
        "zh": {
          "purchase.title": "蓝灯专业版",
          "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币。",
@@ -695,33 +734,50 @@
       "US":{
          "enabled":false,
          "probability":1.00,
-         "campaign":"20160801",
+         "showPlansScreen": false,
          "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"Thanks for taking our survey!",
+         "thanks":"با تشکر",
+         "button":"تماشا کنید"
+      },
+      "IR":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
+         "thanks":"با تشکر",
+         "button":"تماشا کنید"
+      },
+      "fa_IR":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
+         "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
       "en_US":{
          "enabled":false,
-         "probability":1.00,
          "userType": "free",
+         "probability":1.00,
          "showPlansScreen": false,
-         "campaign":"20160801",
          "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":" ",
+         "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
-      "en_GB":{
+      "en-GB":{
          "enabled":false,
-         "probability":1.00,
+         "probability":0.00,
          "userType": "free",
          "showPlansScreen": false,
-         "campaign":"20160801",
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":" ",
-         "button":"تماشا کنید"
+         "campaign":"20180822",
+         "url":"",
+         "message":"",
+         "thanks":"",
+         "button":""
       },
       "zh_CN":{
          "enabled":false,
