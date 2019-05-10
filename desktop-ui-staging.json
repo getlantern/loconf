@@ -473,10 +473,10 @@
   },
   "yinbiAccountScreen": {
     "en-US": {
-      "visit_yinbi_text": "Visit <a class=\"{{className}}\" href=\"{{url}}\" target=\"_blank\">Yin.bi</a> to Redeem your YNB, and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase."
+      "visit_yinbi_text": "Visit <a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://staging.yin.bi/register\" target=\"_blank\">Yin.bi</a> to Redeem your YNB, and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase."
     },
     "en_US": {
-      "visit_yinbi_text": "Visit <a class=\"{{className}}\" href=\"{{url}}\" target=\"_blank\">Yin.bi</a> to Redeem your YNB, and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase."
+      "visit_yinbi_text": "Visit <a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://staging.yin.bi/register\" target=\"_blank\">Yin.bi</a> to Redeem your YNB, and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase."
     },
     "zh_CN": {
       "visit_yinbi_text": ""
