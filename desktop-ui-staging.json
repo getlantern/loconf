@@ -470,5 +470,37 @@
       "content.body.main_screen.pro":"蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
       "content.body.secondary_screen.pro":"蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！"
     }
+  },
+  "yinbiAccountScreen": {
+    "en-US": {
+      "visit_yinbi_text": "Visit <a class=\"{{className}}\" href=\"{{url}}\" target=\"_blank\">Yin.bi</a> to Redeem your YNB, and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase."
+    },
+    "en_US": {
+      "visit_yinbi_text": "Visit <a class=\"{{className}}\" href=\"{{url}}\" target=\"_blank\">Yin.bi</a> to Redeem your YNB, and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase."
+    },
+    "zh_CN": {
+      "visit_yinbi_text": ""
+    },
+    "zh_HK": {
+      "visit_yinbi_text": ""
+    },
+    "zh_MO": {
+      "visit_yinbi_text": ""
+    },
+    "zh_TW": {
+      "visit_yinbi_text": ""
+    },
+    "zh-CN": {
+      "visit_yinbi_text": ""
+    },
+    "zh-HK": {
+      "visit_yinbi_text": ""
+    },
+    "zh-MO": {
+      "visit_yinbi_text": ""
+    },
+    "zh-TW": {
+      "visit_yinbi_text": ""
+    }
   }
 }
