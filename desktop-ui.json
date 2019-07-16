@@ -479,5 +479,37 @@
       "content.body.main_screen.pro":"蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！",
       "content.body.secondary_screen.pro":"蓝灯与隐币是合作伙伴，早期用户抢先购买/续费获得更多隐币；随着参与用户更多，每日到手配额将逐渐下降。\n\nYNB会根据当天发放隐币总量，当天购买/续费蓝灯专业版的数量和和时长，您购买/续费蓝灯专业版的数量和时长在每日日终发放。隐币兑换码日终生成后，请到yin.bi兑换隐币！"
     }
+  },
+  "yinbiAccountScreen": {
+    "en-US": {
+      "visit_yinbi_text": "Visit <a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a> to redeem your YNB and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase.<br/>Yinbi Redemption Codes expire 30 days after purchase.<br/>Codes purchased before 05/16/2019 will expire on 06/15/2019."
+    },
+    "en_US": {
+      "visit_yinbi_text": "Visit <a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a> to redeem your YNB and check your account balance.<br/>Yinbi Redemption Codes expire 30 days after purchase.<br/>Yinbi Redemption Codes expire 30 days after purchase.<br/>Codes purchased before 05/16/2019 will expire on 06/15/2019."
+    },
+    "zh_CN": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    },
+    "zh_HK": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    },
+    "zh_MO": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    },
+    "zh_TW": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    },
+    "zh-CN": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    },
+    "zh-HK": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    },
+    "zh-MO": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    },
+    "zh-TW": {
+      "visit_yinbi_text": "请访问<a class=\"yinbi_redemption__yinbi_website_link\" href=\"https://yin.bi/register\" target=\"_blank\">Yin.bi</a>来兑换您的YNB和查看帐号余额。<br/>隐币兑换码在购买后30天后过期作废。隐币兑换码在购买30天后过期作废。2019年5月16日之前购买的兑换码2019年6月16日过期作废。"
+    }
   }
 }
