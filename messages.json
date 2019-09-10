@@ -790,13 +790,13 @@
          "thanks":"",
          "button":"了解隐币"
       },
-      "en_IN":{
-         "enabled":false,
-         "probability":0.00,
-         "campaign":"201700305",
-         "url":"https://www.surveymonkey.com/r/JGZ9CD7",
-         "message":"Lantern is hiring an engineer in India! For more info, and to apply",
-         "thanks":"Thanks for your application!",
+      "AE":{
+         "enabled":true,
+         "probability":0.20,
+         "campaign":"20190909",
+         "url":"https://www.surveymonkey.com/r/675G7LK",
+         "message":"Help Lantern by taking this quick survey!",
+         "thanks":"Thanks for your help!",
          "button":"Click Here"
       },
       "en":{
