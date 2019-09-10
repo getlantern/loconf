@@ -38,16 +38,16 @@
       "button": "阅读白皮书"
     },
     "ar-AE": {
-      "enabled": true,
+      "enabled": false,
       "probability": 0.20,
       "campaign": "20190909",
       "url": "https://www.surveymonkey.com/r/675G7LK",
       "message": "Help Lantern by taking this quick survey!",
-      "thanks": "Help Lantern by taking this quick survey!",
+      "thanks": "Thanks for your help!",
       "button": "Click Here"
     },
     "AE": {
-      "enabled": true,
+      "enabled": false,
       "probability": 0.20,
       "campaign": "20190909",
       "url": "https://www.surveymonkey.com/r/675G7LK",
