@@ -792,7 +792,7 @@
       },
       "AE":{
          "enabled":true,
-         "probability":0.20,
+         "probability":1.00,
          "campaign":"20190909",
          "url":"https://www.surveymonkey.com/r/675G7LK",
          "message":"Help Lantern by taking this quick survey!",
@@ -801,7 +801,7 @@
       },
       "ar_AE":{
          "enabled":true,
-         "probability":0.20,
+         "probability":1.00,
          "campaign":"20190909",
          "url":"https://www.surveymonkey.com/r/675G7LK",
          "message":"Help Lantern by taking this quick survey!",
