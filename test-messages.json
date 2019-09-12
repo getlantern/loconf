@@ -768,6 +768,16 @@
          "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
+      "us":{
+         "enabled":true,
+         "userType": "free",
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://www.youtube.com/watch?v=6nT911jkWEo",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
+         "thanks":"با تشکر",
+         "button":"تماشا کنید"
+      },
       "en-GB":{
          "enabled":false,
          "probability":0.00,
