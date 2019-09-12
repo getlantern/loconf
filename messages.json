@@ -790,11 +790,11 @@
          "thanks":"",
          "button":"了解隐币"
       },
-      "AE":{
+      "en_US":{
          "enabled":true,
-         "probability":1.00,
-         "campaign":"20190909",
-         "url":"https://www.surveymonkey.com/r/675G7LK",
+         "probability":0.20,
+         "campaign":"20191209",
+         "url":"https://www.surveymonkey.com/r/RMR36FF",
          "message":"Help Lantern by taking this quick survey!",
          "thanks":"Thanks for your help!",
          "button":"Click Here"
@@ -802,8 +802,8 @@
       "ar_AE":{
          "enabled":true,
          "probability":1.00,
-         "campaign":"20190909",
-         "url":"https://www.surveymonkey.com/r/675G7LK",
+         "campaign":"20191209",
+         "url":"https://www.surveymonkey.com/r/RMR36FF",
          "message":"Help Lantern by taking this quick survey!",
          "thanks":"Thanks for your help!",
          "button":"Click Here"
