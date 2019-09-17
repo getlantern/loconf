@@ -792,7 +792,7 @@
       },
       "en_US":{
          "enabled":true,
-         "probability":0.20,
+         "probability":0.80,
          "campaign":"20191209",
          "url":"https://www.surveymonkey.com/r/RMR36FF",
          "message":"Help Lantern by taking this quick survey!",
