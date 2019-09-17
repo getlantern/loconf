@@ -780,7 +780,7 @@
          "button":""
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "userType": "",
          "showPlansScreen": false,
