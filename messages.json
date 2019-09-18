@@ -791,7 +791,7 @@
          "button":"参与调查！"
       },
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "probability":0.80,
          "campaign":"20191209",
          "url":"https://www.surveymonkey.com/r/RMR36FF",
@@ -800,7 +800,7 @@
          "button":"Click Here"
       },
       "ar_AE":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20191209",
          "url":"https://www.surveymonkey.com/r/RMR36FF",
