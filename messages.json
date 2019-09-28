@@ -5,73 +5,73 @@
          "enabled": false,
          "text": "The wall is higher, but we are better.\nGet Lantern Pro and connected now!",
          "link_text": "Upgrade Now",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh_CN":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh_HK":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh_MO":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh_TW":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh-CN":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh-HK":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh-MO":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh-TW":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "zh":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "CN":{
          "enabled": true,
          "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
          "link_text": "点此升级",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       },
       "US":{
          "enabled": false,
          "text": "The wall is higher, but we are better.\nGet Lantern Pro and connected now!",
          "link_text": "Upgrade Now",
-         "url": "#/plans"
+         "url": "https://github.com/getlantern/download"
       }
    },
    "desktopBannerAds":{
