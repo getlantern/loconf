@@ -94,14 +94,14 @@
 	},
   "bannerAds":{
     "en_US":{
-      "enabled":true,
-      "text":"The wall is higher, but we are better. Get Lantern Pro and connected now!",
+      "enabled":false,
+      "text":"Better than a VPN! ",
       "link_text":"Upgrade Now",
       "url":"#/plans"
     },
     "en-US":{
-      "enabled":true,
-      "text":"The wall is higher, but we are better. Get Lantern Pro and connected now!",
+      "enabled":false,
+      "text":"Better than a VPN! ",
       "link_text":"Upgrade Now",
       "url":"#/plans"
     },
