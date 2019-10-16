@@ -3,75 +3,75 @@
    "ads":{
       "en_US":{
          "enabled": false,
-         "text": "The wall is higher, but we are better.\nGet Lantern Pro and connected now!",
+         "text": "Better than a VPN!",
          "link_text": "Upgrade Now",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh_CN":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh_HK":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh_MO":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh_TW":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh-CN":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh-HK":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh-MO":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh-TW":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "zh":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "CN":{
-         "enabled": true,
-         "text": "墙越高，灯越亮！\n蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       },
       "US":{
          "enabled": false,
-         "text": "The wall is higher, but we are better.\nGet Lantern Pro and connected now!",
+         "text": "Better than a VPN!",
          "link_text": "Upgrade Now",
-         "url": "https://github.com/getlantern/download"
+         "url": "#/plans"
       }
    },
    "desktopBannerAds":{
@@ -88,63 +88,63 @@
          "url": "#/plans"
       },
       "zh_CN":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
       "zh_HK":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
       "zh_MO":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
       "zh_TW":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
      },
       "zh-CN":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
       "zh-HK":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
       "zh-MO":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
       "zh-TW":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
 
       "zh":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
       "CN":{
-         "enabled": true,
-         "text": "墙越高，灯越亮，蓝灯专业版，时刻在线！",
+         "enabled": false,
+         "text": "秒杀VPN",
          "link_text": "点此升级",
          "url": "#/plans"
       },
@@ -216,7 +216,7 @@
      "zh_CN":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -243,7 +243,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -254,7 +254,7 @@
     "zh_HK":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -281,7 +281,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -292,7 +292,7 @@
     "zh_MO":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -319,7 +319,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -330,7 +330,7 @@
     "zh_TW":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -357,7 +357,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -368,7 +368,7 @@
      "zh-CN":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -395,7 +395,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -406,7 +406,7 @@
     "zh-HK":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -433,7 +433,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -444,7 +444,7 @@
     "zh-MO":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -471,7 +471,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -482,7 +482,7 @@
     "zh-TW":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -509,7 +509,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，买蓝灯可免费获赠隐币！即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
@@ -520,7 +520,7 @@
      "zh":{
         "enabled":true,
         "url": "",
-        "button_url":"https://github.com/getlantern/download",
+        "button_url":"#/plans",
         "display_frequency_seconds": 43200,
         "display_frequency_seconds_free": 43200,
         "display_frequency_seconds_pro": 43200,
@@ -547,7 +547,7 @@
         "content.mobile.dismiss_button": "不再显示此信息",
         "content.mobile.renew.button": "下载蓝灯5.2",
         "content.mobile.buy.lantern.pro.button": "下载蓝灯5.2",
-        "content.mobile.renewal.button.url": "https://github.com/getlantern/download",
+        "content.mobile.renewal.button.url": "#/plans",
         "content.mobile.main_screen.free": "蓝灯与隐币是合作伙伴，升级到蓝灯5.2后，购买蓝灯可免费获赠隐币！隐币每日发放量指数减少，即刻购买，一起分享当日隐币配送。",
         "content.mobile.main_screen.free.details": "",
         "content.mobile.secondary_screen.free": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。",
