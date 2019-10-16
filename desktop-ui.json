@@ -106,68 +106,68 @@
       "url":"#/plans"
     },
     "zh_CN":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh_HK":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh_MO":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh_TW":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh-CN":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh-HK":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh-MO":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh-TW":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "zh":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "CN":{
-      "enabled":true,
-      "text":"墙越高，灯越亮，蓝灯专业版，时刻在线！",
+      "enabled":false,
+      "text":"秒杀VPN",
       "link_text":"点此升级",
       "url":"#/plans"
     },
     "US":{
       "enabled":false,
-      "text":"The wall is higher, but we are better. Get Lantern Pro and connected now!",
+      "text":"Better than a VPN!",
       "link_text":"Upgrade Now",
       "url":"#/plans"
     }
