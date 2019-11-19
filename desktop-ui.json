@@ -94,16 +94,16 @@
 	},
   "bannerAds":{
     "en_US":{
-      "enabled":false,
-      "text":"Better than a VPN! ",
-      "link_text":"Upgrade Now",
-      "url":"#/plans"
+      "enabled":true,
+      "text":"Apologies for the service disruption during the excessive blocking. While we are working around to address it, we also extended one month for Pro users. Love <3",
+      "link_text":"",
+      "url":""
     },
     "en-US":{
-      "enabled":false,
-      "text":"Better than a VPN! ",
-      "link_text":"Upgrade Now",
-      "url":"#/plans"
+      "enabled":true,
+      "text":"Apologies for the service disruption during the excessive blocking. While we are working around to address it, we also extended one month for Pro users. Love <3",
+      "link_text":"",
+      "url":""
     },
     "zh_CN":{
       "enabled":false,
