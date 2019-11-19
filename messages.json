@@ -2,10 +2,10 @@
    "defaultLocale":"en-US",
    "ads":{
       "en_US":{
-         "enabled": false,
-         "text": "Better than a VPN!",
-         "link_text": "Upgrade Now",
-         "url": "#/plans"
+         "enabled":true,
+         "text":"Apologies for the service disruption during the excessive blocking. While we are working around it, we also extended one month for all Pro users. Love <3",
+         "link_text":"",
+         "url":""
       },
       "zh_CN":{
          "enabled": false,
