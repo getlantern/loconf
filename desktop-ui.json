@@ -1,30 +1,30 @@
  {
 	"uninstall-survey-free": {
 		"en-US": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20170509",
-			"url": "https://www.surveymonkey.com/r/english-opened-uninstall"
+			"campaign": "US20191219",
+			"url": "https://www.surveymonkey.com/r/8KT27H2"
 		},
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20180427",
-			"url": "https://www.surveymonkey.com/r/chinese-free-427"
+			"campaign": "US20191219",
+			"url": "https://www.surveymonkey.com/r/8K7YML9"
 		}
 	},
 	"uninstall-survey-pro": {
 		"en-US": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20170509",
-			"url": "https://www.surveymonkey.com/r/english-pro"
+			"campaign": "US20191219",
+			"url": "https://www.surveymonkey.com/r/8KT27H2"
 		},
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20180427",
-			"url": "https://www.surveymonkey.com/r/chinese-pro-427"
+			"campaign": "US20191219",
+			"url": "https://www.surveymonkey.com/r/8K7YML9"
 		}
 	},
 	"survey": {
