@@ -57,7 +57,7 @@
          "url":"https://github.com/getlantern/download"
       },
       "US":{
-         "enabled":true,
+         "enabled":false,
          "text":"While Lantern Free is restored, Pro is remarkable. Best!",
          "url":"https://github.com/getlantern/download"
       }
