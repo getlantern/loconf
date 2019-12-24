@@ -768,15 +768,15 @@
          "button":""
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
-         "userType": "",
+         "userType": "free",
          "showPlansScreen": false,
-         "campaign":"20180822",
-         "url":"https://www.surveymonkey.com/r/JZHQ93F",
-         "message":"蓝灯专业版市场调查。",
+         "campaign":"20191224",
+         "url":"",
+         "message":"无限流量，笔芯！",
          "thanks":"",
-         "button":"参与调查！"
+         "button":""
       },
       "en_US":{
          "enabled":false,
