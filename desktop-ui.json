@@ -95,13 +95,13 @@
   "bannerAds":{
     "en_US":{
       "enabled":true,
-      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro!",
+      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro! ",
       "link_text":"Get Pro now",
       "url":"#/plans"
     },
     "en-US":{
       "enabled":true,
-      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro!",
+      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro! ",
       "link_text":"Get Pro now",
       "url":"#/plans"
     },
@@ -167,7 +167,7 @@
     },
     "US":{
       "enabled":true,
-      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro!",
+      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro! ",
       "link_text":"Get Pro now",
       "url":"#/plans"
     }
