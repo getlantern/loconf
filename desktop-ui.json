@@ -95,81 +95,81 @@
   "bannerAds":{
     "en_US":{
       "enabled":true,
-      "text":"While Lantern Free is restored, Pro is remarkable. Best!",
-      "link_text":"",
-      "url":""
+      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro!",
+      "link_text":"Get Pro now",
+      "url":"#/plans"
     },
     "en-US":{
       "enabled":true,
-      "text":"While Lantern Free is restored, Pro is remarkable. Best!",
-      "link_text":"",
-      "url":""
+      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro!",
+      "link_text":"Get Pro now",
+      "url":"#/plans"
     },
     "zh_CN":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh_HK":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh_MO":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh_TW":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh-CN":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh-HK":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh-MO":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh-TW":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "zh":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "CN":{
       "enabled":true,
-      "text":"免费版已恢复，专业版更稳定，锦鲤!",
-      "link_text":"",
-      "url":""
+      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
+      "link_text":"点击购买",
+      "url":"#/plans"
     },
     "US":{
       "enabled":true,
-      "text":"While Lantern Free is restored, Pro is remarkable. Best!",
-      "link_text":"",
-      "url":""
+      "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro!",
+      "link_text":"Get Pro now",
+      "url":"#/plans"
     }
   },
   "homescreenAds": {
