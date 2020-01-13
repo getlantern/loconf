@@ -720,13 +720,14 @@
    },
    "surveys":{
       "US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
+         "campaign":"20200112",
+         "url":"https://www.surveymonkey.com/r/MPZQF69?Platform=Android",
+         "message":"Could you give us one minute for a short survey? ",
+         "thanks":"Thanks for your time!",
+         "button":"Start"
       },
       "IR":{
          "enabled":false,
@@ -756,28 +757,27 @@
          "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
-      "en-GB":{
-         "enabled":false,
-         "probability":0.00,
-         "userType": "free",
-         "showPlansScreen": false,
-         "campaign":"20180822",
-         "url":"",
-         "message":"",
-         "thanks":"",
-         "button":""
-      },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
-         "userType": "free",
          "showPlansScreen": false,
-         "campaign":"20191224",
-         "url":"",
-         "message":"无限流量，笔芯！",
-         "thanks":"",
-         "button":""
+         "campaign":"20200112",
+         "url":"https://www.surveymonkey.com/r/M3P96N2?Platform=Android",
+         "message":"抽出一分钟，拨冗参与用户调查",
+         "thanks":"感谢支持",
+         "button":"开始"
       },
+      "en":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "campaign":"20200112",
+         "url":"https://www.surveymonkey.com/r/MPZQF69?Platform=Android",
+         "message":"Could you give us one minute for a short survey? ",
+         "thanks":"Thanks for your time!",
+         "button":"Start"
+      },
+
       "en_US":{
          "enabled":false,
          "probability":0.80,
