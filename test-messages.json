@@ -74,6 +74,15 @@
          "url": "https://yin.bi"
       }
    },
+    "notifications": {
+	"en_US":{
+	    "general": [
+		{ date: '12/12/12', title: 'New UI', content: 'lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem' },
+		{ date: '12/12/12', title: 'Replica', content: 'lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem' },
+		{ date: '12/21/12', title: 'Yinbi WAlllet launches', content: 'lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem' },	    
+	    ]
+	}
+    }
    "desktopBannerAds":{
       "en_US":{
          "enabled": false,
