@@ -76,7 +76,8 @@
 	},
 	"notifications": {
 		"en_US": {
-			"general": [{
+			"general": [
+        {
 					"date": "12/12/12",
 					"title": "New UI",
 					"content": "lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem"
