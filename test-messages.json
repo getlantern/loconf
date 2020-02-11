@@ -85,12 +85,13 @@
 				},
 				{
 					"date": "12/12/12",
-					"id": 0,
+					"id": 1,
 					"title": "Replica",
 					"content": "english lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/21/12",
+					"id": 2,
 					"title": "Yinbi WAlllet launches",
 					"content": "emg;ish lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem"
 				}
