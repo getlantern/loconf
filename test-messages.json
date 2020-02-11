@@ -79,11 +79,13 @@
 			"general": [
 	      {
 					"date": "12/12/12",
+					"id": 0,
 					"title": "New UI",
 					"content": "english lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/12/12",
+					"id": 0,
 					"title": "Replica",
 					"content": "english lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem"
 				},
@@ -98,16 +100,19 @@
 			"general": [
 	      {
 					"date": "12/12/12",
+					"id": 0,
 					"title": "New UI",
 					"content": "zh lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/12/12",
+					"id": 1,
 					"title": "Replica",
 					"content": "lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/21/12",
+					"id": 2,
 					"title": "Yinbi WAlllet launches",
 					"content": "lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem"
 				}
@@ -117,16 +122,19 @@
 			"general": [
 	      {
 					"date": "12/12/12",
+					"id": 0,
 					"title": "New UI",
 					"content": " CN lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/12/12",
+					"id": 1,
 					"title": "Replica",
 					"content": "lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/21/12",
+					"id": 2,
 					"title": "Yinbi WAlllet launches",
 					"content": "lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem"
 				}
@@ -136,16 +144,19 @@
 			"general": [
 	      {
 					"date": "12/12/12",
+					"id": 0,
 					"title": "New UI",
 					"content": "US lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/12/12",
+					"id": 1,
 					"title": "Replica",
 					"content": "lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem"
 				},
 				{
 					"date": "12/21/12",
+					"id": 2,
 					"title": "Yinbi WAlllet launches",
 					"content": "lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem"
 				}
