@@ -81,19 +81,19 @@
 					"date": "12/12/12",
 					"id": 0,
 					"title": "New UI",
-					"content": "english lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem"
+					"content": "We are excited to announce the release of the updated Lantern UI, there are many new features including Replica, a place to upload and share files, as well as te much anticipated Yinbi Wallet"
 				},
 				{
 					"date": "12/12/12",
 					"id": 1,
-					"title": "Replica",
-					"content": "english lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsem"
+					"title": "Lantern Accounts",
+					"content": "We have implemented a system of username and password for all new users. Existing users are also encouraged to create an account (available from the menu in the top right). This will make using other devices easier and allow for exciting account specific features we will have in the future!"
 				},
 				{
 					"date": "12/21/12",
 					"id": 2,
-					"title": "Yinbi WAlllet launches",
-					"content": "emg;ish lorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem ipsem lorem ipsem lorem ipsemlorem"
+					"title": "Yinbi Listed on Binance!",
+					"content": "Yinbi has been listed on Binance"
 				}
 			]
 		},
