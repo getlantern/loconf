@@ -37,41 +37,32 @@
 			"thanks": "",
 			"button": "Join Now!"
 		},
-		"en-CN": {
-			"enabled": false,
-			"probability": 0.00,
-			"campaign": "beta-4.9.0",
-			"url": "https://t.me/joinchat/BxT4KUg7B5HATgrFP22VXg",
-			"message": "Lantern 4.9.0 is available in our Telegram beta group.",
-			"thanks": "",
-			"button": "Join Now!"
-		},
 		"US": {
-			"enabled": false,
-			"probability": 0.00,
-			"campaign": "US20170405",
-			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
-			"message": "Upgrade to Pro for fast, stable service!",
-			"thanks": "",
-			"button": "Upgrade!"
+			"enabled":true,
+			"probability":1.00,
+			"campaign":"20200312",
+			"url":"",
+			"message":"Pro time has been extended, love",
+			"thanks":"",
+			"button":""
 		},
 		"en": {
-			"enabled": false,
-			"probability": 0.00,
-			"campaign": "20170227",
-			"url": "",
-			"message": "",
-			"thanks": "",
-			"button": ""
+			"enabled":true,
+			"probability":1.00,
+			"campaign":"20200312",
+			"url":"",
+			"message":"Pro time has been extended, love",
+			"thanks":"",
+			"button":""
 		},
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.00,
-			"campaign": "20180619",
-			"url": "https://yin.bi/?utm_source=lantern&utm_medium=snackbar&utm_campaign=snackbar_ad",
-			"message": "隐币：无封锁的加密货币即将到来。",
+			"campaign": "20200312",
+			"url": "",
+			"message": "专业版时间已延长，笔芯",
 			"thanks": "",
-			"button": "阅读白皮书"
+			"button": ""
 		},
 		"IN": {
 			"enabled": false,
