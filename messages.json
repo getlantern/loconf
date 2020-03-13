@@ -719,15 +719,6 @@
      }
    },
    "surveys":{
-      "US":{
-         "enabled":false,
-         "probability":1.00,
-         "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
-      },
       "IR":{
          "enabled":false,
          "probability":1.00,
@@ -768,24 +759,23 @@
          "button":""
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
-         "userType": "free",
          "showPlansScreen": false,
-         "campaign":"20191224",
+         "campaign":"20200312",
          "url":"",
-         "message":"无限流量，笔芯！",
+         "message":"专业版时间已延长，笔芯",
          "thanks":"",
          "button":""
       },
       "en_US":{
-         "enabled":false,
-         "probability":0.80,
-         "campaign":"20191209",
-         "url":"https://www.surveymonkey.com/r/RMR36FF",
-         "message":"Help Lantern by taking this quick survey!",
-         "thanks":"Thanks for your help!",
-         "button":"Click Here"
+         "enabled":true,
+         "probability":1.00,
+         "campaign":"20200312",
+         "url":"",
+         "message":"Pro time has been extended, love",
+         "thanks":"",
+         "button":""
       },
       "ar_AE":{
          "enabled":false,
