@@ -60,6 +60,16 @@
          "enabled":false,
          "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro! ",
          "url":"https://yin.bi"
+      },
+      "fa_IR":{
+         "enabled":true,
+         "text":"سلام! اطلاعات بیشتر در مورد لنترن پرو در",
+         "url":"https://t.me/Lanternpro_Iran"
+      },
+      "IR":{
+         "enabled":true,
+         "text":"سلام! اطلاعات بیشتر در مورد لنترن پرو در",
+         "url":"https://t.me/Lanternpro_Iran"
       }
    },
    "desktopBannerAds":{
