@@ -769,7 +769,7 @@
          "button":""
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "campaign":"20200312",
@@ -779,7 +779,7 @@
          "button":""
       },
       "en_US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20200312",
          "url":"",
