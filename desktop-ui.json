@@ -38,8 +38,8 @@
 			"button": "Join Now!"
 		},
 		"US": {
-			"enabled":true,
-			"probability":1.00,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"20200312",
 			"url":"",
 			"message":"Pro time has been extended, love",
@@ -47,8 +47,8 @@
 			"button":""
 		},
 		"en": {
-			"enabled":true,
-			"probability":1.00,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"20200312",
 			"url":"",
 			"message":"Pro time has been extended, love",
@@ -56,8 +56,8 @@
 			"button":""
 		},
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.00,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "20200312",
 			"url": "",
 			"message": "专业版时间已延长，笔芯",
