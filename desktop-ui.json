@@ -81,6 +81,24 @@
 			"message": "Lantern is hiring an engineer in India! For more info, and to apply",
 			"thanks": "Thanks for your application!",
 			"button": "Click Here"
+		},
+		"IR": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200401",
+			"url": "https://t.me/Lanternpro_Iran",
+			"message": "سلام! اطلاعات بیشتر در مورد لنترن پرو در",
+			"thanks": "",
+			"button": "مشاهده وبسایت"
+		},
+		"fa-IR": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200401",
+			"url": "https://t.me/Lanternpro_Iran",
+			"message": "سلام! اطلاعات بیشتر در مورد لنترن پرو در",
+			"thanks": "",
+			"button": "مشاهده وبسایت"
 		}
 	},
   "bannerAds":{
@@ -161,18 +179,6 @@
       "text":"Lantern has partnered with Yinbi to give free YNB to everyone that purchases Lantern Pro! ",
       "link_text":"Get Pro now",
       "url":"#/plans"
-    },
-    "IR":{
-      "enabled":true,
-      "text":"سلام! اطلاعات بیشتر در مورد لنترن پرو در",
-      "link_text":"مشاهده وبسایت",
-      "url":"https://t.me/Lanternpro_Iran"
-    },
-    "fa-IR":{
-      "enabled":true,
-      "text":"سلام! اطلاعات بیشتر در مورد لنترن پرو در",
-      "link_text":"مشاهده وبسایت",
-      "url":"https://t.me/Lanternpro_Iran"
     }
   },
   "homescreenAds": {
