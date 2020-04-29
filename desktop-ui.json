@@ -87,18 +87,18 @@
 			"probability": 1.00,
 			"campaign": "20200401",
 			"url": "https://t.me/Lanternpro_Iran",
-			"message": "سلام! اطلاعات بیشتر در مورد لنترن پرو در",
-			"thanks": "",
-			"button": "مشاهده وبسایت"
+            "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
+            "thanks": "",
+            "button": "ورود به کانال"
 		},
 		"fa-IR": {
 			"enabled":true,
 			"probability": 1.00,
 			"campaign": "20200401",
 			"url": "https://t.me/Lanternpro_Iran",
-			"message": "سلام! اطلاعات بیشتر در مورد لنترن پرو در",
-			"thanks": "",
-			"button": "مشاهده وبسایت"
+            "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
+            "thanks": "",
+            "button": "ورود به کانال"
 		},
 		"AE": {
 			"enabled":true,

@@ -724,18 +724,18 @@
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/Lanternpro_Iran",
-         "message":"سلام! اطلاعات بیشتر در مورد لنترن پرو در",
+         "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
          "thanks": "",
-         "button": "مشاهده وبسایت"
+         "button": "ورود به کانال"
       },
       "fa_IR":{
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/Lanternpro_Iran",
-         "message":"سلام! اطلاعات بیشتر در مورد لنترن پرو در",
+         "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
          "thanks": "",
-         "button": "مشاهده وبسایت"
+         "button": "ورود به کانال"
       },
       "AE":{
          "enabled":true,
