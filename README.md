@@ -1,3 +1,5 @@
+Changes to `desktop-ui.json` affects only Lantern desktop clients. The corresponding sections in `messages.json` are ignored by new desktop clients. All Android related configurations are in `messages.json`.
+
 To verify the JSON on new configurations, please use:
 
 https://jsonlint.com/
