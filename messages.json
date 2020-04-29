@@ -738,25 +738,76 @@
          "button": "مشاهده وبسایت"
       },
       "AE":{
-         "enabled":false,
-         "userType": "free",
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
-      },
-      "en-GB":{
-         "enabled":false,
-         "probability":0.00,
-         "userType": "free",
-         "showPlansScreen": false,
-         "campaign":"20180822",
-         "url":"",
-         "message":"",
+         "url":"https://t.me/lantern_uae",
+         "message":"For news and updates for Lantern, join our Telegram channel",
          "thanks":"",
-         "button":""
+         "button":"Join"
+      },
+      "ar_AE":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_uae",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
+      },
+      "RU":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_russia",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
+      },
+      "ru_RU":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_russia",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
+      },
+      "TR":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_turkey",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
+      },
+      "tr_TR":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_turkey",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
+      },
+      "VN":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_vietnam",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
+      },
+      "vi_VN":{
+         "enabled":true,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_vietnam",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
       },
       "zh_CN":{
          "enabled":false,
@@ -776,15 +827,6 @@
          "message":"Pro time has been extended, love",
          "thanks":"",
          "button":""
-      },
-      "ar_AE":{
-         "enabled":false,
-         "probability":1.00,
-         "campaign":"20191209",
-         "url":"https://www.surveymonkey.com/r/RMR36FF",
-         "message":"Help Lantern by taking this quick survey!",
-         "thanks":"Thanks for your help!",
-         "button":"Click Here"
       }
    }
 }

@@ -99,6 +99,78 @@
 			"message": "سلام! اطلاعات بیشتر در مورد لنترن پرو در",
 			"thanks": "",
 			"button": "مشاهده وبسایت"
+		},
+		"AE": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_uae",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
+		},
+		"ar-AE": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_uae",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
+		},
+		"RU": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_russia",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
+		},
+		"ru-RU": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_russia",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
+		},
+		"TR": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_turkey",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
+		},
+		"tr-TR": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_turkey",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
+		},
+		"VN": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_vietnam",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
+		},
+		"vi-VN": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20200429",
+			"url": "https://t.me/Lanternpro_vietnam",
+			"message": "For news and updates for Lantern, join our Telegram channel",
+			"thanks": "",
+			"button": "Join"
 		}
 	},
   "bannerAds":{
