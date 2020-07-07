@@ -342,7 +342,7 @@
   "popUpAds":{
     "en-US":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"https://staging.yin.bi",
       "button_url":"https://staging.yin.bi",
       "display_frequency_seconds":86400,
@@ -362,7 +362,7 @@
     },
     "en_US":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"https://yin.bi",
       "button_url":"https://yin.bi",
       "display_frequency_seconds":259200,
@@ -382,7 +382,7 @@
     },
     "zh_CN":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -402,7 +402,7 @@
     },
     "zh_HK":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -422,7 +422,7 @@
     },
     "zh_MO":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -442,7 +442,7 @@
     },
     "zh_TW":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -462,7 +462,7 @@
     },
     "zh-CN":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -482,7 +482,7 @@
     },
     "zh-HK":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -502,7 +502,7 @@
     },
     "zh-MO":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -522,7 +522,7 @@
     },
     "zh-TW":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
@@ -542,7 +542,7 @@
     },
     "zh":{
       "campaign_date":"2019-01-07",
-      "enabled":true,
+      "enabled":false,
       "url":"",
       "button_url":"#/plans",
       "display_frequency_seconds":43200,
