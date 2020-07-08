@@ -37,14 +37,27 @@
 			"thanks": "",
 			"button": "Go Beta!"
 		},
-		"US": {
+		"en-US": {
 			"enabled": false,
-			"probability": 0.00,
-			"campaign": "US20170405",
-			"url": "?utm_source=upgradesnack&utm_campaign=Privateupgrade#/plans",
-			"message": "Check out the beta group",
+			"probability": 1,
+			"campaign": "RANDOMUSLOCONFTESTINGCAMPAIGN2",
+			"url": "https://lantern.io",
+			"message": "I'm a message for free en-US free users with a version constraint. Because of backwards compatibility with clients that don't understand version constraints, we need to set enabled to false here :/",
 			"thanks": "",
-			"button": "Go Beta!"
+			"button": "OK",
+			"pro": false,
+			"versions": ">1.0.0"
+		},
+		"-en-US": {
+			"enabled": false,
+			"probability": 1,
+			"campaign": "RANDOMUSLOCONFTESTINGCAMPAIGN3",
+			"url": "https://lantern.io",
+			"message": "Here's a weird hack to display a message for en-US pro users with a version constraint",
+			"thanks": "",
+			"button": "OK",
+			"versions": ">1.0.0",
+			"pro": true
 		},
 		"en": {
 			"enabled": false,
