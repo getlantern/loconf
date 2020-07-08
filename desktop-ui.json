@@ -204,9 +204,9 @@
     },
     "zh_HK":{
       "enabled":true,
-      "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
-      "link_text":"点击购买",
-      "url":"#/plans"
+      "text":"藍燈不收集任何個人信息，不與香港警察合作，忽略香港法院令!",
+      "link_text":"點擊這裡閱讀藍燈隱私政策。",
+      "url":"https://s3.amazonaws.com/lantern/LanternPrivacyPolicy.pdf"
     },
     "zh_MO":{
       "enabled":true,
@@ -312,6 +312,18 @@
       "renew.reseller_prompt": "网上打折购买了专业版激活码？",
       "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
     },
+    "zh-HK": {
+      "purchase.title": "藍燈 無限流量VPN，保護安全隱私",
+      "purchase.subtitle": "不储存任何信息  不予港警合作  忽略香港法庭命令 境外服务器",
+      "purchase.button_text": "香港用戶免費",
+      "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
+      "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+      "renew.title": "今天续费",
+      "renew.subtitle": "获得免费隐币!",
+      "renew.button_text": "立即续费",
+      "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+      "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+    },  
     "zh_MO": {
       "purchase.title": "蓝灯专业版",
       "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
