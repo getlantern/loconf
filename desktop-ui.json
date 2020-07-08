@@ -28,16 +28,6 @@
 		}
 	},
 	"survey": {
-		"en-US": {
-			"enabled": false,
-			"probability": 1,
-			"campaign": "REPLICABETAu6j0xkh4TTnh9ZF0qFo",
-			"url": "https://lantern.io",
-			"message": "Hey you're using the early lantern beta - this is just a test that loconf works :)",
-			"thanks": "",
-			"button": "OK",
-			"versions": "6.0.0-beta6"
-		},
 		"en-IR": {
 			"enabled": false,
 			"probability": 0.00,
