@@ -194,7 +194,7 @@
     },
     "zh_HK":{
       "enabled":true,
-      "text":"藍燈不收集任何個人信息，不與香港警察合作，忽略香港法院令!",
+      "text":"藍燈不收集任何個人信息，不與香港警察合作，忽略香港法院令！",
       "link_text":"點擊這裡閱讀藍燈隱私政策。",
       "url":"https://s3.amazonaws.com/lantern/LanternPrivacyPolicy.pdf"
     },
@@ -218,7 +218,7 @@
     },
     "zh-HK":{
       "enabled":true,
-      "text":"藍燈不收集任何個人信息，不與香港警察合作，忽略香港法院令!",
+      "text":"藍燈不收集任何個人信息，不與香港警察合作，忽略香港法院令！",
       "link_text":"點擊這裡閱讀藍燈隱私政策。",
       "url":"https://s3.amazonaws.com/lantern/LanternPrivacyPolicy.pdf"
     },
@@ -293,9 +293,9 @@
     "zh_HK": {
       "purchase.title": "藍燈 無限流量VPN，保護安全隱私",
       "purchase.subtitle": "不儲存任何信息 不予港警合作 忽略香港法庭命令 境外服務器",
-      "purchase.button_text": "香港用戶免費",
-      "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
-      "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+      "purchase.button_text": "香港用戶无限免費，點擊捐助我們。",
+      "purchase.reseller_prompt": "在瀏覽器內訪問任何網站即可收到藍燈保護。",
+      "purchase.reseller_link_text": "",
       "renew.title": "今天续费",
       "renew.subtitle": "获得免费隐币!",
       "renew.button_text": "立即续费",
@@ -305,9 +305,9 @@
     "zh-HK": {
       "purchase.title": "藍燈 無限流量VPN 保護安全隱私",
       "purchase.subtitle": "不儲存任何信息 不予港警合作 忽略香港法庭命令 境外服務器",
-      "purchase.button_text": "香港用戶免費",
-      "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
-      "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+      "purchase.button_text": "香港用戶无限免費，點擊捐助我們。",
+      "purchase.reseller_prompt": "在瀏覽器內訪問任何網站即可收到藍燈保護。",
+      "purchase.reseller_link_text": "",
       "renew.title": "今天续费",
       "renew.subtitle": "获得免费隐币!",
       "renew.button_text": "立即续费",
