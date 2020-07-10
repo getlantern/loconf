@@ -13,8 +13,8 @@
       },
       "zh_HK":{
          "enabled":true,
-         "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
-         "url":"https://yin.bi"
+         "text":"藍燈不收集任何個人信息，不與香港警察合作，忽略香港法院令！",
+         "url":"https://s3.amazonaws.com/lantern/LanternPrivacyPolicy.pdf"
       },
       "zh_MO":{
          "enabled":true,
@@ -33,8 +33,8 @@
       },
       "zh-HK":{
          "enabled":true,
-         "text":"蓝灯与隐币是合作伙伴，购买蓝灯可免费获赠加密货币隐币！",
-         "url":"https://yin.bi"
+         "text":"藍燈不收集任何個人信息，不與香港警察合作，忽略香港法院令！",
+         "url":"https://s3.amazonaws.com/lantern/LanternPrivacyPolicy.pdf"
       },
       "zh-MO":{
          "enabled":true,
@@ -240,7 +240,7 @@
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
      },
     "zh_HK":{
-        "enabled":true,
+        "enabled":false,
         "url": "",
         "button_url":"#/plans",
         "display_frequency_seconds": 43200,
@@ -392,7 +392,7 @@
         "content.mobile.secondary_screen.pro": "YNB会根据当天发放隐币总量，当天购买/续费数量和购买/续费时长，在每日日终发放。"
      },
     "zh-HK":{
-        "enabled":true,
+        "enabled":false,
         "url": "",
         "button_url":"#/plans",
         "display_frequency_seconds": 43200,
@@ -583,11 +583,23 @@
          "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
        },
       "zh_HK": {
-         "purchase.title": "蓝灯专业版",
-         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币",
-         "purchase.button_text": "立即升级",
-         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
-         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币",
+         "purchase.title": "藍燈 無限流量VPN",
+         "purchase.subtitle": "不儲存任何信息 不予港警合作 忽略香港法庭命令 境外服務器",
+         "purchase.button_text": "香港用戶免費",
+         "purchase.reseller_prompt": "打開藍燈安全隱秘的使用互聯網！",
+         "purchase.reseller_link_text": "",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
+      "zh-HK": {
+         "purchase.title": "藍燈 無限流量VPN",
+         "purchase.subtitle": "不儲存任何信息 不予港警合作 忽略香港法庭命令 境外服務器",
+         "purchase.button_text": "香港用戶免費",
+         "purchase.reseller_prompt": "打開藍燈安全隱秘的使用互聯網！",
+         "purchase.reseller_link_text": "",
          "renew.title": "今天续费",
          "renew.subtitle": "获得免费隐币!",
          "renew.button_text": "立即续费",
@@ -669,11 +681,23 @@
          "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
        },
       "zh_HK": {
-         "purchase.title": "蓝灯专业版",
-         "purchase.subtitle": "速度更快。 更稳定。无流量限制。免费加密货币隐币。",
-         "purchase.button_text": "立即升级",
-         "purchase.reseller_prompt": "网上打折购买了专业版激活码？",
-         "purchase.reseller_link_text": "点这里使用激活码升级，免费开抢隐币！",
+         "purchase.title": "藍燈 無限流量VPN",
+         "purchase.subtitle": "不儲存任何信息 不予港警合作 忽略香港法庭命令 境外服務器",
+         "purchase.button_text": "香港用戶免費",
+         "purchase.reseller_prompt": "打開藍燈安全隱秘的使用互聯網！",
+         "purchase.reseller_link_text": "",
+         "renew.title": "今天续费",
+         "renew.subtitle": "获得免费隐币!",
+         "renew.button_text": "立即续费",
+         "renew.reseller_prompt": "网上打折购买了专业版激活码？",
+         "renew.reseller_link_text": "点这里使用激活码续费，免费开抢隐币"
+       },
+      "zh-HK": {
+         "purchase.title": "藍燈 無限流量VPN",
+         "purchase.subtitle": "不儲存任何信息 不予港警合作 忽略香港法庭命令 境外服務器",
+         "purchase.button_text": "香港用戶免費",
+         "purchase.reseller_prompt": "打開藍燈安全隱秘的使用互聯網！",
+         "purchase.reseller_link_text": "",
          "renew.title": "今天续费",
          "renew.subtitle": "获得免费隐币!",
          "renew.button_text": "立即续费",
