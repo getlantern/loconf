@@ -28,6 +28,16 @@
 		}
 	},
 	"survey": {
+		"zh-CN": {
+			"enabled": false,
+			"probability": 1,
+			"campaign": "replica-survey-zh-CH-6.0.0-beta6-2020-07-13",
+			"url": "https://www.surveymonkey.com/r/W7B6R5J",
+			"message": "让我们知道您对Lantern的新功能的想法！",
+			"thanks": "",
+			"button": "参与调查",
+			"versions": "6.0.0-beta6"
+		},
 		"en-IR": {
 			"enabled": false,
 			"probability": 0.00,
@@ -54,15 +64,6 @@
 			"message":"Pro time has been extended, love",
 			"thanks":"",
 			"button":""
-		},
-		"zh-CN": {
-			"enabled": false,
-			"probability": 0.00,
-			"campaign": "20200312",
-			"url": "",
-			"message": "专业版时间已延长，笔芯",
-			"thanks": "",
-			"button": ""
 		},
 		"IN": {
 			"enabled": false,
