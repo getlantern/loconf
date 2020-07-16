@@ -38,14 +38,15 @@
 			"button": "参与调查",
 			"versions": "6.0.0-beta6"
 		},
-		"en-IR": {
+		"fa-IR": {
 			"enabled": false,
-			"probability": 0.00,
-			"campaign": "beta-4.9.0",
-			"url": "https://t.me/joinchat/InmeFFav9Ffb4Q3D_YfMXg",
-			"message": "Lantern 4.9.0 is available in our Telegram beta group.",
+			"probability": 1,
+			"campaign": "replica-survey-fa-IR-6.0.0-beta6-2020-07-16",
+			"url": "https://www.surveymonkey.com/r/3JKFFR8",
+			"message": "لطفا ما را از نظراتتان درباره ی ویژگی های جدید لنترن مطلع کنید.",
 			"thanks": "",
-			"button": "Join Now!"
+			"button": "در نظرسنجی شرکت کنید"
+			"versions": "6.0.0-beta6"
 		},
 		"US": {
 			"enabled":false,
