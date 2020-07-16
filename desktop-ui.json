@@ -45,7 +45,7 @@
 			"url": "https://www.surveymonkey.com/r/3JKFFR8",
 			"message": "لطفا ما را از نظراتتان درباره ی ویژگی های جدید لنترن مطلع کنید.",
 			"thanks": "",
-			"button": "در نظرسنجی شرکت کنید"
+			"button": "در نظرسنجی شرکت کنید",
 			"versions": "6.0.0-beta6"
 		},
 		"US": {
@@ -83,24 +83,6 @@
 			"message": "Lantern is hiring an engineer in India! For more info, and to apply",
 			"thanks": "Thanks for your application!",
 			"button": "Click Here"
-		},
-		"IR": {
-			"enabled":true,
-			"probability": 1.00,
-			"campaign": "20200401",
-			"url": "https://t.me/Lanternpro_Iran",
-            "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
-            "thanks": "",
-            "button": "ورود به کانال"
-		},
-		"fa-IR": {
-			"enabled":true,
-			"probability": 1.00,
-			"campaign": "20200401",
-			"url": "https://t.me/Lanternpro_Iran",
-            "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
-            "thanks": "",
-            "button": "ورود به کانال"
 		},
 		"AE": {
 			"enabled":true,
