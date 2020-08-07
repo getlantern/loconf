@@ -37,6 +37,32 @@
 			"thanks": "",
 			"button": "Go Beta!"
 		},
+		"US": {
+			"enabled":false,
+			"versions": "9999.99.99+replica-dev",
+			"probability":1,
+			"campaign":"maxb-qa-features-matching-replica",
+			"features": {
+				"replica": true
+			},
+			"url":"",
+			"message":"You have replica enabled",
+			"thanks":"",
+			"button":""
+		},
+		"-US": {
+			"enabled":false,
+			"versions": "9999.99.99+replica-dev",
+			"probability":1,
+			"campaign":"maxb-qa-features-matching-no-replica",
+			"features": {
+				"replica": false
+			},
+			"url":"",
+			"message":"You DO NOT have replica enabled",
+			"thanks":"",
+			"button":""
+		},
 		"en-US": {
 			"enabled": false,
 			"probability": 1,
