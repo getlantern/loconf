@@ -19,11 +19,11 @@
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
     },
-    "en-US": {
-      "enabled": false,
-      "probability": 0.00,
-      "campaign": "20160801",
-      "url": "",
+    "en-ZA": {
+      "enabled": true,
+      "probability": 1.00,
+      "campaign": "20200811",
+      "url": "https://www.surveymonkey.com/r/MCBNJSV",
       "message": "Help make Lantern better, take this quick survey now!",
       "thanks": "Thanks for taking our survey!",
       "button": "Take survey"
