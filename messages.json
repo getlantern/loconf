@@ -851,6 +851,24 @@
          "message":"Pro time has been extended, love",
          "thanks":"",
          "button":""
+      },
+      "en_ZA":{
+         "enabled":true,
+         "probability":1.00,
+         "campaign":"20200812a",
+         "url":"https://www.surveymonkey.com/r/MCBNJSV",
+         "message":"Help improve Lantern by taking this short survey",
+         "thanks":"",
+         "button":"Click Here"
+       },
+      "ZA":{
+         "enabled":true,
+         "probability":1.00,
+         "campaign":"20200812b",
+         "url":"https://www.surveymonkey.com/r/MCBNJSV",
+         "message":"Help improve Lantern by taking this short survey",
+         "thanks":"",
+         "button":"Click Here"
       }
    }
 }
