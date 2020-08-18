@@ -761,13 +761,12 @@
       },
       "us":{
          "enabled":true,
-         "userType": "free",
          "probability":1.00,
-         "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=6nT911jkWEo",
-         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-         "thanks":"با تشکر",
-         "button":"تماشا کنید"
+         "campaign":"20200812a",
+         "url":"https://www.surveymonkey.com/r/MCBNJSV",
+         "message":"Help improve Lantern by taking this short survey",
+         "thanks":"",
+         "button":"Click Here"
       },
       "en-GB":{
          "enabled":false,
