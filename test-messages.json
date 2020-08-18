@@ -749,17 +749,17 @@
          "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
-      // "en_US":{
-      //    "enabled":false,
-      //    "userType": "free",
-      //    "probability":1.00,
-      //    "showPlansScreen": false,
-      //    "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
-      //    "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
-      //    "thanks":"با تشکر",
-      //    "button":"تماشا کنید"
-      // },
-      "us":{
+      "en_US":{
+         "enabled":false,
+         "userType": "free",
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
+         "thanks":"با تشکر",
+         "button":"تماشا کنید"
+      },
+      "US":{
          "enabled":true,
          "probability":1.00,
          "campaign":"20200812a",
