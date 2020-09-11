@@ -834,7 +834,7 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "campaign":"paxful-survey",
