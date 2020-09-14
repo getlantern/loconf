@@ -29,17 +29,13 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1,
-			"campaign": "replica-survey-zh-CH-6.0.0-2020-08-18",
-			"url": "https://www.surveymonkey.com/r/FCVRJKP",
-			"message": "让我们知道您对Lantern的新功能的想法！",
+			"campaign": "paxful-survey-zh-CH-all-versions-2020-09-11",
+			"url": "yinshi.paxful.com",
+			"message": "隐市: 去秘密市场交易礼品卡、数字货币、游戏、视频等电子商品吧！",
 			"thanks": "",
-			"button": "参与调查",
-			"versions": ">6.0.0",
-			"features": {
-				"replica": true
-			}
+			"button": "立即点击参与！"
 		},
 		"fa-IR": {
 			"enabled": false,
