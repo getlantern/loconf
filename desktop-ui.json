@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1,
 			"campaign": "paxful-survey-zh-CH-all-versions-2020-09-11",
 			"url": "https://yinshi.paxful.com",
