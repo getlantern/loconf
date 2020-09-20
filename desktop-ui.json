@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1,
+			"enabled": false,
+			"probability": 0,
 			"campaign": "name-survey-2-zh-CH-all-versions-2020-09-19",
 			"url": "https://www.surveymonkey.com/r/5SJBLNF",
 			"message": "来回答只有一个问题的调查吧！",
