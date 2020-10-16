@@ -2,7 +2,7 @@
 	"uninstall-survey-free": {
 		"en-US": {
 			"enabled": true,
-			"probability": 1.0,
+			"probability": 1.00,
 			"campaign": "US20191219",
 			"url": "https://www.surveymonkey.com/r/8KT27H2"
 		},
@@ -29,13 +29,13 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0,
-			"campaign": "name-survey-2-zh-CH-all-versions-2020-09-19",
-			"url": "https://www.surveymonkey.com/r/5SJBLNF",
-			"message": "来回答只有一个问题的调查吧！",
+			"enabled": true,
+			"probability": 1.0,
+			"campaign": "beam-launch-2020-10-16",
+			"url": "https://github.com/xiaoshoudian/xiazai",
+			"message": "小手电VPN100%免费，不储存任何浏览记录，还能搜索上传任何视频文件。",
 			"thanks": "",
-			"button": "点击这里"
+			"button": "立即尝试！"
 		},
 		"fa-IR": {
 			"enabled": false,
