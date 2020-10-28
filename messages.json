@@ -834,8 +834,8 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0,
          "showPlansScreen": false,
          "campaign":"paxful-survey",
          "url":"https://yinshi.paxful.com/",
