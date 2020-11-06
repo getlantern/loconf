@@ -52,7 +52,6 @@
 		},
 		"-US": {
 			"enabled":false,
-			"versions": "9999.99.99+replica-dev",
 			"probability":1,
 			"campaign":"maxb-qa-features-matching-no-replica",
 			"features": {
