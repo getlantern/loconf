@@ -39,7 +39,6 @@
 		},
 		"US": {
 			"enabled":false,
-			"versions": "9999.99.99+replica-dev",
 			"probability":1,
 			"campaign":"maxb-qa-features-matching-replica",
 			"features": {
@@ -67,11 +66,10 @@
 			"probability": 1,
 			"campaign": "RANDOMUSLOCONFTESTINGCAMPAIGN2",
 			"url": "https://lantern.io",
-			"message": "I'm a message for free en-US free users with a version constraint. Because of backwards compatibility with clients that don't understand version constraints, we need to set enabled to false here :/",
+			"message": "I'm a message for free en-US free users with a version constraint. Right now, I believe that beam clients have a low version set, so this should basically only target beam clients. Because of backwards compatibility with clients that don't understand version constraints, we need to set enabled to false here :/",
 			"thanks": "",
 			"button": "OK",
-			"pro": false,
-			"versions": ">1.0.0"
+			"versions": "<3.0.0"
 		},
 		"-en-US": {
 			"enabled": false,
