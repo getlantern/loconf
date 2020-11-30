@@ -29,9 +29,9 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.0,
-			"campaign": "beam-launch-2020-10-16",
+			"campaign": "beam-launch-2020-11-29",
 			"url": "https://github.com/xiaoshoudian/xiazai",
 			"message": "小手电VPN100%免费，不储存任何浏览记录，还能搜索上传任何视频文件。",
 			"thanks": "",
