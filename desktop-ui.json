@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "beam-launch-2020-11-29",
 			"url": "https://github.com/xiaoshoudian/xiazai",
