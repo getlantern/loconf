@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.0,
 			"campaign": "Pro-survey-2020-12-22",
 			"url": "https://www.surveymonkey.com/r/6V2B2JL",
 			"message": "参与调查帮助我们改进蓝灯！",
