@@ -28,10 +28,10 @@
 		}
 	},
 	"survey": {
-		"zh-CN": {
+		"CN": {
 			"enabled": false,
-			"probability": 1,
-			"campaign": "Replica-survey-2021-01-05",
+			"probability": 1.0,
+			"campaign": "Replica-survey-2021-01-07",
 			"url": "https://www.surveymonkey.com/r/6JB9NFV",
 			"message": "让我们知道您对Lantern的新功能的想法！",
 			"thanks": "",
