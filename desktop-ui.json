@@ -28,7 +28,7 @@
 		}
 	},
 	"survey": {
-		"zh": {
+		"zh-CN": {
 			"enabled": false,
 			"probability": 1.0,
 			"campaign": "Replica-survey-2021-01-07",
