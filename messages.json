@@ -855,7 +855,6 @@
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "campaign":"2020-02-25-android-survey",
          "url":"https://www.surveymonkey.com/r/3CDRLKF",
          "message":"参与调查帮助我们改进蓝灯！",
          "thanks":"",
