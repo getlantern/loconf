@@ -744,58 +744,62 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/Lanternpro_Iran",
-         "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
+         "url":"https://www.surveymonkey.com/r/XWNZ357",
+         "message":"با انجام این نظرسنجی، به ما برای ارتقای Lantern کمک کنید.",
          "thanks": "",
-         "button": "ورود به کانال"
+         "button": " اینجا را کلیک کنید"
       },
       "fa_IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/Lanternpro_Iran",
-         "message":"برای پیوستن به کانال تلگرامی اخبار و آپدیت های لنترن وارد لینک مقابل شوید",
+         "url":"https://www.surveymonkey.com/r/XWNZ357",
+         "message":"با انجام این نظرسنجی، به ما برای ارتقای Lantern کمک کنید.",
          "thanks": "",
-         "button": "ورود به کانال"
+         "button": " اینجا را کلیک کنید"
       },
       "AE":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
+         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_uae",
-         "message":"For news and updates for Lantern, join our Telegram channel",
+         "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
+         "message":"Help us Improve Lantern by taking this survey!",
          "thanks":"",
-         "button":"Join"
+         "button":"Click Here"
       },
       "ar_AE":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
+         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_uae",
-         "message":"For news and updates for Lantern, join our Telegram channel",
+         "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
+         "message":"Help us Improve Lantern by taking this survey!  Click here!",
          "thanks":"",
-         "button":"Join"
+         "button":"Click Here"
       },
       "SA":{
          "enabled":false,
          "probability":1.00,
+         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_uae",
-         "message":"For news and updates for Lantern, join our Telegram channel",
+         "url":"https://www.surveymonkey.com/r/XG9G82S",
+         "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
          "thanks":"",
-         "button":"Join"
+         "button":"انقر هنا"
       },
       "ar_SA":{
          "enabled":false,
          "probability":1.00,
+         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_uae",
-         "message":"For news and updates for Lantern, join our Telegram channel",
+         "url":"https://www.surveymonkey.com/r/XG9G82S",
+         "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
          "thanks":"",
-         "button":"Join"   
+         "button":"انقر هنا"   
       },
       "RU":{
          "enabled":true,
@@ -862,27 +866,29 @@
          "button":"立即点击参与！"
       },
       "en_US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
-         "campaign":"20200312",
-         "url":"",
-         "message":"Pro time has been extended, love",
+         "campaign":"2020-02-25-android-survey",
+         "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
+         "message":"Help us Improve Lantern by taking this survey!",
          "thanks":"",
-         "button":""
+         "button":"Click Here"
       },
       "US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
-         "campaign":"20200312",
-         "url":"",
-         "message":"Pro time has been extended, love",
+         "campaign":"2020-02-25-android-survey",
+         "showPlansScreen": false,
+         "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
+         "message":"Help us Improve Lantern by taking this survey!",
          "thanks":"",
-         "button":""   
+         "button":"Click Here"   
       },
       "en_ZA":{
          "enabled":true,
          "probability":1.00,
          "campaign":"20200818a",
+         "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/MCBNJSV",
          "message":"Help improve Lantern by taking this short survey",
          "thanks":"",
