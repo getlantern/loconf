@@ -764,7 +764,6 @@
       "AE":{
          "enabled":true,
          "probability":1.00,
-         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3T933LK",
          "message":"Help us Improve Lantern by taking this survey!",
@@ -774,17 +773,15 @@
       "ar_AE":{
          "enabled":true,
          "probability":1.00,
-         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3T933LK",
-         "message":"Help us Improve Lantern by taking this survey!  Click here!",
+         "message":"Help us Improve Lantern by taking this survey!",
          "thanks":"",
          "button":"Click Here"
       },
       "SA":{
          "enabled":false,
          "probability":1.00,
-         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/XG9G82S",
          "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
@@ -794,7 +791,6 @@
       "ar_SA":{
          "enabled":false,
          "probability":1.00,
-         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/XG9G82S",
          "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
@@ -868,7 +864,6 @@
       "en_US":{
          "enabled":true,
          "probability":1.00,
-         "campaign":"2020-02-25-android-survey",
          "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
          "message":"Help us Improve Lantern by taking this survey!",
          "thanks":"",
@@ -877,7 +872,6 @@
       "US":{
          "enabled":true,
          "probability":1.00,
-         "campaign":"2020-02-25-android-survey",
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
          "message":"Help us Improve Lantern by taking this survey!",
