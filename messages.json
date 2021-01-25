@@ -856,14 +856,14 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "campaign":"paxful-survey",
-         "url":"https://yinshi.paxful.com/",
-         "message":"隐市: 去秘密市场交易礼品卡、数字货币、游戏、视频等电子商品吧",
+         "campaign":"2020-02-25-android-survey",
+         "url":"https://www.surveymonkey.com/r/3CDRLKF",
+         "message":"参与调查帮助我们改进蓝灯！",
          "thanks":"",
-         "button":"立即点击参与！"
+         "button":"点击这里"
       },
       "en_US":{
          "enabled":true,
