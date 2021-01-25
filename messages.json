@@ -744,7 +744,7 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/Lanternpro_Iran",
@@ -753,7 +753,7 @@
          "button": "ورود به کانال"
       },
       "fa_IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/Lanternpro_Iran",
@@ -762,7 +762,7 @@
          "button": "ورود به کانال"
       },
       "AE":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_uae",
@@ -771,13 +771,31 @@
          "button":"Join"
       },
       "ar_AE":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_uae",
          "message":"For news and updates for Lantern, join our Telegram channel",
          "thanks":"",
          "button":"Join"
+      },
+      "SA":{
+         "enabled":false,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_uae",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"
+      },
+      "ar_SA":{
+         "enabled":false,
+         "probability":1.00,
+         "showPlansScreen": false,
+         "url":"https://t.me/lantern_uae",
+         "message":"For news and updates for Lantern, join our Telegram channel",
+         "thanks":"",
+         "button":"Join"   
       },
       "RU":{
          "enabled":true,
@@ -851,6 +869,15 @@
          "message":"Pro time has been extended, love",
          "thanks":"",
          "button":""
+      },
+      "US":{
+         "enabled":false,
+         "probability":1.00,
+         "campaign":"20200312",
+         "url":"",
+         "message":"Pro time has been extended, love",
+         "thanks":"",
+         "button":""   
       },
       "en_ZA":{
          "enabled":true,
