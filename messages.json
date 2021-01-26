@@ -780,7 +780,7 @@
          "button":"Click Here"
       },
       "SA":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/XG9G82S",
@@ -789,7 +789,7 @@
          "button":"انقر هنا"
       },
       "ar_SA":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/XG9G82S",
