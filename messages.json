@@ -753,8 +753,8 @@
          "button": " اینجا را کلیک کنید"
       },
       "fa_IR":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/XWNZ357",
          "message":"با انجام این نظرسنجی، به ما برای ارتقای Lantern کمک کنید.",
@@ -762,8 +762,8 @@
          "button": " اینجا را کلیک کنید"
       },
       "AE":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3T933LK",
          "message":"Help us improve Lantern by taking this survey!",
