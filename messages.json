@@ -852,21 +852,21 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/3CDRLKF",
-         "message":"参与调查帮助我们改进蓝灯！",
+         "url":"https://www.surveymonkey.com/r/3XYLC87",
+         "message":"我们正在开发加密聊天软件",
          "thanks":"",
-         "button":"点击这里"
+         "button":"请分享您的想法"
       },
-      "en_US":{
-         "enabled":false,
+      "CN":{
+         "enabled":true,
          "probability":1.00,
-         "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
-         "message":"Help us improve Lantern by taking this survey!",
+         "url":"https://www.surveymonkey.com/r/3XYLC87",
+         "message":"我们正在开发加密聊天软件",
          "thanks":"",
-         "button":"Click Here"
+         "button":"请分享您的想法"
       },
       "US":{
          "enabled":false,
