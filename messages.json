@@ -744,22 +744,22 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/XWNZ357",
-         "message":"با انجام این نظرسنجی، به ما برای ارتقای Lantern کمک کنید.",
+         "url":"https://www.surveymonkey.com/r/X9PDNJ9",
+         "message":"ما در حال ساخت خصوصیت رمز گذاری شده پیام رسانی هستیم.",
          "thanks": "",
-         "button": " اینجا را کلیک کنید"
+         "button": "نظر خود را با ما درمیان بگذراید."
       },
       "fa_IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/XWNZ357",
-         "message":"با انجام این نظرسنجی، به ما برای ارتقای Lantern کمک کنید.",
+         "url":"https://www.surveymonkey.com/r/X9PDNJ9",
+         "message":"ما در حال ساخت خصوصیت رمز گذاری شده پیام رسانی هستیم.",
          "thanks": "",
-         "button": " اینجا را کلیک کنید"
+         "button": "نظر خود را با ما درمیان بگذراید."
       },
       "AE":{
          "enabled":false,
