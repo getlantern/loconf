@@ -29,22 +29,18 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1.0,
-			"campaign": "Replica-survey-2021-01-28",
-			"url": "https://www.surveymonkey.com/r/8YBXXHP",
-			"message": "让我们知道您对Lantern的新功能的想法！",
+			"campaign": "messaging-survey-2021-02-03",
+			"url": "https://www.surveymonkey.com/r/KTYGC78",
+			"message": "我们正在开发加密聊天软件",
 			"thanks": "",
-			"button": "参与调查",
-			"versions": ">=6.0.0",
-			"features": {
-				"replica": true
-			}
+			"button": "请分享您的想法"
 		},
 		"fa-IR": {
 			"enabled": false,
 			"probability": 0,
-			"campaign": "replica-survey-fa-IR-6.0.0-2020-08-18",
+			"campaign": "https://www.surveymonkey.com/r/KTYGC78",
 			"url": "https://www.surveymonkey.com/r/3JKFFR8",
 			"message": "لطفا ما را از نظراتتان درباره ی ویژگی های جدید لنترن مطلع کنید.",
 			"thanks": "",
