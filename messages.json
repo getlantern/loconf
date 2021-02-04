@@ -744,7 +744,7 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/X9PDNJ9",
@@ -753,7 +753,7 @@
          "button": "نظر خود را با ما درمیان بگذراید."
       },
       "fa_IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/X9PDNJ9",
