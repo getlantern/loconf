@@ -744,7 +744,7 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/X9PDNJ9",
@@ -753,7 +753,7 @@
          "button": "نظر خود را با ما درمیان بگذراید."
       },
       "fa_IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/X9PDNJ9",
@@ -852,7 +852,7 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3XYLC87",
@@ -861,7 +861,7 @@
          "button":"请分享您的想法"
       },
       "CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "url":"https://www.surveymonkey.com/r/3XYLC87",
          "message":"我们正在开发加密聊天软件",
