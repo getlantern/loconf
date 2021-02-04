@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.0,
 			"campaign": "messaging-survey-2021-02-03",
 			"url": "https://www.surveymonkey.com/r/KTYGC78",
 			"message": "我们正在开发加密聊天软件",
