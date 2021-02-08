@@ -744,8 +744,8 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/X9PDNJ9",
          "message":"ما در حال ساخت خصوصیت رمز گذاری شده پیام رسانی هستیم.",
@@ -753,8 +753,8 @@
          "button": "نظر خود را با ما درمیان بگذراید."
       },
       "fa_IR":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/X9PDNJ9",
          "message":"ما در حال ساخت خصوصیت رمز گذاری شده پیام رسانی هستیم.",
@@ -852,8 +852,8 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3XYLC87",
          "message":"我们正在开发加密聊天软件",
@@ -861,8 +861,8 @@
          "button":"请分享您的想法"
       },
       "CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/3XYLC87",
          "message":"我们正在开发加密聊天软件",
          "thanks":"",
