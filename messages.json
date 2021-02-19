@@ -762,31 +762,31 @@
          "button": "نظر خود را با ما درمیان بگذراید."
       },
       "AE":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/3T933LK",
+         "url":"https://www.surveymonkey.com/r/3NLTGXV",
          "message":"Help us improve Lantern by taking this survey!",
          "thanks":"",
          "button":"Click Here"
       },
       "ar_AE":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/3T933LK",
+         "url":"https://www.surveymonkey.com/r/3NLTGXV",
          "message":"Help us improve Lantern by taking this survey!",
          "thanks":"",
          "button":"Click Here"
       },
-      "SA":{
-         "enabled":false,
+      "en_AE":{
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/XG9G82S",
-         "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
+         "url":"https://www.surveymonkey.com/r/3NLTGXV",
+         "message":"Help us improve Lantern by taking this survey!",
          "thanks":"",
-         "button":"انقر هنا"
+         "button":"Click Here"
       },
       "ar_SA":{
          "enabled":false,
