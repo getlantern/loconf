@@ -762,7 +762,7 @@
          "button": "نظر خود را با ما درمیان بگذراید."
       },
       "AE":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3NLTGXV",
@@ -771,7 +771,7 @@
          "button":"Click Here"
       },
       "ar_AE":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3NLTGXV",
@@ -780,7 +780,7 @@
          "button":"Click Here"
       },
       "en_AE":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3NLTGXV",
