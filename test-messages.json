@@ -732,19 +732,19 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "url":"",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
          "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
       "fa_IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "url":"",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
          "thanks":"با تشکر",
          "button":"تماشا کنید"
@@ -754,13 +754,13 @@
          "userType": "free",
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.youtube.com/watch?v=X5DYspZf-2k",
+         "url":"",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
          "thanks":"با تشکر",
          "button":"تماشا کنید"
       },
       "US":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20200812a",
          "url":"https://www.surveymonkey.com/r/MCBNJSV",
