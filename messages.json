@@ -852,19 +852,19 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/82VMLFF",
-         "message":"Help us improve Lantern by talking with us!",
+         "message":"",
          "thanks":"",
          "button":"Click here"
       },
       "CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/82VMLFF",
-         "message":"Help us improve Lantern by talking with us!",
+         "message":"",
          "thanks":"",
          "button":"Click here"
       },
