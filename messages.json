@@ -798,7 +798,7 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_russia",
@@ -807,7 +807,7 @@
          "button":"Join"
       },
       "ru_RU":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_russia",
@@ -816,7 +816,7 @@
          "button":"Join"
       },
       "TR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_turkey",
@@ -825,7 +825,7 @@
          "button":"Join"
       },
       "tr_TR":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_turkey",
@@ -834,7 +834,7 @@
          "button":"Join"
       },
       "VN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_vietnam",
@@ -843,7 +843,7 @@
          "button":"Join"
       },
       "vi_VN":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_vietnam",
@@ -852,21 +852,20 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/82VMLFF",
-         "message":"",
+         "enabled":true,
+         "probability":1.00,
+         "url":"",
+         "message":"YNB将在7月26日22:00正式上线Bitmart交易所，准备开抢吧！",
          "thanks":"",
-         "button":"Click here"
+         "button":""
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/82VMLFF",
-         "message":"",
+         "enabled":true,
+         "probability":1.00,
+         "url":"",
+         "message":"YNB将在7月26日22:00正式上线Bitmart交易所，准备开抢吧！",
          "thanks":"",
-         "button":"Click here"
+         "button":""
       },
       "US":{
          "enabled":false,
