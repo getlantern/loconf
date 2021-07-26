@@ -31,20 +31,20 @@
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "bitmart-preview-1",
-			"url": "",
-			"message": "YNB将在7月27日01:00正式上线Bitmart交易所，准备开抢吧！",
+			"campaign": "bitmart-launch-1",
+			"url": "https://www.bitmart.com/trade/cn?layout=basic",
+			"message": "隐币正式上币Bitmart交易所",
 			"thanks": "",
-			"button": ""
+			"button": "立即开抢"
 		},
 		"CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "bitmart-preview-2",
-			"url": "",
-			"message": "YNB将在7月27日01:00正式上线Bitmart交易所，准备开抢吧！",
+			"campaign": "bitmart-launch-2",
+			"url": "https://www.bitmart.com/trade/cn?layout=basic",
+			"message": "隐币正式上币Bitmart交易所",
 			"thanks": "",
-			"button": ""
+			"button": "立即开抢"
 		},
 		"US": {
 			"enabled":false,
