@@ -854,7 +854,7 @@
       "zh_CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://www.bitmart.com/trade/cn?layout=basic",
+         "url":"https://www.bitmart.com/trade/cn?layout=basic&symbol=Yinbi_USDT",
          "message":"隐币正式上币Bitmart交易所",
          "thanks":"",
          "button":"立即开抢"
@@ -862,7 +862,7 @@
       "CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://www.bitmart.com/trade/cn?layout=basic",
+         "url":"https://www.bitmart.com/trade/cn?layout=basic&symbol=Yinbi_USDT",
          "message":"隐币正式上币Bitmart交易所",
          "thanks":"",
          "button":"立即开抢"
