@@ -854,18 +854,18 @@
       "zh_CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://www.bitmart.com/trade/cn?layout=basic&symbol=Yinbi_USDT",
-         "message":"隐币正式上币Bitmart交易所",
+         "url":"https://www.bitmart.com/trade/cn?symbol=Yinbi_USDT&layout=basic",
+         "message":"您将可以使用隐币购买蓝灯专业版，",
          "thanks":"",
-         "button":"立即开抢"
+         "button":"立即购买隐币吧！"
       },
       "CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://www.bitmart.com/trade/cn?layout=basic&symbol=Yinbi_USDT",
-         "message":"隐币正式上币Bitmart交易所",
+         "url":"https://www.bitmart.com/trade/cn?symbol=Yinbi_USDT&layout=basic",
+         "message":"您将可以使用隐币购买蓝灯专业版，",
          "thanks":"",
-         "button":"立即开抢"
+         "button":"立即购买隐币吧！"
       },
       "US":{
          "enabled":false,
