@@ -31,20 +31,20 @@
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "bitmart-message-1",
-			"url": "https://www.bitmart.com/trade/cn?symbol=Yinbi_USDT&layout=basic",
-			"message": "您将可以使用隐币购买蓝灯专业版，",
+			"campaign": "yinshi-message-1",
+			"url": "https://yinshix.com/",
+			"message": "蓝灯即将上线隐市匿名交易所，使用隐币支付。",
 			"thanks": "",
-			"button": "立即购买隐币吧！"
+			"button": "立即开抢隐币并订阅！"
 		},
 		"CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "bitmart-message-2",
-			"url": "https://www.bitmart.com/trade/cn?symbol=Yinbi_USDT&layout=basic",
-			"message": "您将可以使用隐币购买蓝灯专业版，",
+			"campaign": "yinshi-message-2",
+			"url": "https://yinshix.com/",
+			"message": "蓝灯即将上线隐市匿名交易所，使用隐币支付。",
 			"thanks": "",
-			"button": "立即购买隐币吧！"
+			"button": "立即开抢隐币并订阅！"
 		},
 		"US": {
 			"enabled":false,
