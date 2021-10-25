@@ -31,38 +31,38 @@
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "yinshi-message-1",
-			"url": "https://yinshix.com/",
-			"message": "蓝灯即将上线隐市匿名交易所，使用隐币支付。",
+			"campaign": "replica-october-survey-CN",
+			"url": "https://www.surveymonkey.com/r/7VWW6YV",
+			"message": "帮助我们改进蓝灯",
 			"thanks": "",
-			"button": "立即开抢隐币并订阅！"
+			"button": "参加调查"
 		},
 		"CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "yinshi-message-2",
-			"url": "https://yinshix.com/",
-			"message": "蓝灯即将上线隐市匿名交易所，使用隐币支付。",
+			"campaign": "replica-october-survey-CN-2",
+			"url": "https://www.surveymonkey.com/r/7VWW6YV",
+			"message": "帮助我们改进蓝灯",
 			"thanks": "",
-			"button": "立即开抢隐币并订阅！"
+			"button": "参加调查"
 		},
-		"US": {
-			"enabled":false,
-			"probability":0.00,
-			"campaign":"20200312",
-			"url":"",
-			"message":"Pro time has been extended, love",
+		"fa_IR": {
+			"enabled":true,
+			"probability":1.00,
+			"campaign":"replica-october-survey-IR",
+			"url":"https://www.surveymonkey.com/r/VRLDBYY",
+			"message":"در بهبود Lantern به ما کمک کنید!",
 			"thanks":"",
-			"button":""
+			"button":"در نظرسنجی شرکت کنید"
 		},
-		"en": {
-			"enabled":false,
-			"probability":0.00,
-			"campaign":"20200312",
-			"url":"",
-			"message":"Pro time has been extended, love",
+		"IR": {
+			"enabled":true,
+			"probability":1.00,
+			"campaign":"replica-october-survey-IR-2",
+			"url":"https://www.surveymonkey.com/r/VRLDBYY",
+			"message":"در بهبود Lantern به ما کمک کنید!",
 			"thanks":"",
-			"button":""
+			"button":"در نظرسنجی شرکت کنید"
 		},
 		"IN": {
 			"enabled": false,
