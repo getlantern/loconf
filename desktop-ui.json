@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.0,
 			"campaign": "replica-october-survey-CN",
 			"url": "https://www.surveymonkey.com/r/7VWW6YV",
 			"message": "帮助我们改进蓝灯",
@@ -38,8 +38,8 @@
 			"button": "参加调查"
 		},
 		"CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.0,
 			"campaign": "replica-october-survey-CN-2",
 			"url": "https://www.surveymonkey.com/r/7VWW6YV",
 			"message": "帮助我们改进蓝灯",
@@ -47,8 +47,8 @@
 			"button": "参加调查"
 		},
 		"fa_IR": {
-			"enabled":true,
-			"probability":1.00,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"replica-october-survey-IR",
 			"url":"https://www.surveymonkey.com/r/VRLDBYY",
 			"message":"در بهبود Lantern به ما کمک کنید!",
@@ -56,8 +56,8 @@
 			"button":"در نظرسنجی شرکت کنید"
 		},
 		"IR": {
-			"enabled":true,
-			"probability":1.00,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"replica-october-survey-IR-2",
 			"url":"https://www.surveymonkey.com/r/VRLDBYY",
 			"message":"در بهبود Lantern به ما کمک کنید!",
