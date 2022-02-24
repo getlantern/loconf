@@ -802,18 +802,18 @@
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_russia",
-         "message":"For news and updates for Lantern, join our Telegram channel",
+         "message":"Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений",
          "thanks":"",
-         "button":"Join"
+         "button":"Присоединяйтесь"
       },
       "ru_RU":{
          "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
          "url":"https://t.me/lantern_russia",
-         "message":"For news and updates for Lantern, join our Telegram channel",
+         "message":"Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений",
          "thanks":"",
-         "button":"Join"
+         "button":"Присоединяйтесь"
       },
       "TR":{
          "enabled":false,
