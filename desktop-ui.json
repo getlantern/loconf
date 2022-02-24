@@ -101,22 +101,22 @@
 			"button": "Join"
 		},
 		"RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
-			"campaign": "20200429",
-			"url": "https://t.me/Lanternpro_russia",
-			"message": "For news and updates for Lantern, join our Telegram channel",
+			"campaign": "20210224",
+			"url": "https://t.me/lantern_russia",
+			"message": "Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений ",
 			"thanks": "",
 			"button": "Join"
 		},
 		"ru-RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
-			"campaign": "20200429",
-			"url": "https://t.me/Lanternpro_russia",
-			"message": "For news and updates for Lantern, join our Telegram channel",
+			"campaign": "20210224",
+			"url": "https://t.me/lantern_russia",
+			"message": "Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений ",
 			"thanks": "",
-			"button": "Join"
+			"button": "Присоединяйтесь"
 		},
 		"TR": {
 			"enabled":true,
@@ -125,7 +125,7 @@
 			"url": "https://t.me/Lanternpro_turkey",
 			"message": "For news and updates for Lantern, join our Telegram channel",
 			"thanks": "",
-			"button": "Join"
+			"button": "Присоединяйтесь"
 		},
 		"tr-TR": {
 			"enabled":true,
