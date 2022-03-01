@@ -101,7 +101,7 @@
 			"button": "Join"
 		},
 		"RU": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
 			"campaign": "20210224",
 			"url": "https://t.me/lantern_russia",
@@ -110,7 +110,7 @@
 			"button": "Join"
 		},
 		"ru-RU": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
 			"campaign": "20210224",
 			"url": "https://t.me/lantern_russia",
