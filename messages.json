@@ -801,7 +801,7 @@
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_russia",
+         "url":"https://telegram.me/lantern_russia",
          "message":"Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений",
          "thanks":"",
          "button":"Присоединяйтесь"
@@ -810,7 +810,7 @@
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_russia",
+         "url":"https://telegram.me/lantern_russia",
          "message":"Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений",
          "thanks":"",
          "button":"Присоединяйтесь"
@@ -819,7 +819,7 @@
          "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_turkey",
+         "url":"https://telegram.me/lantern_turkey",
          "message":"For news and updates for Lantern, join our Telegram channel",
          "thanks":"",
          "button":"Join"
@@ -828,7 +828,7 @@
          "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_turkey",
+         "url":"https://telegram.me/lantern_turkey",
          "message":"For news and updates for Lantern, join our Telegram channel",
          "thanks":"",
          "button":"Join"
@@ -837,7 +837,7 @@
          "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_vietnam",
+         "url":"https://telegram.me/lantern_vietnam",
          "message":"For news and updates for Lantern, join our Telegram channel",
          "thanks":"",
          "button":"Join"
@@ -846,7 +846,7 @@
          "enabled":false,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://t.me/lantern_vietnam",
+         "url":"https://telegram.me/lantern_vietnam",
          "message":"For news and updates for Lantern, join our Telegram channel",
          "thanks":"",
          "button":"Join"
