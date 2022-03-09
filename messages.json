@@ -744,40 +744,40 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/X9PDNJ9",
-         "message":"ما در حال ساخت خصوصیت رمز گذاری شده پیام رسانی هستیم.",
+         "url":"https://www.surveymonkey.com/r/G7R9XFH",
+         "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
          "thanks": "",
-         "button": "نظر خود را با ما درمیان بگذراید."
+         "button": "لطفا در نظرسنجی زیر "
       },
       "fa_IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/X9PDNJ9",
-         "message":"ما در حال ساخت خصوصیت رمز گذاری شده پیام رسانی هستیم.",
+         "url":"https://www.surveymonkey.com/r/G7R9XFH",
+         "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
          "thanks": "",
-         "button": "نظر خود را با ما درمیان بگذراید."
+         "button": "لطفا در نظرسنجی زیر "
       },
       "AE":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/3NLTGXV",
-         "message":"Help us improve Lantern by taking this survey!",
+         "url":"https://www.surveymonkey.com/r/GVT9BVW",
+         "message":"ساعدنا في بناء ميزة جديدة لـ Lantern،",
          "thanks":"",
-         "button":"Click Here"
+         "button":" شارك في الاستبيان"
       },
       "ar_AE":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/3NLTGXV",
-         "message":"Help us improve Lantern by taking this survey!",
+         "url":"https://www.surveymonkey.com/r/GVT9BVW",
+         "message":"ساعدنا في بناء ميزة جديدة لـ Lantern،",
          "thanks":"",
-         "button":"Click Here"
+         "button":" شارك في الاستبيان"
       },
       "en_AE":{
          "enabled":false,
@@ -854,18 +854,18 @@
       "zh_CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://yinshix.com/",
-         "message":"蓝灯即将上线隐市匿名交易所，使用隐币支付。",
+         "url":"https://www.surveymonkey.com/r/G8XDLZN",
+         "message":"帮助我们为Lantern构建一个新功能",
          "thanks":"",
-         "button":"立即开抢隐币并订阅！"
+         "button":"接受调查"
       },
       "CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://yinshix.com/",
-         "message":"蓝灯即将上线隐市匿名交易所，使用隐币支付。",
+         "url":"https://www.surveymonkey.com/r/G8XDLZN",
+         "message":"帮助我们为Lantern构建一个新功能",
          "thanks":"",
-         "button":"立即开抢隐币并订阅！"
+         "button":"接受调查"
       },
       "US":{
          "enabled":false,
