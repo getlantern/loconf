@@ -745,7 +745,7 @@
    "surveys":{
       "IR":{
          "enabled":true,
-         "probability":1.00,
+         "probability":0.50,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/G7R9XFH",
          "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
@@ -754,7 +754,7 @@
       },
       "fa_IR":{
          "enabled":true,
-         "probability":0.00,
+         "probability":0.50,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/G7R9XFH",
          "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
