@@ -852,20 +852,20 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/G8XDLZN",
-         "message":"帮助我们为Lantern构建一个新功能",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://yinshix.com/",
+         "message":"蓝灯即将上线隐市匿名交易所，使用隐币支付。",
          "thanks":"",
-         "button":"接受调查"
+         "button":"立即开抢隐币并订阅！"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/G8XDLZN",
-         "message":"帮助我们为Lantern构建一个新功能",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://yinshix.com/",
+         "message":"蓝灯即将上线隐市匿名交易所，使用隐币支付。",
          "thanks":"",
-         "button":"接受调查"
+         "button":"立即开抢隐币并订阅！"
       },
       "US":{
          "enabled":false,
