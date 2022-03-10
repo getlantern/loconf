@@ -744,8 +744,8 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
-         "probability":0.50,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/G7R9XFH",
          "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
@@ -753,8 +753,8 @@
          "button": "لطفا در نظرسنجی زیر "
       },
       "fa_IR":{
-         "enabled":true,
-         "probability":0.50,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/G7R9XFH",
          "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
@@ -762,8 +762,8 @@
          "button": "لطفا در نظرسنجی زیر "
       },
       "AE":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/GVT9BVW",
          "message":"ساعدنا في بناء ميزة جديدة لـ Lantern،",
@@ -771,8 +771,8 @@
          "button":" شارك في الاستبيان"
       },
       "ar_AE":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/GVT9BVW",
          "message":"ساعدنا في بناء ميزة جديدة لـ Lantern،",
@@ -781,7 +781,7 @@
       },
       "en_AE":{
          "enabled":false,
-         "probability":1.00,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/3NLTGXV",
          "message":"Help us improve Lantern by taking this survey!",
@@ -852,16 +852,16 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/G8XDLZN",
          "message":"帮助我们为Lantern构建一个新功能",
          "thanks":"",
          "button":"接受调查"
       },
       "CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/G8XDLZN",
          "message":"帮助我们为Lantern构建一个新功能",
          "thanks":"",
