@@ -854,18 +854,18 @@
       "zh_CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://yinshix.com/",
-         "message":"蓝灯即将上线隐市匿名交易所，使用隐币支付。",
+         "url":"https://t.me/+n3SfwL0Ho7w1ODgz",
+         "message":"Try out Lantern's new encrypted Chat feature!",
          "thanks":"",
-         "button":"立即开抢隐币并订阅！"
+         "button":"Join the beta group"
       },
       "CN":{
          "enabled":true,
          "probability":1.00,
-         "url":"https://yinshix.com/",
-         "message":"蓝灯即将上线隐市匿名交易所，使用隐币支付。",
+         "url":"https://t.me/+n3SfwL0Ho7w1ODgz",
+         "message":"Try out Lantern's new encrypted Chat feature!",
          "thanks":"",
-         "button":"立即开抢隐币并订阅！"
+         "button":"Join the beta group"
       },
       "US":{
          "enabled":false,
