@@ -744,22 +744,22 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/G7R9XFH",
-         "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
+         "url":"https://twitter.com/getlantern_fa",
+         "message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
          "thanks": "",
-         "button": "لطفا در نظرسنجی زیر "
+         "button": "فالو"
       },
       "fa_IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/G7R9XFH",
-         "message":"برای کمک به افزودن ویژگی های جدید به لنترن شرکت کنید",
+         "url":"https://twitter.com/getlantern_fa",
+         "message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
          "thanks": "",
-         "button": "لطفا در نظرسنجی زیر "
+         "button": "فالو"
       },
       "AE":{
          "enabled":false,
