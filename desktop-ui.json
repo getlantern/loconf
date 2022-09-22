@@ -47,22 +47,22 @@
 			"button": "参加调查"
 		},
 		"fa_IR": {
-			"enabled":false,
-			"probability":0.00,
-			"campaign":"replica-october-survey-IR",
-			"url":"https://www.surveymonkey.com/r/VRLDBYY",
-			"message":"در بهبود Lantern به ما کمک کنید!",
+			"enabled":true,
+			"probability":1.00,
+			"campaign":"twitter-join",
+			"url":"https://twitter.com/getlantern_fa",
+			"message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
 			"thanks":"",
-			"button":"در نظرسنجی شرکت کنید"
+			"button":"فالو"
 		},
 		"IR": {
-			"enabled":false,
-			"probability":0.00,
-			"campaign":"replica-october-survey-IR-2",
-			"url":"https://www.surveymonkey.com/r/VRLDBYY",
-			"message":"در بهبود Lantern به ما کمک کنید!",
+			"enabled":true,
+			"probability":1.00,
+			"campaign":"twitter-join",
+			"url":"https://twitter.com/getlantern_fa",
+			"message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
 			"thanks":"",
-			"button":"در نظرسنجی شرکت کنید"
+			"button":"فالو"
 		},
 		"IN": {
 			"enabled": false,
