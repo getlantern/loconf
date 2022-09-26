@@ -868,32 +868,43 @@
          "button":"立即开抢隐币并订阅！"
       },
       "US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
+         "campaign":"20220926us",
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/52ZJ8PQ",
-         "message":"",
+         "url":"https://donorbox.org/lantern-donation",
+         "message":"Help support Lantern users in Iran!",
          "thanks":"",
-         "button":"Click Here"   
+         "button":"Donate"   
       },
-      "en_ZA":{
-         "enabled":false,
+      "GB":{
+         "enabled":true,
          "probability":1.00,
-         "campaign":"20200818a",
+         "campaign":"20220926gb",
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/MCBNJSV",
-         "message":"Help improve Lantern by taking this short survey",
+         "url":"https://donorbox.org/lantern-donation",
+         "message":"Help support Lantern users in Iran!",
          "thanks":"",
-         "button":"Click Here"
+         "button":"Donate"
        },
-      "ZA":{
+      "DE":{
+         "enabled":true,
+         "probability":1.00,
+         "campaign":"20220926de",
+         "showPlansScreen": false,
+         "url":"https://donorbox.org/lantern-donation",
+         "message":"Help support Lantern users in Iran!",
+         "thanks":"",
+         "button":"Donate"
+       },
+      "FR":{
          "enabled":false,
          "probability":1.00,
-         "campaign":"20200818b",
-         "url":"https://www.surveymonkey.com/r/MCBNJSV",
-         "message":"Help improve Lantern by taking this short survey",
+         "campaign":"20220926fr",
+         "url":"https://donorbox.org/lantern-donation",
+         "message":"Help support Lantern users in Iran!",
          "thanks":"",
-         "button":"Click Here"
+         "button":"Donate"
       }
    }
 }
