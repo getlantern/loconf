@@ -155,7 +155,7 @@
 			"button": "Join"
 		},
 		"US": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220926us",
 			"url": "https://donorbox.org/lantern-donation",
@@ -164,7 +164,7 @@
 			"button": "Donate"
 		},
 		"en-US": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220926us",
 			"url": "https://donorbox.org/lantern-donation",
@@ -173,7 +173,7 @@
 			"button": "Donate"
 		},
 		"GB": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220926us",
 			"url": "https://donorbox.org/lantern-donation",
@@ -182,7 +182,7 @@
 			"button": "Donate"
 		},
 		"DE": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220926us",
 			"url": "https://donorbox.org/lantern-donation",
@@ -191,7 +191,7 @@
 			"button": "Donate"
 		},
 		"FR": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220926us",
 			"url": "https://donorbox.org/lantern-donation",
