@@ -153,6 +153,42 @@
 			"message": "For news and updates for Lantern, join our Telegram channel",
 			"thanks": "",
 			"button": "Join"
+		},
+		"US": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20220926us",
+			"url": "https://donorbox.org/lantern-donation",
+			"message": "Help support Lantern users in Iran!",
+			"thanks": "",
+			"button": "Donate"
+		},
+		"GB": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20220926us",
+			"url": "https://donorbox.org/lantern-donation",
+			"message": "Help support Lantern users in Iran!",
+			"thanks": "",
+			"button": "Donate"
+		},
+		"DE": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20220926us",
+			"url": "https://donorbox.org/lantern-donation",
+			"message": "Help support Lantern users in Iran!",
+			"thanks": "",
+			"button": "Donate"
+		},
+		"FR": {
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20220926us",
+			"url": "https://donorbox.org/lantern-donation",
+			"message": "Help support Lantern users in Iran!",
+			"thanks": "",
+			"button": "Donate"
 		}
 	},
   "bannerAds":{
