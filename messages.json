@@ -868,7 +868,7 @@
          "button":"立即开抢隐币并订阅！"
       },
       "US":{
-         "enabled":false,
+         "enabled":true,
          "probability":1.00,
          "campaign":"20220926us",
          "showPlansScreen": false,
