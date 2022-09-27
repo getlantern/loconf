@@ -877,6 +877,16 @@
          "thanks":"",
          "button":"Donate"   
       },
+      "en-US":{
+         "enabled":true,
+         "probability":1.00,
+         "campaign":"20220927us",
+         "showPlansScreen": false,
+         "url":"https://donorbox.org/lantern-donation",
+         "message":"Help support Lantern users in Iran!",
+         "thanks":"",
+         "button":"Donate"   
+      },
       "GB":{
          "enabled":false,
          "probability":1.00,
