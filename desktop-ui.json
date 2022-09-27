@@ -155,9 +155,9 @@
 			"button": "Join"
 		},
 		"US": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20220926us",
+			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
 			"message": "Help support Lantern users in Iran!",
 			"thanks": "",
@@ -173,27 +173,27 @@
 			"button": "Donate"
 		},
 		"GB": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20220926us",
+			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
 			"message": "Help support Lantern users in Iran!",
 			"thanks": "",
 			"button": "Donate"
 		},
 		"DE": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20220926us",
+			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
 			"message": "Help support Lantern users in Iran!",
 			"thanks": "",
 			"button": "Donate"
 		},
 		"FR": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20220926us",
+			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
 			"message": "Help support Lantern users in Iran!",
 			"thanks": "",
