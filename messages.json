@@ -877,7 +877,7 @@
          "thanks":"",
          "button":"Donate"   
       },
-      "en-US":{
+      "en_US":{
          "enabled":false,
          "probability":1.00,
          "campaign":"20220927us",
