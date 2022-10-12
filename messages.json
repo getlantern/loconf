@@ -779,14 +779,14 @@
          "thanks":"",
          "button":" شارك في الاستبيان"
       },
-      "en_AE":{
-         "enabled":false,
-         "probability":0.00,
+      "bn_AE":{
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/3NLTGXV",
-         "message":"Help us improve Lantern by taking this survey!",
+         "url":"https://www.surveymonkey.com/r/Y5DPMPK",
+         "message":" লণ্ঠন অ্যাপ উন্নত করতে আমাদের সাহায্য করুন",
          "thanks":"",
-         "button":"Click Here"
+         "button":"ফর্ম পূরণ করুন"
       },
       "ar_SA":{
          "enabled":false,
@@ -801,19 +801,19 @@
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://telegram.me/lantern_russia",
-         "message":"Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений",
+         "url":"https://ru.surveymonkey.com/r/D6RJYLZ",
+         "message":"Помогите нам улучшить приложение Lantern",
          "thanks":"",
-         "button":"Присоединяйтесь"
+         "button":"Проводить исследование"
       },
       "ru_RU":{
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://telegram.me/lantern_russia",
-         "message":"Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений",
+         "url":"https://ru.surveymonkey.com/r/D6RJYLZ",
+         "message":"Помогите нам улучшить приложение Lantern",
          "thanks":"",
-         "button":"Присоединяйтесь"
+         "button":"Проводить исследование"
       },
       "TR":{
          "enabled":false,
