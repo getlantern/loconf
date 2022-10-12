@@ -83,7 +83,7 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20200429",
 			"url": "https://t.me/Lanternpro_uae",
@@ -91,32 +91,32 @@
 			"thanks": "",
 			"button": "Join"
 		},
-		"ar-AE": {
+		"bn-AE": {
 			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20200429",
-			"url": "https://t.me/Lanternpro_uae",
-			"message": "For news and updates for Lantern, join our Telegram channel",
+			"campaign": "20221012",
+			"url": "https://www.surveymonkey.com/r/Y5DPMPK",
+			"message": "লণ্ঠন অ্যাপ উন্নত করতে আমাদের সাহায্য করুন",
 			"thanks": "",
-			"button": "Join"
+			"button": "ফর্ম পূরণ করুন"
 		},
 		"RU": {
 			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20210224",
-			"url": "https://t.me/lantern_russia",
-			"message": "Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений ",
+			"campaign": "20221012",
+			"url": "https://ru.surveymonkey.com/r/D6RJYLZ",
+			"message": "Помогите нам улучшить приложение Lantern",
 			"thanks": "",
-			"button": "Join"
+			"button": "Проводить исследование"
 		},
 		"ru-RU": {
 			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20210224",
-			"url": "https://t.me/lantern_russia",
-			"message": "Присоединяйтесь к нашему каналу в Telegram для получения новостей и обновлений ",
+			"campaign": "20221012",
+			"url": "https://ru.surveymonkey.com/r/D6RJYLZ",
+			"message": "Помогите нам улучшить приложение Lantern",
 			"thanks": "",
-			"button": "Присоединяйтесь"
+			"button": "Проводить исследование"
 		},
 		"TR": {
 			"enabled":true,
