@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.0,
 			"campaign": "101322",
 			"url": "https://www.surveymonkey.com/r/YVWK7PC",
 			"message": "帮助我们改进灯塔",
@@ -38,7 +38,7 @@
 			"button": "参加调查"
 		},
 		"CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "101322",
 			"url": "https://www.surveymonkey.com/r/YVWK7PC",
@@ -51,18 +51,18 @@
 			"probability":1.00,
 			"campaign":"twitter-join",
 			"url":"https://twitter.com/getlantern_fa",
-			"message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
+			"message":"به ما در بهبود لنترن کمک کنید",
 			"thanks":"",
-			"button":"فالو"
+			"button":"نظرسنجی را تکمیل کنی"
 		},
 		"IR": {
 			"enabled":true,
 			"probability":1.00,
 			"campaign":"twitter-join",
 			"url":"https://twitter.com/getlantern_fa",
-			"message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
+			"message":"به ما در بهبود لنترن کمک کنید",
 			"thanks":"",
-			"button":"فالو"
+			"button":"نظرسنجی را تکمیل کنی"
 		},
 		"IN": {
 			"enabled": false,
@@ -101,8 +101,8 @@
 			"button": "ফর্ম পূরণ করুন"
 		},
 		"RU": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "20221012",
 			"url": "https://ru.surveymonkey.com/r/D6RJYLZ",
 			"message": "Помогите нам улучшить приложение Lantern",
@@ -110,8 +110,8 @@
 			"button": "Проводить исследование"
 		},
 		"ru-RU": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "20221012",
 			"url": "https://ru.surveymonkey.com/r/D6RJYLZ",
 			"message": "Помогите нам улучшить приложение Lantern",
