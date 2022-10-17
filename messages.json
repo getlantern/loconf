@@ -747,19 +747,19 @@
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://twitter.com/getlantern_fa",
-         "message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
+         "url":"https://www.surveymonkey.com/r/BZZ8RPV",
+         "message":"به ما در بهبود لنترن کمک کنید",
          "thanks": "",
-         "button": "فالو"
+         "button": "نظرسنجی را تکمیل کنید"
       },
       "fa_IR":{
          "enabled":true,
          "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://twitter.com/getlantern_fa",
-         "message":"لطفا برای آخرین به روز رسانی ما را در توئیتر دنبال کنید",
+         "url":"https://www.surveymonkey.com/r/BZZ8RPV",
+         "message":"به ما در بهبود لنترن کمک کنید",
          "thanks": "",
-         "button": "فالو"
+         "button": "نظرسنجی را تکمیل کنید"
       },
       "AE":{
          "enabled":false,
@@ -798,8 +798,8 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://ru.surveymonkey.com/r/D6RJYLZ",
          "message":"Помогите нам улучшить приложение Lantern",
@@ -807,8 +807,8 @@
          "button":"Проводить исследование"
       },
       "ru_RU":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://ru.surveymonkey.com/r/D6RJYLZ",
          "message":"Помогите нам улучшить приложение Lantern",
@@ -852,16 +852,16 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/YVWK7PC",
          "message":"帮助我们改进灯塔",
          "thanks":"",
          "button":"完成调查"
       },
       "CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/YVWK7PC",
          "message":"帮助我们改进灯塔",
          "thanks":"",
