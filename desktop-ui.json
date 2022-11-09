@@ -92,7 +92,7 @@
 			"button": "Join"
 		},
 		"bn-AE": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20221012",
 			"url": "https://www.surveymonkey.com/r/Y5DPMPK",
@@ -119,7 +119,7 @@
 			"button": "Проводить исследование"
 		},
 		"TR": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20200429",
 			"url": "https://t.me/Lanternpro_turkey",
@@ -128,7 +128,7 @@
 			"button": "Присоединяйтесь"
 		},
 		"tr-TR": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20200429",
 			"url": "https://t.me/Lanternpro_turkey",
@@ -137,7 +137,7 @@
 			"button": "Join"
 		},
 		"VN": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20200429",
 			"url": "https://t.me/Lanternpro_vietnam",
@@ -146,7 +146,7 @@
 			"button": "Join"
 		},
 		"vi-VN": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20200429",
 			"url": "https://t.me/Lanternpro_vietnam",
@@ -155,7 +155,7 @@
 			"button": "Join"
 		},
 		"US": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
@@ -173,7 +173,7 @@
 			"button": "Donate"
 		},
 		"GB": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
@@ -182,7 +182,7 @@
 			"button": "Donate"
 		},
 		"DE": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
@@ -191,7 +191,7 @@
 			"button": "Donate"
 		},
 		"FR": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20220927us",
 			"url": "https://donorbox.org/lantern-donation",
