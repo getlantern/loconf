@@ -102,7 +102,7 @@
 		},
 		"RU": {
 			"enabled":true,
-			"probability": 0.10,
+			"probability": 1.00,
 			"campaign": "20230203",
 			"url": "https://ru.surveymonkey.com/r/ML229C8",
 			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
@@ -111,7 +111,7 @@
 		},
 		"ru-RU": {
 			"enabled":true,
-			"probability": 0.10,
+			"probability": 1.00,
 			"campaign": "20230203",
 			"url": "https://ru.surveymonkey.com/r/ML229C8",
 			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
