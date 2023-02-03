@@ -798,20 +798,20 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://ru.surveymonkey.com/r/D6RJYLZ",
-         "message":"Помогите нам улучшить приложение Lantern",
+         "url":"https://ru.surveymonkey.com/r/X9TX7S6",
+         "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
          "thanks":"",
          "button":"Проводить исследование"
       },
       "ru_RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "showPlansScreen": false,
-         "url":"https://ru.surveymonkey.com/r/D6RJYLZ",
-         "message":"Помогите нам улучшить приложение Lantern",
+         "url":"https://ru.surveymonkey.com/r/X9TX7S6",
+         "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
          "thanks":"",
          "button":"Проводить исследование"
       },
