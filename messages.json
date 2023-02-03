@@ -799,7 +799,7 @@
       },
       "RU":{
          "enabled":true,
-         "probability":1.00,
+         "probability":0.10,
          "showPlansScreen": false,
          "url":"https://ru.surveymonkey.com/r/X9TX7S6",
          "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
@@ -808,7 +808,7 @@
       },
       "ru_RU":{
          "enabled":true,
-         "probability":1.00,
+         "probability":0.10,
          "showPlansScreen": false,
          "url":"https://ru.surveymonkey.com/r/X9TX7S6",
          "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
