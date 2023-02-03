@@ -101,20 +101,20 @@
 			"button": "ফর্ম পূরণ করুন"
 		},
 		"RU": {
-			"enabled":false,
-			"probability": 0.00,
-			"campaign": "20221012",
-			"url": "https://ru.surveymonkey.com/r/D6RJYLZ",
-			"message": "Помогите нам улучшить приложение Lantern",
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20230203",
+			"url": "https://ru.surveymonkey.com/r/ML229C8",
+			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
 			"thanks": "",
 			"button": "Проводить исследование"
 		},
 		"ru-RU": {
-			"enabled":false,
-			"probability": 0.00,
-			"campaign": "20221012",
-			"url": "https://ru.surveymonkey.com/r/D6RJYLZ",
-			"message": "Помогите нам улучшить приложение Lantern",
+			"enabled":true,
+			"probability": 1.00,
+			"campaign": "20230203",
+			"url": "https://ru.surveymonkey.com/r/ML229C8",
+			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
 			"thanks": "",
 			"button": "Проводить исследование"
 		},
