@@ -101,7 +101,7 @@
 			"button": "ফর্ম পূরণ করুন"
 		},
 		"RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20230203",
 			"url": "https://ru.surveymonkey.com/r/ML229C8",
@@ -110,7 +110,7 @@
 			"button": "Проводить исследование"
 		},
 		"ru-RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20230203",
 			"url": "https://ru.surveymonkey.com/r/ML229C8",
