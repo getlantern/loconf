@@ -852,20 +852,20 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/YVWK7PC",
-         "message":"帮助我们改进灯塔",
+         "enabled":true,
+         "probability":0.10,
+         "url":"https://beta419.yinshix.com/",
+         "message":"隐市正在进行公测",
          "thanks":"",
-         "button":"完成调查"
+         "button":"立即点击访问。"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/YVWK7PC",
-         "message":"帮助我们改进灯塔",
+         "enabled":true,
+         "probability":0.10,
+         "url":"https://beta419.yinshix.com/",
+         "message":"隐市正在进行公测",
          "thanks":"",
-         "button":"完成调查"
+         "button":"立即点击访问。"
       },
       "US":{
          "enabled":false,
