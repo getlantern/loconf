@@ -29,22 +29,22 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.0,
+			"enabled": true,
+			"probability": 0.10,
 			"campaign": "101322",
-			"url": "https://www.surveymonkey.com/r/YVWK7PC",
-			"message": "帮助我们改进灯塔",
+			"url": "https://beta419.yinshix.com/",
+			"message": "隐市正在进行公测",
 			"thanks": "",
-			"button": "参加调查"
+			"button": "立即点击访问"
 		},
 		"CN": {
-			"enabled": false,
-			"probability": 1.0,
+			"enabled": true,
+			"probability": 0.10,
 			"campaign": "101322",
-			"url": "https://www.surveymonkey.com/r/YVWK7PC",
-			"message": "帮助我们改进灯塔",
+			"url": "https://beta419.yinshix.com/",
+			"message": "隐市正在进行公测",
 			"thanks": "",
-			"button": "参加调查"
+			"button": "立即点击访问"
 		},
 		"fa_IR": {
 			"enabled":true,
