@@ -29,18 +29,18 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.10,
-			"campaign": "101322",
+			"campaign": "022123",
 			"url": "https://beta419.yinshix.com/",
 			"message": "隐市正在进行公测",
 			"thanks": "",
 			"button": "立即点击访问"
 		},
 		"CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.10,
-			"campaign": "101322",
+			"campaign": "022123",
 			"url": "https://beta419.yinshix.com/",
 			"message": "隐市正在进行公测",
 			"thanks": "",
