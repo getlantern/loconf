@@ -852,17 +852,17 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":0.10,
-         "url":"https://beta419.yinshix.com/",
+         "url":"",
          "message":"隐市正在进行公测",
          "thanks":"",
          "button":"立即点击访问。"
       },
       "CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":0.10,
-         "url":"https://beta419.yinshix.com/",
+         "url":"",
          "message":"隐市正在进行公测",
          "thanks":"",
          "button":"立即点击访问。"
