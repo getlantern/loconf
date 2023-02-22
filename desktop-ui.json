@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.10,
 			"campaign": "022123",
 			"url": "https://beta419.yinshix.com/",
@@ -38,7 +38,7 @@
 			"button": "立即点击访问"
 		},
 		"CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.10,
 			"campaign": "022123",
 			"url": "https://beta419.yinshix.com/",
