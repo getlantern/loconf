@@ -48,21 +48,21 @@
 		},
 		"fa_IR": {
 			"enabled":true,
-			"probability":1.00,
-			"campaign":"twitter-join",
-			"url":"https://twitter.com/getlantern_fa",
+			"probability":0.50,
+			"campaign":"usdt",
+			"url":"https://www.surveymonkey.com/r/VHBL6DK",
 			"message":"به ما در بهبود لنترن کمک کنید",
 			"thanks":"",
-			"button":"نظرسنجی را تکمیل کنی"
+			"button":"نظرسنجی را تکمیل کنید"
 		},
 		"IR": {
 			"enabled":true,
-			"probability":1.00,
-			"campaign":"twitter-join",
-			"url":"https://twitter.com/getlantern_fa",
+			"probability":0.50,
+			"campaign":"usdt",
+			"url":"https://www.surveymonkey.com/r/VHBL6DK",
 			"message":"به ما در بهبود لنترن کمک کنید",
 			"thanks":"",
-			"button":"نظرسنجی را تکمیل کنی"
+			"button":"نظرسنجی را تکمیل کنید"
 		},
 		"IN": {
 			"enabled": false,
