@@ -47,7 +47,7 @@
 			"button": "立即点击访问"
 		},
 		"fa_IR": {
-			"enabled":true,
+			"enabled":false,
 			"probability":0.50,
 			"campaign":"usdt",
 			"url":"https://www.surveymonkey.com/r/VHBL6DK",
@@ -56,7 +56,7 @@
 			"button":"نظرسنجی را تکمیل کنید"
 		},
 		"IR": {
-			"enabled":true,
+			"enabled":false,
 			"probability":0.50,
 			"campaign":"usdt",
 			"url":"https://www.surveymonkey.com/r/VHBL6DK",
