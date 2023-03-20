@@ -852,16 +852,16 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://s3.amazonaws.com/lantern/lantern-installer.apk",
          "message":"请升级到最新版蓝灯，增加网络稳定性",
          "thanks":"",
          "button":"立即点击访问。"
       },
       "CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://s3.amazonaws.com/lantern/lantern-installer.apk",
          "message":"请升级到最新版蓝灯，增加网络稳定性",
          "thanks":"",
