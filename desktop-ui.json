@@ -29,22 +29,22 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.10,
-			"campaign": "022123",
-			"url": "https://beta419.yinshix.com/",
-			"message": "隐市正在进行公测",
+			"enabled": true,
+			"probability": 0.05,
+			"campaign": "041923",
+			"url": "https://www.surveymonkey.com/r/CPRG9JK",
+			"message": "小调查：一起让蓝灯更好用！",
 			"thanks": "",
-			"button": "立即点击访问"
+			"button": "开始"
 		},
 		"CN": {
-			"enabled": false,
-			"probability": 0.10,
-			"campaign": "022123",
-			"url": "https://beta419.yinshix.com/",
-			"message": "隐市正在进行公测",
+			"enabled": true,
+			"probability": 0.05,
+			"campaign": "041923",
+			"url": "https://www.surveymonkey.com/r/CPRG9JK",
+			"message": "小调查：一起让蓝灯更好用！",
 			"thanks": "",
-			"button": "立即点击访问"
+			"button": "开始"
 		},
 		"fa_IR": {
 			"enabled":false,
