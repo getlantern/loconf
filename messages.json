@@ -853,7 +853,7 @@
       },
       "zh_CN":{
          "enabled":true,
-         "probability":0.05,
+         "probability":0.15,
          "url":"https://zh.surveymonkey.com/r/C58JKYN",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
@@ -861,7 +861,7 @@
       },
       "CN":{
          "enabled":true,
-         "probability":0.05,
+         "probability":0.15,
          "url":"https://zh.surveymonkey.com/r/C58JKYN",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
