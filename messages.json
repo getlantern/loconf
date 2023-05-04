@@ -853,7 +853,7 @@
       },
       "zh_CN":{
          "enabled":false,
-         "probability":0.20,
+         "probability":0.00,
          "url":"https://psiphon-discuss.com/index.php/332964?newtest=Y&lang=zh-Hant-HK",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
@@ -861,7 +861,7 @@
       },
       "CN":{
          "enabled":false,
-         "probability":0.20,
+         "probability":0.00,
          "url":"https://psiphon-discuss.com/index.php/332964?newtest=Y&lang=zh-Hant-HK",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
