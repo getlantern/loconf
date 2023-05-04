@@ -860,7 +860,7 @@
          "button":"开始。"
       },
       "CN":{
-         "enabled":true,
+         "enabled":false,
          "probability":0.20,
          "url":"https://psiphon-discuss.com/index.php/332964?newtest=Y&lang=zh-Hant-HK",
          "message":"小调查：一起让蓝灯更好用！",
