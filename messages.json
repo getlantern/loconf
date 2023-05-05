@@ -852,17 +852,17 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://psiphon-discuss.com/index.php/332964?newtest=Y&lang=zh-Hant-HK",
+         "enabled":true,
+         "probability":0.20,
+         "url":"https://www.surveymonkey.com/r/NBKFHDM",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
          "button":"开始。"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://psiphon-discuss.com/index.php/332964?newtest=Y&lang=zh-Hant-HK",
+         "enabled":true,
+         "probability":0.20,
+         "url":"https://www.surveymonkey.com/r/NBKFHDM",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
          "button":"开始。"
