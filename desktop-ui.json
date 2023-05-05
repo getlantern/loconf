@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.20,
 			"campaign": "041923",
 			"url": "https://psiphon-discuss.com/index.php/332964?newtest=Y&lang=zh-Hant-HK",
@@ -38,7 +38,7 @@
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.20,
 			"campaign": "041923",
 			"url": "https://psiphon-discuss.com/index.php/332964?newtest=Y&lang=zh-Hant-HK",
