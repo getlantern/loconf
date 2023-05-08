@@ -47,22 +47,22 @@
 			"button": "开始"
 		},
 		"fa_IR": {
-			"enabled":false,
+			"enabled":true,
 			"probability":0.50,
 			"campaign":"usdt",
-			"url":"https://www.surveymonkey.com/r/VHBL6DK",
-			"message":"به ما در بهبود لنترن کمک کنید",
+			"url":"https://www.surveymonkey.com/r/SW5Y6BK",
+			"message":"برای بهبود لنترن به ما کمک کنید",
 			"thanks":"",
-			"button":"نظرسنجی را تکمیل کنید"
+			"button":"در نظرسنجی شرکت کنید"
 		},
 		"IR": {
-			"enabled":false,
+			"enabled":true,
 			"probability":0.50,
 			"campaign":"usdt",
-			"url":"https://www.surveymonkey.com/r/VHBL6DK",
-			"message":"به ما در بهبود لنترن کمک کنید",
+			"url":"https://www.surveymonkey.com/r/SW5Y6BK",
+			"message":"برای بهبود لنترن به ما کمک کنید",
 			"thanks":"",
-			"button":"نظرسنجی را تکمیل کنید"
+			"button":"در نظرسنجی شرکت کنید"
 		},
 		"IN": {
 			"enabled": false,
