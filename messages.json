@@ -744,22 +744,22 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.20,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/VHG78HN",
-         "message":"به ما در بهبود لنترن کمک کنید",
+         "url":"https://www.surveymonkey.com/r/HXLS2HP",
+         "message":"برای بهبود لنترن به ما کمک کنید",
          "thanks": "",
-         "button": "نظرسنجی را تکمیل کنید"
+         "button": "در نظرسنجی شرکت کنید"
       },
       "fa_IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.20,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/VHG78HN",
-         "message":"به ما در بهبود لنترن کمک کنید",
+         "url":"https://www.surveymonkey.com/r/HXLS2HP",
+         "message":"برای بهبود لنترن به ما کمک کنید",
          "thanks": "",
-         "button": "نظرسنجی را تکمیل کنید"
+         "button": "در نظرسنجی شرکت کنید"
       },
       "AE":{
          "enabled":false,
