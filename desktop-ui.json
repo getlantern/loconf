@@ -101,19 +101,19 @@
 			"button": "ফর্ম পূরণ করুন"
 		},
 		"RU": {
-			"enabled":false,
-			"probability": 1.00,
+			"enabled":true,
+			"probability": 0.50,
 			"campaign": "20230203",
-			"url": "https://ru.surveymonkey.com/r/ML229C8",
+			"url": "https://forms.gle/fWtjDpeBuGRnDW47A",
 			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
 			"thanks": "",
 			"button": "Проводить исследование"
 		},
 		"ru-RU": {
-			"enabled":false,
-			"probability": 1.00,
+			"enabled":true,
+			"probability": 0.50,
 			"campaign": "20230203",
-			"url": "https://ru.surveymonkey.com/r/ML229C8",
+			"url": "https://forms.gle/fWtjDpeBuGRnDW47A",
 			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
 			"thanks": "",
 			"button": "Проводить исследование"
