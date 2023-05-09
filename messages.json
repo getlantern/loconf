@@ -798,19 +798,19 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":false,
-         "probability":0.50,
+         "enabled":true,
+         "probability":0.30,
          "showPlansScreen": false,
-         "url":"https://ru.surveymonkey.com/r/RHNY8RH",
+         "url":"https://forms.gle/fWtjDpeBuGRnDW47A",
          "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
          "thanks":"",
          "button":"Проводить исследование"
       },
       "ru_RU":{
-         "enabled":false,
-         "probability":0.50,
+         "enabled":true,
+         "probability":0.30,
          "showPlansScreen": false,
-         "url":"https://ru.surveymonkey.com/r/RHNY8RH",
+         "url":"https://forms.gle/fWtjDpeBuGRnDW47A",
          "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
          "thanks":"",
          "button":"Проводить исследование"
