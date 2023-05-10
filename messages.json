@@ -744,8 +744,8 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
-         "probability":0.20,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/HXLS2HP",
          "message":"برای بهبود لنترن به ما کمک کنید",
@@ -753,8 +753,8 @@
          "button": "در نظرسنجی شرکت کنید"
       },
       "fa_IR":{
-         "enabled":true,
-         "probability":0.20,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/HXLS2HP",
          "message":"برای بهبود لنترن به ما کمک کنید",
