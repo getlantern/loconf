@@ -47,8 +47,8 @@
 			"button": "开始"
 		},
 		"fa_IR": {
-			"enabled":true,
-			"probability":0.50,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"usdt",
 			"url":"https://www.surveymonkey.com/r/SW5Y6BK",
 			"message":"برای بهبود لنترن به ما کمک کنید",
@@ -56,8 +56,8 @@
 			"button":"در نظرسنجی شرکت کنید"
 		},
 		"IR": {
-			"enabled":true,
-			"probability":0.50,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"usdt",
 			"url":"https://www.surveymonkey.com/r/SW5Y6BK",
 			"message":"برای بهبود لنترن به ما کمک کنید",
