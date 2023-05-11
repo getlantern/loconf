@@ -798,8 +798,8 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":true,
-         "probability":0.30,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://forms.gle/fWtjDpeBuGRnDW47A",
          "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
@@ -807,8 +807,8 @@
          "button":"Проводить исследование"
       },
       "ru_RU":{
-         "enabled":true,
-         "probability":0.30,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://forms.gle/fWtjDpeBuGRnDW47A",
          "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
