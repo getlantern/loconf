@@ -101,8 +101,8 @@
 			"button": "ফর্ম পূরণ করুন"
 		},
 		"RU": {
-			"enabled":true,
-			"probability": 0.50,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "20230203",
 			"url": "https://forms.gle/fWtjDpeBuGRnDW47A",
 			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
@@ -110,8 +110,8 @@
 			"button": "Проводить исследование"
 		},
 		"ru-RU": {
-			"enabled":true,
-			"probability": 0.50,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "20230203",
 			"url": "https://forms.gle/fWtjDpeBuGRnDW47A",
 			"message": "Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
