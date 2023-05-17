@@ -852,16 +852,16 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":0.20,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/NBKFHDM",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
          "button":"开始。"
       },
       "CN":{
-         "enabled":true,
-         "probability":0.20,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/NBKFHDM",
          "message":"小调查：一起让蓝灯更好用！",
          "thanks":"",
