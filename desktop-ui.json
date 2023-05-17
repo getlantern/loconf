@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 0.20,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "041923",
 			"url": "https://www.surveymonkey.com/r/NGHV2DH",
 			"message": "小调查：一起让蓝灯更好用！",
@@ -38,8 +38,8 @@
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": true,
-			"probability": 0.20,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "041923",
 			"url": "https://www.surveymonkey.com/r/NGHV2DH",
 			"message": "小调查：一起让蓝灯更好用！",
