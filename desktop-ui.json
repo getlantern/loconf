@@ -29,22 +29,22 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 0.05,
 			"campaign": "041923",
-			"url": "https://www.surveymonkey.com/r/NGHV2DH",
-			"message": "小调查：一起让蓝灯更好用！",
+			"url": "https://www.surveymonkey.com/r/CK3FVRW",
+			"message": "动动手指 - 得30天免费Pro",
 			"thanks": "",
-			"button": "开始"
+			"button": "开薅"
 		},
 		"CN": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 0.05,
 			"campaign": "041923",
-			"url": "https://www.surveymonkey.com/r/NGHV2DH",
-			"message": "小调查：一起让蓝灯更好用！",
+			"url": "https://www.surveymonkey.com/r/CK3FVRW",
+			"message": "动动手指 - 得30天免费Pro",
 			"thanks": "",
-			"button": "开始"
+			"button": "开薅"
 		},
 		"fa_IR": {
 			"enabled":false,
