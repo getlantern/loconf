@@ -852,18 +852,18 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/CKC5SDV",
-         "message":"动动手指 - 得30天免费Pro",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://www.surveymonkey.com/r/VP6P6NM",
+         "message":"喜迎618 - 送60天免费Pro",
          "thanks":"",
          "button":"开薅"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/CKC5SDV",
-         "message":"动动手指 - 得30天免费Pro",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://www.surveymonkey.com/r/VP6P6NM",
+         "message":"喜迎618 - 送60天免费Pro",
          "thanks":"",
          "button":"开薅"
       },
