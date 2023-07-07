@@ -742,7 +742,7 @@
       },
       "fa_IR":{
          "enabled":false,
-         "probability":1.00,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"",
          "message":"ویدیوی داغ هفته. به خالکوبی و تاتوی مائده هژبری دقت کنید",
@@ -750,8 +750,8 @@
          "button":"تماشا کنید"
       },
       "en_US":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "campaign":"20220927us",
          "showPlansScreen": false,
          "url":"https://donorbox.org/lantern-donation",
