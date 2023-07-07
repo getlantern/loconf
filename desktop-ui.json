@@ -47,8 +47,8 @@
 			"button": "开薅"
 		},
 		"fa_IR": {
-			"enabled":true,
-			"probability":1.00,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"gamaan",
 			"url":"https://gamaan.survey.fm/media?plat=dlt",
 			"message":"نظر شما مهم است! در این نظرسنجی کوتاه درباره «نگرش ایرانیان به رسانه‌ها» شرکت کنید. این نظرسنجی، توسط «موسسه گمان»، به‌طور امن و ناشناس برگزار می‌شود.",
@@ -56,8 +56,8 @@
 			"button":"در نظرسنجی شرکت کنید"
 		},
 		"IR": {
-			"enabled":true,
-			"probability":1.00,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"gamaan",
 			"url":"https://gamaan.survey.fm/media?plat=dlt",
 			"message":"نظر شما مهم است! در این نظرسنجی کوتاه درباره «نگرش ایرانیان به رسانه‌ها» شرکت کنید. این نظرسنجی، توسط «موسسه گمان»، به‌طور امن و ناشناس برگزار می‌شود.",
