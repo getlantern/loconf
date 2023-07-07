@@ -744,8 +744,8 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://gamaan.survey.fm/media?plat=mlt",
          "message":"در این نظرسنجی کوتاه درباره «نگرش ایرانیان به رسانه‌ها» شرکت کنید. این نظرسنجی، توسط «موسسه گمان»، به‌طور امن و ناشناس برگزار می‌شود.",
@@ -753,8 +753,8 @@
          "button": "در نظرسنجی شرکت کنید"
       },
       "fa_IR":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://gamaan.survey.fm/media?plat=mlt",
          "message":"در این نظرسنجی کوتاه درباره «نگرش ایرانیان به رسانه‌ها» شرکت کنید. این نظرسنجی، توسط «موسسه گمان»، به‌طور امن و ناشناس برگزار می‌شود.",
