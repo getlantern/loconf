@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.0,
 			"campaign": "061323",
 			"url": "https://www.surveymonkey.com/r/2YH6RQG",
 			"message": "动动手指，得60天免费Pro！（截止6月底）",
@@ -38,8 +38,8 @@
 			"button": "开薅"
 		},
 		"CN": {
-			"enabled": true,
-			"probability": 1.0,
+			"enabled": false,
+			"probability": 0.0,
 			"campaign": "061323",
 			"url": "https://www.surveymonkey.com/r/2YH6RQG",
 			"message": "动动手指，得60天免费Pro！（截止6月底）",
