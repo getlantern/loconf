@@ -852,16 +852,16 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/2Y6CGS2",
          "message":"动动手指，得60天免费Pro！（截止6月底）",
          "thanks":"",
          "button":"开薅"
       },
       "CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://www.surveymonkey.com/r/2Y6CGS2",
          "message":"动动手指，得60天免费Pro！（截止6月底）",
          "thanks":"",
