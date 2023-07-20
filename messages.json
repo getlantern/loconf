@@ -798,22 +798,22 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.03,
          "showPlansScreen": false,
-         "url":"https://forms.gle/fWtjDpeBuGRnDW47A",
-         "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
+         "url":"https://www.surveymonkey.com/r/KCV3R3S",
+         "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
          "thanks":"",
-         "button":"Проводить исследование"
+         "button":"Пройти опрос"
       },
       "ru_RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.03,
          "showPlansScreen": false,
-         "url":"https://forms.gle/fWtjDpeBuGRnDW47A",
-         "message":"Примите участие в этом опросе, чтобы помочь улучшить Lantern.",
+         "url":"https://www.surveymonkey.com/r/KCV3R3S",
+         "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
          "thanks":"",
-         "button":"Проводить исследование"
+         "button":"Пройти опрос"
       },
       "TR":{
          "enabled":false,
@@ -852,20 +852,20 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/2Y6CGS2",
-         "message":"动动手指，得60天免费Pro！（截止6月底）",
+         "enabled":true,
+         "probability":0.03,
+         "url":"https://www.surveymonkey.com/r/JP7SFCC",
+         "message":"用户调查（2分钟）",
          "thanks":"",
-         "button":"开薅"
+         "button":"开始"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/2Y6CGS2",
-         "message":"动动手指，得60天免费Pro！（截止6月底）",
+         "enabled":true,
+         "probability":0.03,
+         "url":"https://www.surveymonkey.com/r/JP7SFCC",
+         "message":"用户调查（2分钟）",
          "thanks":"",
-         "button":"开薅"
+         "button":"开始"
       },
       "US":{
          "enabled":false,
