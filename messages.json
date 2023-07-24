@@ -744,31 +744,31 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.03,
          "showPlansScreen": false,
-         "url":"https://gamaan.survey.fm/media?plat=mlt",
-         "message":"در این نظرسنجی کوتاه درباره «نگرش ایرانیان به رسانه‌ها» شرکت کنید. این نظرسنجی، توسط «موسسه گمان»، به‌طور امن و ناشناس برگزار می‌شود.",
+         "url":" https://www.surveymonkey.com/r/CBJD785",
+         "message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
          "thanks": "",
-         "button": "در نظرسنجی شرکت کنید"
+         "button": "شرکت در نظرسنحی"
       },
       "fa_IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.03,
          "showPlansScreen": false,
-         "url":"https://gamaan.survey.fm/media?plat=mlt",
-         "message":"در این نظرسنجی کوتاه درباره «نگرش ایرانیان به رسانه‌ها» شرکت کنید. این نظرسنجی، توسط «موسسه گمان»، به‌طور امن و ناشناس برگزار می‌شود.",
+         "url":" https://www.surveymonkey.com/r/CBJD785",
+         "message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
          "thanks": "",
-         "button": "در نظرسنجی شرکت کنید"
+         "button": "شرکت در نظرسنحی"
       },
       "AE":{
          "enabled":false,
          "probability":0.00,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/GVT9BVW",
-         "message":"ساعدنا في بناء ميزة جديدة لـ Lantern،",
+         "url":"https://www.surveymonkey.com/r/CBJD785",
+         "message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
          "thanks":"",
-         "button":" شارك في الاستبيان"
+         "button":"شرکت در نظرسنحی"
       },
       "ar_AE":{
          "enabled":false,
