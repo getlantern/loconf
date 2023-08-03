@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 0.03,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "061323",
 			"url": "https://www.surveymonkey.com/r/JPSYNPZ",
 			"message": "用户调查（2分钟）",
@@ -38,8 +38,8 @@
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": true,
-			"probability": 0.03,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "061323",
 			"url": "https://www.surveymonkey.com/r/JPSYNPZ",
 			"message": "用户调查（2分钟）",
@@ -47,8 +47,8 @@
 			"button": "开始"
 		},
 		"fa_IR": {
-			"enabled":true,
-			"probability":0.03,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"gamaan",
 			"url":"https://www.surveymonkey.com/r/CBY973R",
 			"message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
@@ -56,8 +56,8 @@
 			"button":"در نظرسنجی شرکت کنید"
 		},
 		"IR": {
-			"enabled":true,
-			"probability":0.03,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"gamaan",
 			"url":"https://www.surveymonkey.com/r/CBY973R",
 			"message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
