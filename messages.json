@@ -798,8 +798,8 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":true,
-         "probability":0.03,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/KCV3R3S",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -807,8 +807,8 @@
          "button":"Пройти опрос"
       },
       "ru_RU":{
-         "enabled":true,
-         "probability":0.03,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://www.surveymonkey.com/r/KCV3R3S",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
