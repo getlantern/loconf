@@ -852,20 +852,20 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/JP7SFCC",
-         "message":"用户调查（2分钟）",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://www.surveymonkey.com/r/ZDGTCBJ",
+         "message":"使用蓝灯小窍门",
          "thanks":"",
-         "button":"开始"
+         "button":"亲测有效"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/JP7SFCC",
-         "message":"用户调查（2分钟）",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://www.surveymonkey.com/r/ZDGTCBJ",
+         "message":"使用蓝灯小窍门",
          "thanks":"",
-         "button":"开始"
+         "button":"亲测有效"
       },
       "US":{
          "enabled":false,
