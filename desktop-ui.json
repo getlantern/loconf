@@ -29,22 +29,22 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 1.00,
 			"campaign": "061323",
-			"url": "https://www.surveymonkey.com/r/JPSYNPZ",
-			"message": "用户调查（2分钟）",
+			"url": "https://www.surveymonkey.com/r/Z9H9QVT",
+			"message": "使用蓝灯小窍门",
 			"thanks": "",
-			"button": "开始"
+			"button": "亲测有效"
 		},
 		"CN": {
-			"enabled": false,
-			"probability": 0.00,
+			"enabled": true,
+			"probability": 1.00,
 			"campaign": "061323",
-			"url": "https://www.surveymonkey.com/r/JPSYNPZ",
-			"message": "用户调查（2分钟）",
+			"url": "https://www.surveymonkey.com/r/Z9H9QVT",
+			"message": "使用蓝灯小窍门",
 			"thanks": "",
-			"button": "开始"
+			"button": "亲测有效"
 		},
 		"fa_IR": {
 			"enabled":false,
