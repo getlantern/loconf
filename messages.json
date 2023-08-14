@@ -852,20 +852,20 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/ZDGTCBJ",
-         "message":"使用蓝灯小窍门",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://twitter.com/Lantern_CN/status/1691072179138707456",
+         "message":"蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
          "thanks":"",
-         "button":"亲测有效"
+         "button":"去抽奖"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://www.surveymonkey.com/r/ZDGTCBJ",
-         "message":"使用蓝灯小窍门",
+         "enabled":true,
+         "probability":1.00,
+         "url":"https://twitter.com/Lantern_CN/status/1691072179138707456",
+         "message":"蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
          "thanks":"",
-         "button":"亲测有效"
+         "button":"去抽奖"
       },
       "US":{
          "enabled":false,
