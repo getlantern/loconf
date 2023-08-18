@@ -852,16 +852,16 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://twitter.com/Lantern_CN/status/1691072179138707456",
          "message":"蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
          "thanks":"",
          "button":"去抽奖"
       },
       "CN":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "url":"https://twitter.com/Lantern_CN/status/1691072179138707456",
          "message":"蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
          "thanks":"",
@@ -890,7 +890,7 @@
       "GB":{
          "enabled":false,
          "probability":1.00,
-         "campaign":"20220927gb",
+         "campaign":"20220927GB",
          "showPlansScreen": false,
          "url":"https://donorbox.org/lantern-donation",
          "message":"Help support Lantern users in Iran!",
