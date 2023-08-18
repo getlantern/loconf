@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 1.00,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "061323",
 			"url": "https://twitter.com/Lantern_CN/status/1691072179138707456",
 			"message": "蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
@@ -38,8 +38,8 @@
 			"button": "去抽奖"
 		},
 		"CN": {
-			"enabled": true,
-			"probability": 1.00,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "061323",
 			"url": "https://twitter.com/Lantern_CN/status/1691072179138707456",
 			"message": "蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
