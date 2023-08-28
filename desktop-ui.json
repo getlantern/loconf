@@ -73,32 +73,32 @@
 			"thanks": "Thanks for your application!",
 			"button": "Click Here"
 		},
-		"en-IN": {
-			"enabled": false,
-			"probability": 1.00,
-			"campaign": "20170227",
-			"url": "https://www.surveymonkey.com/r/JGZ9CD7",
-			"message": "Lantern is hiring an engineer in India! For more info, and to apply",
-			"thanks": "Thanks for your application!",
-			"button": "Click Here"
-		},
 		"AE": {
-			"enabled":false,
-			"probability": 1.00,
-			"campaign": "20200429",
-			"url": "https://t.me/Lanternpro_uae",
-			"message": "For news and updates for Lantern, join our Telegram channel",
+			"enabled": true,
+			"probability": 0.50,
+			"campaign": "20170227",
+			"url": "https://www.surveymonkey.com/r/L792HZ9",
+			"message": "Help us improve Lantern",
 			"thanks": "",
-			"button": "Join"
+			"button": "Take Survey"
 		},
-		"bn-AE": {
-			"enabled":false,
-			"probability": 1.00,
-			"campaign": "20221012",
-			"url": "https://www.surveymonkey.com/r/Y5DPMPK",
-			"message": "লণ্ঠন অ্যাপ উন্নত করতে আমাদের সাহায্য করুন",
+		"ar-AE": {
+			"enabled":true,
+			"probability": 0.50,
+			"campaign": "20200429",
+			"url": "https://www.surveymonkey.com/r/L7KJ9PK",
+			"message": "ساعدنا في تحسين لانترن",
 			"thanks": "",
-			"button": "ফর্ম পূরণ করুন"
+			"button": "شارك في الاستبيان"
+		},
+		"en-AE": {
+			"enabled":true,
+			"probability": 0.50,
+			"campaign": "20221012",
+			"url": "https://www.surveymonkey.com/r/L792HZ9",
+			"message": "Help us improve Lantern",
+			"thanks": "",
+			"button": "Take Survey"
 		},
 		"RU": {
 			"enabled":false,
