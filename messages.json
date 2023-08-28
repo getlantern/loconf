@@ -744,20 +744,20 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.03,
          "showPlansScreen": false,
-         "url":" https://www.surveymonkey.com/r/CBJD785",
-         "message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
+         "url":" https://www.surveymonkey.com/r/SPZ38YW",
+         "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
          "thanks": "",
          "button": "شرکت در نظرسنحی"
       },
       "fa_IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.03,
          "showPlansScreen": false,
-         "url":" https://www.surveymonkey.com/r/CBJD785",
-         "message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
+         "url":"https://www.surveymonkey.com/r/SPZ38YW",
+         "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
          "thanks": "",
          "button": "شرکت در نظرسنحی"
       },
@@ -768,7 +768,7 @@
          "url":"https://www.surveymonkey.com/r/CBJD785",
          "message":"لطفا به ما بگویید کیفیت لنترن در یک ماه گذشته چطور بوده است",
          "thanks":"",
-         "button":"شرکت در نظرسنحی"
+         "button":"شرکت در نظرسنجی"
       },
       "ar_AE":{
          "enabled":false,
@@ -852,20 +852,20 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://twitter.com/Lantern_CN/status/1691072179138707456",
-         "message":"蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
+         "enabled":true,
+         "probability":0.25,
+         "url":"https://www.surveymonkey.com/r/QGN7TWG",
+         "message":"用户满意度调研（2023年8月）",
          "thanks":"",
-         "button":"去抽奖"
+         "button":"开始"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://twitter.com/Lantern_CN/status/1691072179138707456",
-         "message":"蓝灯中文推特每晚9点抽免费Pro，每晚都有！",
+         "enabled":true,
+         "probability":0.25,
+         "url":"https://www.surveymonkey.com/r/QGN7TWG",
+         "message":"用户满意度调研（2023年8月）",
          "thanks":"",
-         "button":"去抽奖"
+         "button":"开始"
       },
       "US":{
          "enabled":false,
