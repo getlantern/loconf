@@ -74,8 +74,8 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": true,
-			"probability": 0.50,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "20170227",
 			"url": "https://www.surveymonkey.com/r/L792HZ9",
 			"message": "Help us improve Lantern",
@@ -83,8 +83,8 @@
 			"button": "Take Survey"
 		},
 		"ar-AE": {
-			"enabled":true,
-			"probability": 0.50,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "20200429",
 			"url": "https://www.surveymonkey.com/r/L7KJ9PK",
 			"message": "ساعدنا في تحسين لانترن",
@@ -92,8 +92,8 @@
 			"button": "شارك في الاستبيان"
 		},
 		"en-AE": {
-			"enabled":true,
-			"probability": 0.50,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "20221012",
 			"url": "https://www.surveymonkey.com/r/L792HZ9",
 			"message": "Help us improve Lantern",
