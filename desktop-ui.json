@@ -101,19 +101,19 @@
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":false,
-			"probability": 0.25,
+			"enabled":true,
+			"probability": 0.15,
 			"campaign": "20230203",
-			"url": "https://www.surveymonkey.com/r/Z6N3T95",
+			"url": "https://www.surveymonkey.com/r/T5CFZ2H",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
 			"thanks": "",
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":false,
-			"probability": 0.25,
+			"enabled":true,
+			"probability": 0.15,
 			"campaign": "20230203",
-			"url": "https://www.surveymonkey.com/r/Z6N3T95",
+			"url": "https://www.surveymonkey.com/r/T5CFZ2H",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
 			"thanks": "",
 			"button": "Пройти опрос"
