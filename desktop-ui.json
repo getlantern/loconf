@@ -47,7 +47,7 @@
 			"button": "开始"
 		},
 		"fa_IR": {
-			"enabled":true,
+			"enabled":false,
 			"probability":0.03,
 			"campaign":"gamaan",
 			"url":"https://www.surveymonkey.com/r/SP6M3NF",
@@ -56,7 +56,7 @@
 			"button":"شرکت در نظرسنجی"
 		},
 		"IR": {
-			"enabled":true,
+			"enabled":false,
 			"probability":0.03,
 			"campaign":"gamaan",
 			"url":"https://www.surveymonkey.com/r/SP6M3NF",
