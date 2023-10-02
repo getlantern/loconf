@@ -744,19 +744,19 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":0.03,
          "showPlansScreen": false,
-         "url":" https://www.surveymonkey.com/r/SPZ38YW",
+         "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT?sparrowLang=fa",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
          "thanks": "",
          "button": "شرکت در نظرسنحی"
       },
       "fa_IR":{
-         "enabled":true,
+         "enabled":false,
          "probability":0.03,
          "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/SPZ38YW",
+         "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT?sparrowLang=fa",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
          "thanks": "",
          "button": "شرکت در نظرسنحی"
