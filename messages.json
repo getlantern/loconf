@@ -744,7 +744,7 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.03,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT?sparrowLang=fa",
@@ -753,13 +753,13 @@
          "button": "شرکت در نظرسنحی"
       },
       "fa_IR":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.03,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT?sparrowLang=fa",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
          "thanks": "",
-         "button": "شرکت در نظرسنحی"
+         "button": "شرکت در نظرسنجی"
       },
       "AE":{
          "enabled":false,
