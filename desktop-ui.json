@@ -101,7 +101,7 @@
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 0.15,
 			"campaign": "20230203",
 			"url": "https://www.surveymonkey.com/r/T5CFZ2H",
@@ -110,7 +110,7 @@
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 0.15,
 			"campaign": "20230203",
 			"url": "https://www.surveymonkey.com/r/T5CFZ2H",
