@@ -190,14 +190,14 @@
 			"thanks": "",
 			"button": "Donate"
 		},
-		"FR": {
-			"enabled":false,
-			"probability": 1.00,
-			"campaign": "20220927us",
-			"url": "https://donorbox.org/lantern-donation",
-			"message": "Help support Lantern users in Iran!",
+		"UA": {
+			"enabled":true,
+			"probability": 0.50,
+			"campaign": "20231023",
+			"url": "https://lantern.surveysparrow.com/s/monthly-quality-check/tt-s6PY6hzpegrdrNKTfh7CLA",
+			"message": "Допоможіть нам покращитися Lantern ",
 			"thanks": "",
-			"button": "Donate"
+			"button": "пройдіть опитування"
 		}
 	},
   "bannerAds":{
