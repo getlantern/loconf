@@ -909,7 +909,7 @@
        },
       "UA":{
          "enabled":false,
-         "probability":0.50,
+         "probability":0.00,
          "campaign":"20231023",
          "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-s6PY6hzpegrdrNKTfh7CLA",
          "message":"Допоможіть нам покращитися Lantern ",
