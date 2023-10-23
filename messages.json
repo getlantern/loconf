@@ -908,7 +908,7 @@
          "button":"Donate"
        },
       "UA":{
-         "enabled":true,
+         "enabled":false,
          "probability":0.50,
          "campaign":"20231023",
          "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-s6PY6hzpegrdrNKTfh7CLA",
