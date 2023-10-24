@@ -29,20 +29,20 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.25,
-			"campaign": "061323",
-			"url": "https://www.surveymonkey.com/r/QGPPQ8Y",
-			"message": "用户满意度调研（2023年8月）",
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
+			"message": "用户满意度调研",
 			"thanks": "",
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.25,
-			"campaign": "061323",
-			"url": "https://www.surveymonkey.com/r/QGPPQ8Y",
-			"message": "用户满意度调研（2023年8月）",
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
+			"message": "用户满意度调研",
 			"thanks": "",
 			"button": "开始"
 		},
