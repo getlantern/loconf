@@ -47,19 +47,19 @@
 			"button": "开始"
 		},
 		"fa_IR": {
-			"enabled":false,
-			"probability":0.00,
+			"enabled":true,
+			"probability":0.25,
 			"campaign":"",
-			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT?sparrowLang=fa",
+			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			"message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
 			"thanks":"",
 			"button":"شرکت در نظرسنجی"
 		},
 		"IR": {
-			"enabled":false,
-			"probability":0.00,
+			"enabled":true,
+			"probability":0.25,
 			"campaign":"",
-			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT?sparrowLang=fa",
+			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			"message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
 			"thanks":"",
 			"button":"شرکت در نظرسنجی"
@@ -74,46 +74,46 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": false,
-			"probability": 0.00,
-			"campaign": "20170227",
-			"url": "https://www.surveymonkey.com/r/L792HZ9",
+			"enabled": true,
+			"probability": 0.50,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			"message": "Help us improve Lantern",
 			"thanks": "",
 			"button": "Take Survey"
 		},
 		"ar-AE": {
 			"enabled":false,
-			"probability": 0.00,
-			"campaign": "20200429",
-			"url": "https://www.surveymonkey.com/r/L7KJ9PK",
+			"probability": 0.50,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			"message": "ساعدنا في تحسين لانترن",
 			"thanks": "",
 			"button": "شارك في الاستبيان"
 		},
 		"en-AE": {
-			"enabled":false,
-			"probability": 0.00,
-			"campaign": "20221012",
-			"url": "https://www.surveymonkey.com/r/L792HZ9",
+			"enabled":true,
+			"probability": 0.50,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			"message": "Help us improve Lantern",
 			"thanks": "",
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":false,
-			"probability": 0.15,
-			"campaign": "20230203",
-			"url": "https://www.surveymonkey.com/r/T5CFZ2H",
+			"enabled":true,
+			"probability": 0.25,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
 			"thanks": "",
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":false,
-			"probability": 0.15,
-			"campaign": "20230203",
-			"url": "https://www.surveymonkey.com/r/T5CFZ2H",
+			"enabled":true,
+			"probability": 0.25,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
 			"thanks": "",
 			"button": "Пройти опрос"
@@ -172,29 +172,29 @@
 			"thanks": "",
 			"button": "Donate"
 		},
-		"GB": {
-			"enabled":false,
-			"probability": 1.00,
-			"campaign": "20220927us",
-			"url": "https://donorbox.org/lantern-donation",
-			"message": "Help support Lantern users in Iran!",
+		"BY": {
+			"enabled":true,
+			"probability": 0.50,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
+			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
 			"thanks": "",
-			"button": "Donate"
+			"button": "Пройти опрос"
 		},
-		"DE": {
-			"enabled":false,
-			"probability": 1.00,
-			"campaign": "20220927us",
-			"url": "https://donorbox.org/lantern-donation",
-			"message": "Help support Lantern users in Iran!",
+		"uk_UA": {
+			"enabled":true,
+			"probability": 0.50,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
+			"message": "Допоможіть нам покращитися Lantern ",
 			"thanks": "",
-			"button": "Donate"
+			"button": "пройдіть опитування"
 		},
 		"UA": {
-			"enabled":false,
-			"probability": 0.00,
-			"campaign": "20231023",
-			"url": "https://lantern.surveysparrow.com/s/monthly-quality-check/tt-s6PY6hzpegrdrNKTfh7CLA",
+			"enabled":true,
+			"probability": 0.50,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			"message": "Допоможіть нам покращитися Lantern ",
 			"thanks": "",
 			"button": "пройдіть опитування"
