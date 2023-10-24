@@ -852,18 +852,18 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.25,
-         "url":"https://www.surveymonkey.com/r/QGN7TWG",
-         "message":"用户满意度调研（2023年8月）",
+         "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
+         "message":"用户满意度调研",
          "thanks":"",
          "button":"开始"
       },
       "CN":{
-         "enabled":false,
+         "enabled":true,
          "probability":0.25,
-         "url":"https://www.surveymonkey.com/r/QGN7TWG",
-         "message":"用户满意度调研（2023年8月）",
+         "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
+         "message":"用户满意度调研",
          "thanks":"",
          "button":"开始"
       },
