@@ -47,8 +47,8 @@
 			"button": "开始"
 		},
 		"fa_IR": {
-			"enabled":true,
-			"probability":0.25,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"",
 			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			"message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
@@ -56,8 +56,8 @@
 			"button":"شرکت در نظرسنجی"
 		},
 		"IR": {
-			"enabled":true,
-			"probability":0.25,
+			"enabled":false,
+			"probability":0.00,
 			"campaign":"",
 			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			"message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
