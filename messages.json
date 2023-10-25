@@ -889,7 +889,7 @@
       },
       "BY":{
          "enabled":true,
-         "probability":0.50,
+         "probability":1.00,
          "campaign":"20220927GB",
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
@@ -899,7 +899,7 @@
        },
       "uk_UA":{
          "enabled":true,
-         "probability":0.25,
+         "probability":1.00,
          "campaign":"20231023",
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
@@ -909,7 +909,7 @@
        },
       "UA":{
          "enabled":true,
-         "probability":0.50,
+         "probability":1.00,
          "campaign":"20231023",
          "url":"https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
          "message":"Допоможіть нам покращитися Lantern ",
