@@ -74,8 +74,8 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": true,
-			"probability": 0.50,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			"message": "Help us improve Lantern",
@@ -84,7 +84,7 @@
 		},
 		"ar-AE": {
 			"enabled":false,
-			"probability": 0.50,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			"message": "ساعدنا في تحسين لانترن",
@@ -92,8 +92,8 @@
 			"button": "شارك في الاستبيان"
 		},
 		"en-AE": {
-			"enabled":true,
-			"probability": 0.50,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			"message": "Help us improve Lantern",
