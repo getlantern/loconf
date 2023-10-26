@@ -853,7 +853,7 @@
       },
       "zh_CN":{
          "enabled":true,
-         "probability":0.25,
+         "probability":0.50,
          "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
          "message":"用户满意度调研",
          "thanks":"",
@@ -861,7 +861,7 @@
       },
       "CN":{
          "enabled":true,
-         "probability":0.25,
+         "probability":0.50,
          "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
          "message":"用户满意度调研",
          "thanks":"",
