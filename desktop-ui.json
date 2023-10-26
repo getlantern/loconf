@@ -30,7 +30,7 @@
 	"survey": {
 		"zh-CN": {
 			"enabled": true,
-			"probability": 0.25,
+			"probability": 0.50,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
 			"message": "用户满意度调研",
@@ -39,7 +39,7 @@
 		},
 		"CN": {
 			"enabled": true,
-			"probability": 0.25,
+			"probability": 0.50,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
 			"message": "用户满意度调研",
