@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 0.50,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
 			"message": "用户满意度调研",
@@ -38,8 +38,8 @@
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": true,
-			"probability": 0.50,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
 			"message": "用户满意度调研",
@@ -101,8 +101,8 @@
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":true,
-			"probability": 0.25,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -110,8 +110,8 @@
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":true,
-			"probability": 0.25,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
