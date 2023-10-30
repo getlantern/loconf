@@ -173,8 +173,8 @@
 			"button": "Donate"
 		},
 		"BY": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -182,8 +182,8 @@
 			"button": "Пройти опрос"
 		},
 		"uk_UA": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			"message": "Допоможіть нам покращитися Lantern ",
@@ -191,8 +191,8 @@
 			"button": "пройдіть опитування"
 		},
 		"UA": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			"message": "Допоможіть нам покращитися Lantern ",
