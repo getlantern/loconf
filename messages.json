@@ -798,19 +798,19 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.15,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
+         "url":"https://lantern.surveysparrow.com/s/russia---regional-marketing-survey---clone/tt-qoZWy2usrqaad3LC6qQ9sz",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
          "thanks":"",
          "button":"Пройти опрос"
       },
       "ru_RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.15,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
+         "url":"https://lantern.surveysparrow.com/s/russia---regional-marketing-survey---clone/tt-qoZWy2usrqaad3LC6qQ9sz",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
          "thanks":"",
          "button":"Пройти опрос"
