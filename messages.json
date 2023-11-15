@@ -744,8 +744,8 @@
    },
    "surveys":{
       "IR":{
-         "enabled":true,
-         "probability":0.15,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/Iran---Regional-Marketing-Survey---Clone/tt-tpyLysH4VcyCUaYer6QTqF",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
@@ -753,8 +753,8 @@
          "button": "شرکت در نظرسنحی"
       },
       "fa_IR":{
-         "enabled":true,
-         "probability":0.15,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/Iran---Regional-Marketing-Survey---Clone/tt-tpyLysH4VcyCUaYer6QTqF",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
