@@ -74,8 +74,8 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": true,
-			"probability": 0.15,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/UAE---Regional-Marketing-Survey---Clone/tt-fnNCrtCXcC4SgiA6iLcKxP",
 			"message": "Help us improve Lantern",
@@ -83,8 +83,8 @@
 			"button": "Take Survey"
 		},
 		"ar-AE": {
-			"enabled":true,
-			"probability": 0.15,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/UAE---Regional-Marketing-Survey---Clone/tt-fnNCrtCXcC4SgiA6iLcKxP",
 			"message": "ساعدنا في تحسين لانترن",
@@ -92,8 +92,8 @@
 			"button": "شارك في الاستبيان"
 		},
 		"en-AE": {
-			"enabled":true,
-			"probability": 0.15,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/UAE---Regional-Marketing-Survey---Clone/tt-fnNCrtCXcC4SgiA6iLcKxP",
 			"message": "Help us improve Lantern",
