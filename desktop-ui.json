@@ -29,8 +29,8 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
-			"probability": 0.15,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/China---Regional-Marketing-Survey/tt-viDmtPVJ8VgCRd1kfX62Qj",
 			"message": "用户满意度调研",
@@ -38,8 +38,8 @@
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": true,
-			"probability": 0.15,
+			"enabled": false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/China---Regional-Marketing-Survey/tt-viDmtPVJ8VgCRd1kfX62Qj",
 			"message": "用户满意度调研",
@@ -101,8 +101,8 @@
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":true,
-			"probability": 0.15,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---regional-marketing-survey---clone/tt-qoZWy2usrqaad3LC6qQ9sz",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -110,8 +110,8 @@
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":true,
-			"probability": 0.15,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---regional-marketing-survey---clone/tt-qoZWy2usrqaad3LC6qQ9sz",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -173,8 +173,8 @@
 			"button": "Donate"
 		},
 		"BY": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Belarus---Regional-Marketing-Survey---Clone/tt-eft6T5E5DmidzAK2gnNGRh",
 			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -182,8 +182,8 @@
 			"button": "Пройти опрос"
 		},
 		"uk_UA": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ukraine---Regional-Marketing-Survey---Clone/tt-nUqBZ7ak4J82wc6vQtuRc5",
 			"message": "Допоможіть нам покращитися Lantern ",
@@ -191,8 +191,8 @@
 			"button": "пройдіть опитування"
 		},
 		"UA": {
-			"enabled":true,
-			"probability": 1.00,
+			"enabled":false,
+			"probability": 0.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ukraine---Regional-Marketing-Survey---Clone/tt-nUqBZ7ak4J82wc6vQtuRc5",
 			"message": "Допоможіть нам покращитися Lantern ",
