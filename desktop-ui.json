@@ -163,14 +163,14 @@
 			"thanks": "",
 			"button": "Donate"
 		},
-		"en-US": {
-			"enabled":false,
+		"NP": {
+			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20220926us",
-			"url": "https://donorbox.org/lantern-donation",
-			"message": "Help support Lantern users in Iran!",
+			"campaign": "20231227",
+			"url": "https://lantern.surveysparrow.com/s/Nepal---Regional-Marketing-Survey/tt-c8B2Mq1qt5RCvmgFPukQ8",
+			"message": "Lantern सुधार गर्न मद्दत गर्नुहोस्",
 			"thanks": "",
-			"button": "Donate"
+			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"BY": {
 			"enabled":false,
