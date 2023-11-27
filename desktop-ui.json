@@ -163,7 +163,7 @@
 			"thanks": "",
 			"button": "Donate"
 		},
-		"NP": {
+		"ne_NP": {
 			"enabled":true,
 			"probability": 1.00,
 			"campaign": "20231227",
