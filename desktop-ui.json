@@ -155,18 +155,18 @@
 			"button": "Join"
 		},
 		"NP": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20220927us",
-			"url": "https://donorbox.org/lantern-donation",
-			"message": "Help support Lantern users in Iran!",
+			"campaign": "20231128",
+			"url": "https://lantern.surveysparrow.com/s/Nepal---Regional-Marketing-Survey/tt-c8B2Mq1qt5RCvmgFPukQ8",
+			"message": "Lantern सुधार गर्न मद्दत गर्नुहोस्",
 			"thanks": "",
-			"button": "Donate"
+			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"ne_NP": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
-			"campaign": "20231227",
+			"campaign": "20231128",
 			"url": "https://lantern.surveysparrow.com/s/Nepal---Regional-Marketing-Survey/tt-c8B2Mq1qt5RCvmgFPukQ8",
 			"message": "Lantern सुधार गर्न मद्दत गर्नुहोस्",
 			"thanks": "",
