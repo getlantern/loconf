@@ -867,7 +867,7 @@
          "thanks":"",
          "button":"开始"
       },
-      "US":{
+      "NP":{
          "enabled":false,
          "probability":1.00,
          "campaign":"20220927us",
@@ -878,7 +878,7 @@
          "button":"Donate"   
       },
       "ne_NP":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20232227",
          "showPlansScreen": false,
