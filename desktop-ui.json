@@ -155,7 +155,7 @@
 			"button": "Join"
 		},
 		"NP": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20231128",
 			"url": "https://lantern.surveysparrow.com/s/Nepal---Regional-Marketing-Survey/tt-c8B2Mq1qt5RCvmgFPukQ8",
@@ -164,7 +164,7 @@
 			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"ne_NP": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "20231128",
 			"url": "https://lantern.surveysparrow.com/s/Nepal---Regional-Marketing-Survey/tt-c8B2Mq1qt5RCvmgFPukQ8",
