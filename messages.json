@@ -868,7 +868,7 @@
          "button":"开始"
       },
       "NP":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20232811",
          "showPlansScreen": false,
@@ -878,7 +878,7 @@
          "button":"सर्वेक्षण लिनुहोस्"   
       },
       "ne_NP":{
-         "enabled":true,
+         "enabled":false,
          "probability":1.00,
          "campaign":"20232811",
          "showPlansScreen": false,
