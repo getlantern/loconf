@@ -744,46 +744,46 @@
    },
    "surveys":{
       "IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.15,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/Iran---Regional-Marketing-Survey---Clone/tt-tpyLysH4VcyCUaYer6QTqF",
+         "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
          "thanks": "",
          "button": "شرکت در نظرسنحی"
       },
       "fa_IR":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.15,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/Iran---Regional-Marketing-Survey---Clone/tt-tpyLysH4VcyCUaYer6QTqF",
+         "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
          "thanks": "",
          "button": "شرکت در نظرسنجی"
       },
       "AE":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.30,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/UAE---Regional-Marketing-Survey---Clone/tt-fnNCrtCXcC4SgiA6iLcKxP",
+         "url":"https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
          "message":"Help us improve Lantern",
          "thanks":"",
          "button":"Take Survey"
       },
       "ar_AE":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.30,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/UAE---Regional-Marketing-Survey---Clone/tt-fnNCrtCXcC4SgiA6iLcKxP",
+         "url":"https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
          "message":"ساعدنا في تحسين لانترن",
          "thanks":"",
          "button":" شارك في الاستبيان"
       },
       "en_AE":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.30,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/UAE---Regional-Marketing-Survey---Clone/tt-fnNCrtCXcC4SgiA6iLcKxP",
+         "url":"https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
          "message":"Help us improve Lantern",
          "thanks":"",
          "button":"Take Survey"
@@ -798,19 +798,19 @@
          "button":"انقر هنا"   
       },
       "RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.15,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/russia---regional-marketing-survey---clone/tt-qoZWy2usrqaad3LC6qQ9sz",
+         "url":"https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
          "thanks":"",
          "button":"Пройти опрос"
       },
       "ru_RU":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":0.15,
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/russia---regional-marketing-survey---clone/tt-qoZWy2usrqaad3LC6qQ9sz",
+         "url":"https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
          "thanks":"",
          "button":"Пройти опрос"
@@ -852,17 +852,17 @@
          "button":"Join"
       },
       "zh_CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://lantern.surveysparrow.com/s/China---Regional-Marketing-Survey/tt-viDmtPVJ8VgCRd1kfX62Qj",
+         "enabled":true,
+         "probability":0.15,
+         "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
          "message":"用户满意度调研",
          "thanks":"",
          "button":"开始"
       },
       "CN":{
-         "enabled":false,
-         "probability":0.00,
-         "url":"https://lantern.surveysparrow.com/s/China---Regional-Marketing-Survey/tt-viDmtPVJ8VgCRd1kfX62Qj",
+         "enabled":true,
+         "probability":0.15,
+         "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
          "message":"用户满意度调研",
          "thanks":"",
          "button":"开始"
@@ -888,30 +888,30 @@
          "button":"सर्वेक्षण लिनुहोस्"   
       },
       "BY":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "campaign":"20220927GB",
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/Belarus---Regional-Marketing-Survey---Clone/tt-eft6T5E5DmidzAK2gnNGRh",
+         "url":"https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
          "thanks":"",
          "button":"Пройти опрос"
        },
       "uk_UA":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "campaign":"20231023",
          "showPlansScreen": false,
-         "url":"https://lantern.surveysparrow.com/s/Ukraine---Regional-Marketing-Survey---Clone/tt-nUqBZ7ak4J82wc6vQtuRc5",
+         "url":"https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
          "message":"Допоможіть нам покращитися Lantern ",
          "thanks":"",
          "button":"пройдіть опитування"
        },
       "UA":{
-         "enabled":false,
-         "probability":0.00,
+         "enabled":true,
+         "probability":1.00,
          "campaign":"20231023",
-         "url":"https://lantern.surveysparrow.com/s/Ukraine---Regional-Marketing-Survey---Clone/tt-nUqBZ7ak4J82wc6vQtuRc5",
+         "url":"https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
          "message":"Допоможіть нам покращитися Lantern ",
          "thanks":"",
          "button":"пройдіть опитування"
