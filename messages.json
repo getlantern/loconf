@@ -745,7 +745,7 @@
    "surveys":{
       "IR":{
          "enabled":true,
-         "probability":0.15,
+         "probability":0.30,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
@@ -754,7 +754,7 @@
       },
       "fa_IR":{
          "enabled":true,
-         "probability":0.15,
+         "probability":0.30,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
          "message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
@@ -763,7 +763,7 @@
       },
       "AE":{
          "enabled":true,
-         "probability":0.30,
+         "probability":0.60,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
          "message":"Help us improve Lantern",
@@ -772,7 +772,7 @@
       },
       "ar_AE":{
          "enabled":true,
-         "probability":0.30,
+         "probability":0.60,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
          "message":"ساعدنا في تحسين لانترن",
@@ -781,7 +781,7 @@
       },
       "en_AE":{
          "enabled":true,
-         "probability":0.30,
+         "probability":0.60,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
          "message":"Help us improve Lantern",
@@ -799,7 +799,7 @@
       },
       "RU":{
          "enabled":true,
-         "probability":0.15,
+         "probability":0.30,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -808,7 +808,7 @@
       },
       "ru_RU":{
          "enabled":true,
-         "probability":0.15,
+         "probability":0.30,
          "showPlansScreen": false,
          "url":"https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
          "message":"Помогите улучшить Lantern, пройдя короткий опрос.",
@@ -853,7 +853,7 @@
       },
       "zh_CN":{
          "enabled":true,
-         "probability":0.15,
+         "probability":0.30,
          "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
          "message":"用户满意度调研",
          "thanks":"",
@@ -861,7 +861,7 @@
       },
       "CN":{
          "enabled":true,
-         "probability":0.15,
+         "probability":0.30,
          "url":"https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
          "message":"用户满意度调研",
          "thanks":"",
