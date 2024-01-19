@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.30,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
@@ -38,7 +38,7 @@
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.30,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
@@ -47,7 +47,7 @@
 			"button": "开始"
 		},
 		"fa_IR": {
-			"enabled":true,
+			"enabled":false,
 			"probability":0.30,
 			"campaign":"",
 			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
@@ -56,7 +56,7 @@
 			"button":"شرکت در نظرسنجی"
 		},
 		"IR": {
-			"enabled":true,
+			"enabled":false,
 			"probability":0.30,
 			"campaign":"",
 			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
@@ -74,7 +74,7 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -83,7 +83,7 @@
 			"button": "Take Survey"
 		},
 		"ar-AE": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -92,7 +92,7 @@
 			"button": "شارك في الاستبيان"
 		},
 		"en-AE": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -101,7 +101,7 @@
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 0.30,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
@@ -110,7 +110,7 @@
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 0.30,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
@@ -173,7 +173,7 @@
 			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"BY": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
@@ -182,7 +182,7 @@
 			"button": "Пройти опрос"
 		},
 		"uk_UA": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
@@ -191,7 +191,7 @@
 			"button": "пройдіть опитування"
 		},
 		"UA": {
-			"enabled":true,
+			"enabled":false,
 			"probability": 1.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
