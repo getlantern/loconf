@@ -29,38 +29,47 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.30,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
-			"message": "用户满意度调研",
+			"url": "https://lantern.surveysparrow.com/s/China-Investigation-Survey/tt-kEuKKMJs37hyX3aH3K7h4Z",
+			"message": "中国用户改善调查",
 			"thanks": "",
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.30,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g",
-			"message": "用户满意度调研",
+			"url": "https://lantern.surveysparrow.com/s/China-Investigation-Survey/tt-kEuKKMJs37hyX3aH3K7h4Z",
+			"message": "中国用户改善调查",
 			"thanks": "",
 			"button": "开始"
 		},
+		"GN": {
+			"enabled": true,
+			"probability": 0.30,
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Enquête sur l'expérience publicitaire",
+			"thanks": "",
+			"button": "commencer"
+		},
 		"fa_IR": {
-			"enabled":false,
+			"enabled":true,
 			"probability":0.30,
 			"campaign":"",
-			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-			"message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
+			"url":"https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message":"نظرسنجی تجربه تبلیغات",
 			"thanks":"",
 			"button":"شرکت در نظرسنجی"
 		},
 		"IR": {
-			"enabled":false,
+			"enabled":true,
 			"probability":0.30,
 			"campaign":"",
-			"url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-			"message":"لطفا در ارزیابی کیفیت لنترن در یک ماه گذشته شرکت کنید",
+			"url":"https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message":"نظرسنجی تجربه تبلیغات",
 			"thanks":"",
 			"button":"شرکت در نظرسنجی"
 		},
@@ -74,47 +83,47 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.60,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
-			"message": "Help us improve Lantern",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Ad experience Survey",
 			"thanks": "",
 			"button": "Take Survey"
 		},
 		"ar-AE": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 0.60,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
-			"message": "ساعدنا في تحسين لانترن",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "استطلاع تجربة الإعلان",
 			"thanks": "",
 			"button": "شارك في الاستبيان"
 		},
 		"en-AE": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 0.60,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
-			"message": "Help us improve Lantern",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Ad experience survey",
 			"thanks": "",
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 0.30,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
-			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Опрос по качеству рекламы",
 			"thanks": "",
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 0.30,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
-			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Опрос по качеству рекламы",
 			"thanks": "",
 			"button": "Пройти опрос"
 		},
@@ -173,29 +182,29 @@
 			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"BY": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
-			"message": "Помогите улучшить Lantern, пройдя короткий опрос.",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Опрос по качеству рекламы",
 			"thanks": "",
 			"button": "Пройти опрос"
 		},
 		"uk_UA": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
-			"message": "Допоможіть нам покращитися Lantern ",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Опитування щодо якості реклами",
 			"thanks": "",
 			"button": "пройдіть опитування"
 		},
 		"UA": {
-			"enabled":false,
+			"enabled":true,
 			"probability": 1.00,
 			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
-			"message": "Допоможіть нам покращитися Lantern ",
+			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			"message": "Опитування щодо якості реклами",
 			"thanks": "",
 			"button": "пройдіть опитування"
 		}
