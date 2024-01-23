@@ -853,7 +853,7 @@
       },
       "zh-CN": {
 			"enabled": true,
-			"probability": 0.30,
+			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/China-Investigation-Survey/tt-kEuKKMJs37hyX3aH3K7h4Z",
 			"message": "中国用户改善调查",
@@ -862,7 +862,7 @@
 		},
       "CN": {
 			"enabled": true,
-			"probability": 0.30,
+			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/China-Investigation-Survey/tt-kEuKKMJs37hyX3aH3K7h4Z",
 			"message": "中国用户改善调查",
