@@ -47,7 +47,7 @@
 			"button": "开始"
 		},
 		"GN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.30,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -56,7 +56,7 @@
 			"button": "commencer"
 		},
 		"fa_IR": {
-			"enabled":true,
+			"enabled":false,
 			"probability":0.30,
 			"campaign":"",
 			"url":"https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -65,7 +65,7 @@
 			"button":"شرکت در نظرسنجی"
 		},
 		"IR": {
-			"enabled":true,
+			"enabled": false,
 			"probability":0.30,
 			"campaign":"",
 			"url":"https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -83,7 +83,7 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -92,7 +92,7 @@
 			"button": "Take Survey"
 		},
 		"ar-AE": {
-			"enabled":true,
+			"enabled": false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -101,7 +101,7 @@
 			"button": "شارك في الاستبيان"
 		},
 		"en-AE": {
-			"enabled":true,
+			"enabled": false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -110,7 +110,7 @@
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled":true,
+			"enabled": false,
 			"probability": 0.30,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -119,7 +119,7 @@
 			"button": "Пройти опрос"
 		},
 		"ru-RU": {
-			"enabled":true,
+			"enabled": false,
 			"probability": 0.30,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -182,7 +182,7 @@
 			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"BY": {
-			"enabled":true,
+			"enabled": false,
 			"probability": 1.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -191,7 +191,7 @@
 			"button": "Пройти опрос"
 		},
 		"uk_UA": {
-			"enabled":true,
+			"enabled": false,
 			"probability": 1.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
@@ -200,7 +200,7 @@
 			"button": "пройдіть опитування"
 		},
 		"UA": {
-			"enabled":true,
+			"enabled": false,
 			"probability": 1.00,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
