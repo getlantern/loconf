@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/China-Investigation-Survey/tt-kEuKKMJs37hyX3aH3K7h4Z",
@@ -38,7 +38,7 @@
 			"button": "开始"
 		},
 		"CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.60,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/China-Investigation-Survey/tt-kEuKKMJs37hyX3aH3K7h4Z",
