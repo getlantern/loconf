@@ -56,7 +56,7 @@
 			"button": "commencer"
 		},
 		"fa_IR": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign":"",
 			"url":"https://www.instagram.com/getlantern_fa/",
@@ -65,7 +65,7 @@
 			"button":"کشف کنید!"
 		},
 		"IR": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign":"",
 			"url":"https://www.instagram.com/getlantern_fa/",
