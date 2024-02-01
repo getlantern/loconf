@@ -798,7 +798,7 @@
          "button":"انقر هنا"   
       },
       "RU": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "",
 			"url": "https://www.instagram.com/getlantern_ru/",
@@ -807,7 +807,7 @@
 			"button": "исследовать!"
 		},
       "ru-RU": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "",
 			"url": "https://www.instagram.com/getlantern_ru/",
@@ -852,7 +852,7 @@
          "button":"Join"
       },
       "zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "",
 			"url": "https://www.instagram.com/lanternio_ch",
@@ -861,7 +861,7 @@
 			"button": "探索！"
 		},
       "CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.0,
 			"campaign": "",
 			"url": "https://www.instagram.com/lanternio_ch",
@@ -899,7 +899,7 @@
          "button":"सर्वेक्षण लिनुहोस्"   
       },
       "BY": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1.00,
 			"campaign": "",
 			"url": "https://www.instagram.com/getlantern_belarus/",
