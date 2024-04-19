@@ -29,23 +29,23 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
-			"probability": 1.0,
+			"enabled": true,
+			"probability": 0.2,
 			"campaign": "",
-			"url": "https://www.instagram.com/lanternio_ch",
-			"message": "请在各大平台社交媒体上关注我们，了解最新更新、基本安全提示和有机会领取令人振奋的 Pro 赠品",
-			"thanks": "",
-			"button": "探索！"
+			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
+	 		"message": "填写以下调查来回顾 Lantern 的表现",
+	 		"thanks": "",
+	 		"button": "探索！"
 		},
 		"CN": {
-			"enabled": false,
-			"probability": 1.0,
-			"campaign": "",
-			"url": "https://www.instagram.com/lanternio_ch",
-			"message": "请在各大平台社交媒体上关注我们，了解最新更新、基本安全提示和有机会领取令人振奋的 Pro 赠品",
-			"thanks": "",
-			"button": "探索！"
-		},
+			 "enabled": true,
+			 "probability": 0.2,
+			 "campaign": "",
+			 "url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
+			 "message": "填写以下调查来回顾 Lantern 的表现",
+			 "thanks": "",
+			 "button": "探索！"
+      		},
 		"GN": {
 			"enabled": false,
 			"probability": 0.30,
@@ -56,23 +56,23 @@
 			"button": "commencer"
 		},
 		"fa_IR": {
-			"enabled": false,
-			"probability": 1.0,
-			"campaign":"",
-			"url":"https://www.instagram.com/getlantern_fa/",
-			"message":"لطفا برای اطلاع از آخرین آپدیت‌ها، نکته‌های امنیت دیجیتال و شرکت در قرعه‌کشی‌های اکانت حرفه‌ای لطفا شبکه‌های اجتماعی ما را به فارسی دنبال کنید",
-			"thanks":"",
-			"button":"کشف کنید!"
-		},
+			 "enabled": true,
+			 "probability": 0.2,
+			 "campaign":"",
+			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
+			 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
+			 "thanks":"",
+			 "button":"کشف کنید!"
+		      },
 		"IR": {
-			"enabled": false,
-			"probability": 1.0,
-			"campaign":"",
-			"url":"https://www.instagram.com/getlantern_fa/",
-			"message":"لطفا برای اطلاع از آخرین آپدیت‌ها، نکته‌های امنیت دیجیتال و شرکت در قرعه‌کشی‌های اکانت حرفه‌ای لطفا شبکه‌های اجتماعی ما را به فارسی دنبال کنید",
-			"thanks":"",
-			"button":"کشف کنید!"
-		},
+			 "enabled": true,
+			 "probability": 0.2,
+			 "campaign":"",
+			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
+			 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
+			 "thanks":"",
+			 "button":"کشف کنید!"
+		      },
 		"IN": {
 			"enabled": false,
 			"probability": 0.00,
@@ -83,23 +83,23 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			"enabled": false,
-			"probability": 0.60,
-			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
-			"message": "Ad experience Survey",
-			"thanks": "",
-			"button": "Take Survey"
-		},
+			 "enabled": true, 
+			 "probability": 0.2,
+			 "campaign": "",
+			 "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
+			 "message": "Fill out the following survey to review Lantern's performance!",
+			 "thanks": "",
+			 "button": "Take Survey"
+		      },
 		"ar-AE": {
-			"enabled": false,
-			"probability": 0.60,
-			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
-			"message": "استطلاع تجربة الإعلان",
-			"thanks": "",
-			"button": "شارك في الاستبيان"
-		},
+			 "enabled":true,
+			 "probability": 0.2,
+		  	 "campaign": "",
+			 "url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			 "message": "قم بملء الاستبيان التالي لمراجعة أداء Lantern!",
+			 "thanks": "",
+			 "button": "شارك في الاستبيان"
+		      },
 		"en-AE": {
 			"enabled": false,
 			"probability": 0.60,
@@ -110,14 +110,14 @@
 			"button": "Take Survey"
 		},
 		"RU": {
-			"enabled": false,
-			"probability": 1.0,
-			"campaign": "",
-			"url": "https://www.instagram.com/getlantern_ru/",
-			"message": "Подписывайтесь на нас в социальных сетях, чтобы получать последние обновления, важные советы по безопасности и участвовать в розыгрышах подписки Pro.",
+			"enabled": true,
+			"probability": 0.5,
+		  	"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
+			"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
 			"thanks": "",
-			"button": "исследовать!"
-		},
+			"button": "исследовать!"		
+		      },
 		"ru-RU": {
 			"enabled": false,
 			"probability": 1.0,
@@ -182,32 +182,32 @@
 			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"BY": {
-			"enabled": false,
-			"probability": 1.00,
-			"campaign": "",
-			"url": "https://www.instagram.com/getlantern_belarus/",
-			"message": "Подписывайтесь на нас в социальных сетях, чтобы получать последние обновления, важные советы по безопасности и участвовать в розыгрышах подписки Pro.",
-			"thanks": "",
-			"button": "исследовать!"
-		},
+			 "enabled": true,
+			 "probability": 0.8, 
+			 "campaign": "",
+			 "url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
+			 "message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
+			 "thanks": "",
+			 "button": "пройти опрос"
+		      },
 		"uk_UA": {
-			"enabled": false,
-			"probability": 1.00,
-			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
-			"message": "Опитування щодо якості реклами",
-			"thanks": "",
-			"button": "пройдіть опитування"
-		},
+			 "enabled":true,
+			 "probability": 0.8,
+			 "campaign": "",
+			 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
+			 "message": "Заповніть наступне опитування, щоб оцінити продуктивність Lantern!",
+			 "thanks": "",
+			 "button": "пройдіть опитування"
+				},
 		"UA": {
-			"enabled": false,
-			"probability": 1.00,
-			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
-			"message": "Опитування щодо якості реклами",
-			"thanks": "",
-			"button": "пройдіть опитування"
-		}
+			 "enabled":true, 
+			 "probability": 0.8,
+			 "campaign": "",
+			 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
+			 "message": "Заповніть наступне опитування, щоб оцінити продуктивність Lantern!",
+			 "thanks": "",
+			 "button": "пройдіть опитування"
+		       }
 	},
   "bannerAds":{
     "en_US":{
