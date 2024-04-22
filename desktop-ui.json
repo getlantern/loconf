@@ -30,7 +30,7 @@
 	"survey": {
 		"zh-CN": {
 			"enabled": true,
-			"probability": 0.2,
+			"probability": 0.5,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
 	 		"message": "填写以下调查来回顾 Lantern 的表现",
@@ -39,7 +39,7 @@
 		},
 		"CN": {
 			 "enabled": true,
-			 "probability": 0.2,
+			 "probability": 0.5,
 			 "campaign": "",
 			 "url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
 			 "message": "填写以下调查来回顾 Lantern 的表现",
@@ -57,7 +57,7 @@
 		},
 		"fa_IR": {
 			 "enabled": true,
-			 "probability": 0.2,
+			 "probability": 0.5,
 			 "campaign":"",
 			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
@@ -66,7 +66,7 @@
 		      },
 		"IR": {
 			 "enabled": true,
-			 "probability": 0.2,
+			 "probability": 0.5,
 			 "campaign":"",
 			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
@@ -84,7 +84,7 @@
 		},
 		"AE": {
 			 "enabled": true, 
-			 "probability": 0.2,
+			 "probability": 0.5,
 			 "campaign": "",
 			 "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			 "message": "Fill out the following survey to review Lantern's performance!",
@@ -93,9 +93,9 @@
 		      },
 		"ar-AE": {
 			 "enabled":true,
-			 "probability": 0.2,
+			 "probability": 0.5,
 		  	 "campaign": "",
-			 "url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+			 "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
 			 "message": "قم بملء الاستبيان التالي لمراجعة أداء Lantern!",
 			 "thanks": "",
 			 "button": "شارك في الاستبيان"
@@ -111,7 +111,7 @@
 		},
 		"RU": {
 			"enabled": true,
-			"probability": 0.5,
+			"probability": 0.8,
 		  	"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
@@ -120,10 +120,10 @@
 		      },
 		"ru-RU": {
 			"enabled": false,
-			"probability": 1.0,
+			"probability": 0.8,
 			"campaign": "",
-			"url": "https://www.instagram.com/getlantern_ru/",
-			"message": "Подписывайтесь на нас в социальных сетях, чтобы получать последние обновления, важные советы по безопасности и участвовать в розыгрышах подписки Pro.",
+			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
+			"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
 			"thanks": "",
 			"button": "исследовать!"
 		},
@@ -183,7 +183,7 @@
 		},
 		"BY": {
 			 "enabled": true,
-			 "probability": 0.8, 
+			 "probability": 1.0, 
 			 "campaign": "",
 			 "url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
 			 "message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
@@ -192,7 +192,7 @@
 		      },
 		"uk_UA": {
 			 "enabled":true,
-			 "probability": 0.8,
+			 "probability": 1.0,
 			 "campaign": "",
 			 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			 "message": "Заповніть наступне опитування, щоб оцінити продуктивність Lantern!",
