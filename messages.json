@@ -804,7 +804,7 @@
 	"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 	"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
 	"thanks": "",
-	"button": "исследовать!"		
+	"button": "начать"		
       },
       "ru-RU": {
 	 "enabled": true,
@@ -813,7 +813,7 @@
 	 "url": "https://www.instagram.com/getlantern_ru/",
 	 "message": "Подписывайтесь на нас в социальных сетях, чтобы получать последние обновления, важные советы по безопасности и участвовать в розыгрышах подписки Pro.",
   	 "thanks": "",
-	 "button": "исследовать!"
+	 "button": "начать"
       },
       "TR":{
          "enabled":false,
