@@ -116,16 +116,16 @@
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
 			"thanks": "",
-			"button": "исследовать!"		
+			"button": "начать"		
 		      },
 		"ru-RU": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 0.8,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
 			"thanks": "",
-			"button": "исследовать!"
+			"button": "начать"
 		},
 		"TR": {
 			"enabled":false,
