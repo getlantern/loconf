@@ -834,8 +834,8 @@
          "button":"Join"
       },
       "MM":{
-         "enabled":true,
-         "probability":1.00,
+         "enabled":false,
+         "probability":0.00,
          "showPlansScreen": false,
          "url":"",
          "message":"လန်တန်ကို မြန်မာနိုင်ငံရှိ အသုံးပြုသူများအတွက် အကန့်အသတ်မရှိ အခမဲ့အသုံးပြုနိုင်ပြီဖြစ်ပါသည်။",
