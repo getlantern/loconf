@@ -1,0 +1,20 @@
+name: Validate JSON
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Install jq
+      run: sudo apt-get install jq
+
+    - name: Validate JSON
+      run: ./bin/validate_json .
