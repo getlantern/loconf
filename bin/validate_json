@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+if [ "$#" -ne 1 ]; then
+  echo "Usage: $0 <json_dir>"
+  exit 1
+fi
+JSON_DIR="$1"
+echo "Validating JSON files in directory: "$JSON_DIR" ... "; echo
+
+ERRORS=0
+for FILE in $(find "$JSON_DIR" -name "*.json"); do
+  printf "Checking %s ..." "$FILE"
+  if jq . "$FILE" > /dev/null 2>&1; then
+    echo "valid."
+  else
+    echo "INVALID!"
+    (( ERRORS += 1 ))
+  fi
+done
+
+if [ "$ERRORS" -ne 0 ]; then
+  echo; echo "Validation failed with $ERRORS errors."
+  exit 2
+else
+  echo; echo "All good!"
+fi
