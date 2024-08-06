@@ -744,22 +744,22 @@
    },
    "surveys":{
      "IR": {
-	 "enabled": false,
-	 "probability": 0.5,
+	 "enabled": true,
+	 "probability": 0.25,
 	 "campaign":"",
-	 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-	 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
+	 "url":"https://docs.google.com/forms/d/e/1FAIpQLSdSS65OKbnBqFznR4_fiDE_ps4HbR_uytSjTr2lYzpjJjKSOQ/viewform",
+	 "message":"اگر گیمر هستید به ما کمک کنید نیازهای شما را بهتر بشناسیم",
 	 "thanks":"",
-	 "button":"کشف کنید!"
+	 "button":"شرکت در نظرسنجی"
       },
       "fa_IR": {
-	 "enabled": false,
-	 "probability": 0.5,
+	 "enabled": true,
+	 "probability": 0.25,
 	 "campaign":"",
-	 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-	 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
+	 "url":"https://docs.google.com/forms/d/e/1FAIpQLSdSS65OKbnBqFznR4_fiDE_ps4HbR_uytSjTr2lYzpjJjKSOQ/viewform",
+	 "message":"اگر گیمر هستید به ما کمک کنید نیازهای شما را بهتر بشناسیم",
 	 "thanks":"",
-	 "button":"کشف کنید!"
+	 "button":"شرکت در نظرسنجی"
       },
       "AE": {
 	 "enabled": false, 
