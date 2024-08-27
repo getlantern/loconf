@@ -744,20 +744,20 @@
    },
    "surveys":{
      "IR": {
-	 "enabled": true,
-	 "probability": 0.25,
+	 "enabled": false,
+	 "probability": 0.00,
 	 "campaign":"",
-	 "url":"https://docs.google.com/forms/d/e/1FAIpQLSdSS65OKbnBqFznR4_fiDE_ps4HbR_uytSjTr2lYzpjJjKSOQ/viewform",
-	 "message":"به عنوان یک گیمر با چه مشکلاتی مواجه هستید؟",
+	 "url":"",
+	 "message":"",
 	 "thanks":"",
 	 "button":"شرکت در نظرسنجی"
       },
       "fa_IR": {
-	 "enabled": true,
-	 "probability": 0.25,
+	 "enabled": false,
+	 "probability": 0.00,
 	 "campaign":"",
-	 "url":"https://docs.google.com/forms/d/e/1FAIpQLSdSS65OKbnBqFznR4_fiDE_ps4HbR_uytSjTr2lYzpjJjKSOQ/viewform",
-	 "message":"به عنوان یک گیمر با چه مشکلاتی مواجه هستید؟",
+	 "url":"",
+	 "message":"",
 	 "thanks":"",
 	 "button":"شرکت در نظرسنجی"
       },
