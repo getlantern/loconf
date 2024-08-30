@@ -3,28 +3,28 @@
 		"en-US": {
 			"enabled": true,
 			"probability": 1.00,
-			"campaign": "US20191219",
-			"url": "https://www.surveymonkey.com/r/8KT27H2"
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		},
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20191219",
-			"url": "https://www.surveymonkey.com/r/8K7YML9"
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		}
 	},
 	"uninstall-survey-pro": {
 		"en-US": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20191219",
-			"url": "https://www.surveymonkey.com/r/8KT27H2"
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		},
 		"zh-CN": {
 			"enabled": true,
 			"probability": 1.0,
-			"campaign": "US20191219",
-			"url": "https://www.surveymonkey.com/r/8K7YML9"
+			"campaign": "",
+			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		}
 	},
 	"survey": {
