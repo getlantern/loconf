@@ -33,7 +33,7 @@
 			"probability": 0.25,
 			"campaign": "MESA3.4",
 			"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z", 
-	 		"message": "填写以下调查来回顾 Lantern 的表现",
+	 		"message": "用户安全指南研究调查",
 	 		"thanks": "",
 	 		"button": "探索！"
 		},
@@ -42,7 +42,7 @@
 			 "probability": 0.25,
 			 "campaign": "MESA3.4",
 			 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z", 
-			 "message": "填写以下调查来回顾 Lantern 的表现",
+			 "message": "用户安全指南研究调查",
 			 "thanks": "",
 			 "button": "探索！"
       		},
@@ -60,7 +60,7 @@
 			 "probability": 0.5,
 			 "campaign":"MESA3.4",
 			 "url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-			 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
+			 "message":"راهنمای امنیت کاربر نظرسنجی تحقیق",
 			 "thanks":"",
 			 "button":"کشف کنید!"
 		      },
@@ -69,7 +69,7 @@
 			 "probability": 0.5,
 			 "campaign":"MESA3.4",
 			 "url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-			 "message":"نظرسنجی زیر را برای بررسی عملکرد لنترن پر کنید!",
+			 "message":"دليل أمان المستخدم - دراسة استقصائية",
 			 "thanks":"",
 			 "button":"کشف کنید!"
 		      },
@@ -114,7 +114,7 @@
 			"probability": 0.5,
 		  	"campaign": "MESA3.4",
 			"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-			"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
+			"message": "Руководство пользователя по безопасности Исследование Опрос",
 			"thanks": "",
 			"button": "начать"		
 		      },
@@ -123,7 +123,7 @@
 			"probability": 0.5,
 			"campaign": "MESA3.4",
 			"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-			"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
+			"message": "Руководство пользователя по безопасности Исследование Опрос",
 			"thanks": "",
 			"button": "начать"
 		},
@@ -195,7 +195,7 @@
 			 "probability": 0.5,
 			 "campaign": "MESA3.4",
 			 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-			 "message": "Заповніть наступне опитування, щоб оцінити продуктивність Lantern!",
+			 "message": "Посібник з безпеки користувача Дослідження",
 			 "thanks": "",
 			 "button": "пройдіть опитування"
 				},
@@ -204,7 +204,7 @@
 			 "probability": 0.5,
 			 "campaign": "MESA3.4",
 			 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-			 "message": "Заповніть наступне опитування, щоб оцінити продуктивність Lantern!",
+			 "message": "Посібник з безпеки користувача Дослідження",
 			 "thanks": "",
 			 "button": "пройдіть опитування"
 		       }
