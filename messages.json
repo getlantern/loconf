@@ -743,132 +743,145 @@
      }
    },
    "surveys":{
-     "IR": {
-	 "enabled": false,
-	 "probability": 0.00,
-	 "campaign":"",
-	 "url":"",
-	 "message":"",
-	 "thanks":"",
-	 "button":"شرکت در نظرسنجی"
-      },
-      "fa_IR": {
-	 "enabled": false,
-	 "probability": 0.00,
-	 "campaign":"",
-	 "url":"",
-	 "message":"",
-	 "thanks":"",
-	 "button":"شرکت در نظرسنجی"
-      },
-      "AE": {
-	 "enabled": false, 
-	 "probability": 0.5,
-	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
-	 "message": "Fill out the following survey to review Lantern's performance!",
-	 "thanks": "",
-	 "button": "Take Survey"
-      },
-      "ar-AE": {
-	 "enabled":false,
-	 "probability": 0.5,
-  	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
-	 "message": "قم بملء الاستبيان التالي لمراجعة أداء Lantern!",
-	 "thanks": "",
-	 "button": "شارك في الاستبيان"
-      },
-      "en-AE": {
- 	 "enabled":false,
-	 "probability": 0.60,
- 	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
- 	 "message": "Ad experience survey",
- 	 "thanks": "",
-	 "button": "Take Survey"
+    	"fa_IR": {
+		"enabled": true,
+	     	"probability": 0.5,
+	     	"campaign":"MESA3.4",
+	     	"url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+	     	"message":"راهنمای امنیت کاربر نظرسنجی تحقیق",
+	     	"thanks":"",
+	     	"button":"کشف کنید!"
+	     	},
+    	"IR": {
+		"enabled": true,
+		"probability": 0.5,
+		"campaign":"MESA3.4",
+		"url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+		"message":"دليل أمان المستخدم - دراسة استقصائية",
+		"thanks":"",
+		"button":"کشف کنید!"
 		},
+	   
+	"AE": {
+		"enabled": false, 
+		"probability": 0.5,
+		"campaign": "",
+		"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
+		"message": "Fill out the following survey to review Lantern's performance!",
+		"thanks": "",
+		"button": "Take Survey"
+		},
+
+	"ar-AE": {
+		"enabled":false,
+	 	"probability": 0.5,
+  	 	"campaign": "",
+	 	"url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
+	 	"message": "قم بملء الاستبيان التالي لمراجعة أداء Lantern!",
+	 	"thanks": "",
+	 	"button": "شارك في الاستبيان"
+      		},
+	   
+      "en-AE": {
+	 	 "enabled":false,
+		 "probability": 0.60,
+	 	 "campaign": "",
+		 "url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
+	 	 "message": "Ad experience survey",
+	 	 "thanks": "",
+		 "button": "Take Survey"
+		},
+	   
       "ar_SA":{
-         "enabled":false,
-         "probability":1.00,
-         "showPlansScreen": false,
-         "url":"https://www.surveymonkey.com/r/XG9G82S",
-         "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
-         "thanks":"",
-         "button":"انقر هنا"   
-      },
-      "RU": {
-	"enabled": false,
-	"probability": 0.8,
-  	"campaign": "",
-	"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
-	"message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
-	"thanks": "",
-	"button": "начать"		
-      },
-      "ru-RU": {
-	 "enabled": false,
-	 "probability": 0.8,
-	 "campaign": "",
-	 "url": "https://www.instagram.com/getlantern_ru/",
-	 "message": "Подписывайтесь на нас в социальных сетях, чтобы получать последние обновления, важные советы по безопасности и участвовать в розыгрышах подписки Pro.",
-  	 "thanks": "",
-	 "button": "начать"
-      },
-      "TR":{
-         "enabled":false,
-         "probability":1.00,
-         "showPlansScreen": false,
-         "url":"https://telegram.me/lantern_turkey",
-         "message":"For news and updates for Lantern, join our Telegram channel",
-         "thanks":"",
-         "button":"Join"
-      },
+	         "enabled":false,
+	         "probability":1.00,
+	         "showPlansScreen": false,
+	         "url":"https://www.surveymonkey.com/r/XG9G82S",
+	         "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
+	         "thanks":"",
+	         "button":"انقر هنا"   
+      		},
+	
+	"RU": {
+		"enabled": true,
+		"probability": 0.5,
+		"campaign": "MESA3.4",
+		"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+		"message": "Руководство пользователя по безопасности Исследование Опрос",
+		"thanks": "",
+		"button": "начать"		
+	      },
+	   
+	"ru-RU": {
+		"enabled": true,
+		"probability": 0.5,
+		"campaign": "MESA3.4",
+		"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+		"message": "Руководство пользователя по безопасности Исследование Опрос",
+		"thanks": "",
+		"button": "начать"
+		},
+ 
+	"TR":{
+	         "enabled":false,
+	         "probability":1.00,
+	         "showPlansScreen": false,
+	         "url":"https://telegram.me/lantern_turkey",
+	         "message":"For news and updates for Lantern, join our Telegram channel",
+	         "thanks":"",
+	         "button":"Join"
+      		},
+	   
       "tr_TR":{
-         "enabled":false,
-         "probability":1.00,
-         "showPlansScreen": false,
-         "url":"https://telegram.me/lantern_turkey",
-         "message":"For news and updates for Lantern, join our Telegram channel",
-         "thanks":"",
-         "button":"Join"
-      },
-      "MM":{
-         "enabled":false,
-         "probability":0.00,
-         "showPlansScreen": false,
-         "url":"",
-         "message":"လန်တန်ကို မြန်မာနိုင်ငံရှိ အသုံးပြုသူများအတွက် အကန့်အသတ်မရှိ အခမဲ့အသုံးပြုနိုင်ပြီဖြစ်ပါသည်။",
-         "thanks":"",
-         "button":""
-      },
+	         "enabled":false,
+	         "probability":1.00,
+	         "showPlansScreen": false,
+	         "url":"https://telegram.me/lantern_turkey",
+	         "message":"For news and updates for Lantern, join our Telegram channel",
+	         "thanks":"",
+	         "button":"Join"
+      		},
+	   
+	"MM":{
+	         "enabled":false,
+	         "probability":0.00,
+	         "showPlansScreen": false,
+	         "url":"",
+	         "message":"လန်တန်ကို မြန်မာနိုင်ငံရှိ အသုံးပြုသူများအတွက် အကန့်အသတ်မရှိ အခမဲ့အသုံးပြုနိုင်ပြီဖြစ်ပါသည်။",
+	         "thanks":"",
+	         "button":""
+      		},
+	   
       "vi_VN":{
-         "enabled":false,
-         "probability":1.00,
-         "showPlansScreen": false,
-         "url":"https://telegram.me/lantern_vietnam",
-         "message":"For news and updates for Lantern, join our Telegram channel",
-         "thanks":"",
-         "button":"Join"
-      },
+	         "enabled":false,
+	         "probability":1.00,
+	         "showPlansScreen": false,
+	         "url":"https://telegram.me/lantern_vietnam",
+	         "message":"For news and updates for Lantern, join our Telegram channel",
+	         "thanks":"",
+	         "button":"Join"
+      		},
+	   
       "zh-CN": {
-	 "enabled": false,
-	 "probability": 0.5,
-	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
-	 "message": "填写以下调查来回顾 Lantern 的表现",
-	 "thanks": "",
-	 "button": "探索！"
-      },
-      "CN": {
-	 "enabled": false,
-	 "probability": 0.5,
-	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
-	 "message": "填写以下调查来回顾 Lantern 的表现",
-	 "thanks": "",
-	 "button": "探索！"
-      },
+		"enabled": true,
+		"probability": 0.25,
+		"campaign": "MESA3.4",
+		"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z", 
+		"message": "用户安全指南研究调查",
+		"thanks": "",
+		"button": "探索！"
+		},
+	   
+	"CN": {
+	"enabled": true,
+		"probability": 0.25,
+		"campaign": "MESA3.4",
+		"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z", 
+		"message": "用户安全指南研究调查",
+		"thanks": "",
+		"button": "探索！"
+      		},
+	   
       "GN": {
 	 "enabled": false,
 	 "probability": 0.30,
@@ -898,32 +911,36 @@
          "thanks":"",
          "button":"सर्वेक्षण लिनुहोस्"   
       },
+	   
       "BY": {
-	 "enabled": false,
-	 "probability": 1.0, 
-	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
-	 "message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
-	 "thanks": "",
-	 "button": "пройти опрос"
-      },
-      "uk_UA": {
-	 "enabled":false,
-	 "probability": 1.0,
-	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
-	 "message": "Заповніть наступне опитування, щоб оцінити продуктивність Lantern!",
-	 "thanks": "",
-	 "button": "пройдіть опитування"
+		 "enabled": false,
+		 "probability": 1.0, 
+		 "campaign": "",
+		 "url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
+		 "message": "Заполните следующий опрос, чтобы оценить эффективность Lantern!",
+		 "thanks": "",
+		 "button": "пройти опрос"
+      		},
+	   
+	"uk_UA": {
+		 "enabled":true,
+		 "probability": 0.5,
+		 "campaign": "MESA3.4",
+		 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+		 "message": "Посібник з безпеки користувача Дослідження",
+		 "thanks": "",
+		 "button": "пройдіть опитування"
 		},
-      "UA": {
-	 "enabled":false, 
-	 "probability": 1.0,
-	 "campaign": "",
-	 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
-	 "message": "Заповніть наступне опитування, щоб оцінити продуктивність Lantern!",
-	 "thanks": "",
-	 "button": "пройдіть опитування"
-       }
+	   
+	"UA": {
+		 "enabled":true, 
+		 "probability": 0.5,
+		 "campaign": "MESA3.4",
+		 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+		 "message": "Посібник з безпеки користувача Дослідження",
+		 "thanks": "",
+		 "button": "пройдіть опитування"
+	       }
+       
    }
 }
