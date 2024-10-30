@@ -2,13 +2,13 @@
 	"uninstall-survey-free": {
 		"en-US": {
 			"enabled": true,
-			"probability": 1.00,
+			"probability": .1,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		},
 		"zh-CN": {
 			"enabled": true,
-			"probability": 1.0,
+			"probability": .1,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		}
@@ -16,13 +16,13 @@
 	"uninstall-survey-pro": {
 		"en-US": {
 			"enabled": true,
-			"probability": 1.0,
+			"probability": .1,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		},
 		"zh-CN": {
 			"enabled": true,
-			"probability": 1.0,
+			"probability": .1,
 			"campaign": "",
 			"url": "https://lantern.surveysparrow.com/s/uninstall/tt-MHXnm"
 		}
