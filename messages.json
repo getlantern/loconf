@@ -743,23 +743,23 @@
      }
    },
    "surveys":{
-	    	"fa_IR": {
+	"fa_IR": {
 		"enabled": true,
-	     	"probability": 0.5,
-	     	"campaign":"MESA3.4",
-	     	"url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-	     	"message":"راهنمای امنیت کاربر نظرسنجی تحقیق",
+	     	"probability": 1.0,
+	     	"campaign":"update",
+	     	"url":"https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.apk",
+	     	"message":"برای اتصال و سرعت بهتر، حتما آخرین نسخه را نصب کنید!",
 	     	"thanks":"",
-	     	"button":"کشف کنید!"
+	     	"button":"آپدیت از وب‌سایت"
 	     	},
     	"IR": {
 		"enabled": true,
-		"probability": 0.5,
-		"campaign":"MESA3.4",
-		"url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
-		"message":"دليل أمان المستخدم - دراسة استقصائية",
+		"probability": 1.0,
+		"campaign":"update",
+		"url":"https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.apk",
+	     	"message":"برای اتصال و سرعت بهتر، حتما آخرین نسخه را نصب کنید!",
 		"thanks":"",
-		"button":"کشف کنید!"
+	     	"button":"آپدیت از وب‌سایت"
 		},
 	   
 	"AE": {
