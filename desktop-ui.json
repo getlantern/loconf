@@ -32,7 +32,7 @@
 			"enabled": true,
 			"probability": 0.25,
 			"campaign": "MESA3.4",
-			"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z", 
+			"url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
 	 		"message": "用户安全指南研究调查",
 	 		"thanks": "",
 	 		"button": "探索！"
@@ -41,7 +41,7 @@
 			 "enabled": true,
 			 "probability": 0.25,
 			 "campaign": "MESA3.4",
-			 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z", 
+			 "url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
 			 "message": "用户安全指南研究调查",
 			 "thanks": "",
 			 "button": "探索！"
@@ -59,7 +59,7 @@
 			 "enabled": true,
 			 "probability": 0.5,
 			 "campaign":"MESA3.4",
-			 "url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			 "message":"راهنمای امنیت کاربر نظرسنجی تحقیق",
 			 "thanks":"",
 			 "button":"کشف کنید!"
@@ -68,7 +68,7 @@
 			 "enabled": true,
 			 "probability": 0.5,
 			 "campaign":"MESA3.4",
-			 "url":"https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
 			 "message":"دليل أمان المستخدم - دراسة استقصائية",
 			 "thanks":"",
 			 "button":"کشف کنید!"
@@ -83,7 +83,7 @@
 			"button": "Click Here"
 		},
 		"AE": {
-			 "enabled": false, 
+			 "enabled": true, 
 			 "probability": 0.5,
 			 "campaign": "",
 			 "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -92,7 +92,7 @@
 			 "button": "Take Survey"
 		      },
 		"ar-AE": {
-			 "enabled":false,
+			 "enabled":true,
 			 "probability": 0.5,
 		  	 "campaign": "",
 			 "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -113,7 +113,7 @@
 			"enabled": true,
 			"probability": 0.5,
 		  	"campaign": "MESA3.4",
-			"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Руководство пользователя по безопасности Исследование Опрос",
 			"thanks": "",
 			"button": "начать"		
@@ -122,7 +122,7 @@
 			"enabled": true,
 			"probability": 0.5,
 			"campaign": "MESA3.4",
-			"url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Руководство пользователя по безопасности Исследование Опрос",
 			"thanks": "",
 			"button": "начать"
@@ -182,7 +182,7 @@
 			"button": "सर्वेक्षण लिनुहोस्"
 		},
 		"BY": {
-			 "enabled": false,
+			 "enabled": true,
 			 "probability": 1.0, 
 			 "campaign": "",
 			 "url": "https://lantern.surveysparrow.com/s/-belarus---monthly-quality-check/tt-qnfhjCNVq7wuAynyHJRtm3",
@@ -194,7 +194,7 @@
 			 "enabled":true,
 			 "probability": 0.5,
 			 "campaign": "MESA3.4",
-			 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+			 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			 "message": "Посібник з безпеки користувача Дослідження",
 			 "thanks": "",
 			 "button": "пройдіть опитування"
@@ -203,7 +203,7 @@
 			 "enabled":true, 
 			 "probability": 0.5,
 			 "campaign": "MESA3.4",
-			 "url": "https://lantern.surveysparrow.com/s/user-security-guide-research-survey/tt-SuU5z",
+			 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			 "message": "Посібник з безпеки користувача Дослідження",
 			 "thanks": "",
 			 "button": "пройдіть опитування"
