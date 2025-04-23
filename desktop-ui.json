@@ -111,7 +111,7 @@
 		},
 		"RU": {
 			"enabled": true,
-			"probability": 0.5,
+			"probability": 0.75,
 		  	"campaign": "MESA3.4",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Руководство пользователя по безопасности Исследование Опрос",
@@ -120,7 +120,7 @@
 		      },
 		"ru-RU": {
 			"enabled": true,
-			"probability": 0.5,
+			"probability": 0.75,
 			"campaign": "MESA3.4",
 			"url": "https://lantern.surveysparrow.com/s/russia---monthly-quality-check/tt-1XL9xeVuTooSoeeBj1nYJW",
 			"message": "Руководство пользователя по безопасности Исследование Опрос",
@@ -192,7 +192,7 @@
 		      },
 		"uk_UA": {
 			 "enabled":true,
-			 "probability": 0.5,
+			 "probability": 1.0,
 			 "campaign": "MESA3.4",
 			 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			 "message": "Посібник з безпеки користувача Дослідження",
@@ -201,7 +201,7 @@
 				},
 		"UA": {
 			 "enabled":true, 
-			 "probability": 0.5,
+			 "probability": 1.0,
 			 "campaign": "MESA3.4",
 			 "url": "https://lantern.surveysparrow.com/s/ukraine---monthly-quality-check/tt-54AYktTbz8iPbZAkJDjZem",
 			 "message": "Посібник з безпеки користувача Дослідження",
