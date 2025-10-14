@@ -763,7 +763,7 @@
     },
      
   "AE": {
-    "enabled": true, 
+    "enabled": false, 
     "probability": 0.5,
     "campaign": "",
     "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -773,7 +773,7 @@
     },
  
   "ar-AE": {
-    "enabled":true,
+    "enabled":false,
      "probability": 0.5,
        "campaign": "",
      "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -783,7 +783,7 @@
           },
      
       "en-AE": {
-      "enabled":true,
+      "enabled":false,
      "probability": 0.60,
       "campaign": "",
      "url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
