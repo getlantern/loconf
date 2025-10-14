@@ -763,17 +763,17 @@
     },
      
   "AE": {
-    "enabled": false, 
+    "enabled": true, 
     "probability": 0.5,
     "campaign": "",
-    "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
-    "message": "Fill out the following survey to review Lantern's performance!",
+    "url": "https://sprw.io/stt-fwcDw",
+    "message": "Quick survey: How can we make Lantern Pro better for UAE users",
     "thanks": "",
     "button": "Take Survey"
     },
  
   "ar-AE": {
-    "enabled":false,
+    "enabled": false,
      "probability": 0.5,
        "campaign": "",
      "url": "https://lantern.surveysparrow.com/s/uae---monthly-quality-check/tt-x8w5Nwc8Ar5DMTJPSh3uP8",
@@ -782,26 +782,16 @@
      "button": "شارك في الاستبيان"
           },
      
-      "en-AE": {
-      "enabled":false,
+   "en-AE": {
+     "enabled": true,
      "probability": 0.60,
-      "campaign": "",
-     "url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
-      "message": "Ad experience survey",
-      "thanks": "",
+     "campaign": "",
+     "url": "https://sprw.io/stt-fwcDw",
+     "message": "Quick survey: How can we make Lantern Pro better for UAE users",
+     "thanks": "",
      "button": "Take Survey"
     },
-     
-      "ar_SA":{
-           "enabled":false,
-           "probability":1.00,
-           "showPlansScreen": false,
-           "url":"https://www.surveymonkey.com/r/XG9G82S",
-           "message":"ساعدنا في تحسين تطبيق Lantern من خلال المشاركة في هذا الاستطلاع!",
-           "thanks":"",
-           "button":"انقر هنا"   
-          },
-  
+
   "RU": {
     "enabled": true,
     "probability": 0.75,
@@ -821,27 +811,7 @@
     "thanks": "",
     "button": "начать"
     },
- 
-  "TR":{
-           "enabled":false,
-           "probability":1.00,
-           "showPlansScreen": false,
-           "url":"https://telegram.me/lantern_turkey",
-           "message":"For news and updates for Lantern, join our Telegram channel",
-           "thanks":"",
-           "button":"Join"
-          },
-     
-      "tr_TR":{
-           "enabled":false,
-           "probability":1.00,
-           "showPlansScreen": false,
-           "url":"https://telegram.me/lantern_turkey",
-           "message":"For news and updates for Lantern, join our Telegram channel",
-           "thanks":"",
-           "button":"Join"
-          },
-     
+
   "MM":{
            "enabled":false,
            "probability":0.00,
