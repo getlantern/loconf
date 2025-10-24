@@ -763,7 +763,7 @@
     },
      
   "AE": {
-    "enabled": true, 
+    "enabled": false, 
     "probability": 0.5,
     "campaign": "",
     "url": "https://sprw.io/stt-fwcDw",
@@ -783,7 +783,7 @@
           },
      
    "en-AE": {
-     "enabled": true,
+     "enabled": false,
      "probability": 0.60,
      "campaign": "",
      "url": "https://sprw.io/stt-fwcDw",
