@@ -836,9 +836,9 @@
   "zh-CN": {
     "enabled": true,
     "probability": 0.25,
-    "campaign": "MESA3.4",
-    "url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
-    "message": "用户安全指南研究调查",
+    "campaign": "Airport Survey",
+    "url": "https://lantern.limesurvey.net/tool-survey?src=lantern", 
+    "message": "您的意见将直接影响「蓝灯」及其他工具的未来! 匿名问卷（5-10分钟），聊聊您的真实感受就好。完成后参与抽奖：$20美元礼品卡 或 蓝灯Pro账户",
     "thanks": "",
     "button": "探索！"
     },
@@ -847,9 +847,9 @@
   "CN": {
     "enabled": true,
     "probability": 0.25,
-    "campaign": "MESA3.4",
-    "url": "https://lantern.surveysparrow.com/s/china---monthly-quality-check/tt-f97LXhrwApq3gNnPyjuJ2g", 
-    "message": "用户安全指南研究调查",
+    "campaign": "AirportSurvey",
+    "url": "https://lantern.limesurvey.net/tool-survey?src=lantern", 
+    "message": "您的意见将直接影响「蓝灯」及其他工具的未来! 匿名问卷（5-10分钟），聊聊您的真实感受就好。完成后参与抽奖：$20美元礼品卡 或 蓝灯Pro账户",
     "thanks": "",
     "button": "探索！"
     },	   
