@@ -58,18 +58,18 @@
 		"fa_IR": {
 			 "enabled": true,
 			 "probability": 0.5,
-			 "campaign":"MESA3.4",
-			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-			 "message":"راهنمای امنیت کاربر نظرسنجی تحقیق",
+			 "campaign":"Gamaan",
+			 "url":"https://gamaan.survey.fm/2026-protests-war?plat=dlan",
+			 "message":"این نظرسنجی کوتاه توسط موسسه گمان، به طور امن و ناشناس برگزار می‌شود. شما هم نظرتان را بگویید!",
 			 "thanks":"",
 			 "button":"کشف کنید!"
 		      },
 		"IR": {
 			 "enabled": true,
 			 "probability": 0.5,
-			 "campaign":"MESA3.4",
-			 "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-			 "message":"دليل أمان المستخدم - دراسة استقصائية",
+			 "campaign":"Gamaan",
+			 "url":"https://gamaan.survey.fm/2026-protests-war?plat=dlan",
+			 "message":"این نظرسنجی کوتاه توسط موسسه گمان، به طور امن و ناشناس برگزار می‌شود. شما هم نظرتان را بگویید!",
 			 "thanks":"",
 			 "button":"کشف کنید!"
 		      },
