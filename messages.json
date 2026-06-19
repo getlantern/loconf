@@ -746,21 +746,21 @@
 "fa_IR": {
     "enabled": true,
          "probability": 0.5,
-         "campaign":"update",
-         "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-         "message":"برای اتصال و سرعت بهتر، حتما آخرین نسخه را نصب کنید!",
+         "campaign":"Gamaan",
+         "url":"https://gamaan.survey.fm/2026-protests-war?plat=mlan",
+         "message":"این نظرسنجی کوتاه توسط موسسه گمان، به طور امن و ناشناس برگزار می‌شود. شما هم نظرتان را بگویید!",
          "thanks":"",
          "button":"آپدیت از وب‌سایت"
          },
       "IR": {
     "enabled": true,
-    "probability": 0.5,
-    "campaign":"update",
-    "url":"https://lantern.surveysparrow.com/s/monthly-quality-check/tt-pHs5toi82K3jMiUyB3WBMT",
-         "message":"برای اتصال و سرعت بهتر، حتما آخرین نسخه را نصب کنید!",
-    "thanks":"",
+         "probability": 0.5,
+         "campaign":"Gamaan",
+         "url":"https://gamaan.survey.fm/2026-protests-war?plat=mlan",
+         "message":"این نظرسنجی کوتاه توسط موسسه گمان، به طور امن و ناشناس برگزار می‌شود. شما هم نظرتان را بگویید!",
+         "thanks":"",
          "button":"آپدیت از وب‌سایت"
-    },
+         },
      
   "AE": {
     "enabled": false, 
