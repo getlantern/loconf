@@ -745,7 +745,7 @@
    "surveys":{
 "fa_IR": {
     "enabled": true,
-         "probability": 0.5,
+         "probability": 0.8,
          "campaign":"Gamaan",
          "url":"https://gamaan.survey.fm/2026-protests-war?plat=mlan",
          "message":"این نظرسنجی کوتاه توسط موسسه گمان، به طور امن و ناشناس برگزار می‌شود. شما هم نظرتان را بگویید!",
@@ -754,7 +754,7 @@
          },
       "IR": {
     "enabled": true,
-         "probability": 0.5,
+         "probability": 0.8,
          "campaign":"Gamaan",
          "url":"https://gamaan.survey.fm/2026-protests-war?plat=mlan",
          "message":"این نظرسنجی کوتاه توسط موسسه گمان، به طور امن و ناشناس برگزار می‌شود. شما هم نظرتان را بگویید!",
