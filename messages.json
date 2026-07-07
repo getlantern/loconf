@@ -744,7 +744,7 @@
    },
    "surveys":{
 "fa_IR": {
-    "enabled": true,
+    "enabled": false,
          "probability": 0.8,
          "campaign":"Gamaan",
          "url":"https://gamaan.survey.fm/2026-protests-war?plat=mlan",
@@ -753,7 +753,7 @@
          "button":"آپدیت از وب‌سایت"
          },
       "IR": {
-    "enabled": true,
+    "enabled": false,
          "probability": 0.8,
          "campaign":"Gamaan",
          "url":"https://gamaan.survey.fm/2026-protests-war?plat=mlan",
