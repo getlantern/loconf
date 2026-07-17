@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 0.25,
 			"campaign": "MESA3.4",
 			"url": "https://lantern.limesurvey.net/tool-survey?src=lantern", 
@@ -38,7 +38,7 @@
 	 		"button": "探索！"
 		},
 		"CN": {
-			 "enabled": true,
+			 "enabled": false,
 			 "probability": 0.25,
 			 "campaign": "MESA3.4",
 			 "url": "https://lantern.limesurvey.net/tool-survey?src=lantern", 
