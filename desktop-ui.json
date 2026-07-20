@@ -30,24 +30,24 @@
 	"survey": {
 		"zh-CN": {
 			"enabled": false,
-			"probability": 1,
+			"probability": 0,
 			"campaign": "v7paymentissue",
 			"url": "", 
-    		"message": "现在可以购买会员了，感谢您的耐心等待。",
+    		"message": "",
 	 		"thanks": "",
-	 		"button": "知道了",
-			"versions": "<8.0.0",
+	 		"button": "",
+			"versions": "",
 			"pro": false
 		},
 		"CN": {
 			 "enabled": false,
-			 "probability": 1,
+			 "probability": 0,
 			 "campaign": "v7paymentissue",
 			 "url": "", 
-    		 "message": "现在可以购买会员了，感谢您的耐心等待。",
+    		 "message": "",
 			 "thanks": "",
-			 "button": "知道了",
-			 "versions": "<8.0.0",
+			 "button": "",
+			 "versions": "",
 			 "pro": false
       		},
 		"GN": {
