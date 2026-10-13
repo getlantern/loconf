@@ -29,35 +29,33 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
-			"probability": 0,
-			"campaign": "v7paymentissue",
-			"url": "", 
-    		"message": "",
+			"enabled": true,
+			"probability": 1,
+			"campaign": "v10upgrade",
+			"url": "https://github.com/getlantern/lantern/#", 
+    		"message": "Lantern 10 已发布，更快更稳定。点击下载（需 Windows 10+）。",
 	 		"thanks": "",
-	 		"button": "",
-			"versions": "",
-			"pro": false
+	 		"button": "下载",
+			"versions": ""
 		},
 		"CN": {
-			 "enabled": false,
-			 "probability": 0,
-			 "campaign": "v7paymentissue",
-			 "url": "", 
-    		 "message": "",
+			 "enabled": true,
+			 "probability": 1,
+			 "campaign": "v10upgrade",
+			 "url": "https://github.com/getlantern/lantern/#", 
+    		 "message": "Lantern 10 已发布，更快更稳定。点击下载（需 Windows 10+）。",
 			 "thanks": "",
-			 "button": "",
-			 "versions": "",
-			 "pro": false
+			 "button": "下载",
+			 "versions": ""
       		},
-		"GN": {
-			"enabled": false,
-			"probability": 0.30,
-			"campaign": "",
-			"url": "https://lantern.surveysparrow.com/s/Ad-Experience-Survey/tt-nDcHMt4GoAajc7VrgYJmsd",
-			"message": "Enquête sur l'expérience publicitaire",
+		"en-US": {
+			"enabled": true,
+			"probability": 1,
+			"campaign": "v10upgrade",
+			"url": "https://github.com/getlantern/lantern/#",
+			"message": "Lantern 10 is here. Faster and more reliable. Download now (Windows 10+).",
 			"thanks": "",
-			"button": "commencer"
+			"button": "Download"
 		},
 		"fa_IR": {
 			 "enabled": false,
