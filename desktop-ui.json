@@ -29,21 +29,21 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": false,
+			"enabled": true,
 			"probability": 1,
 			"campaign": "v10upgrade",
 			"url": "https://github.com/getlantern/lantern/#", 
-    		"message": "Lantern 10 已发布，更快更稳定。点击下载（需 Windows 10+）。",
+    		"message": "Lantern 10 已发布，更快更稳定。下载新版并升级 Pro，输入优惠码 LN15 享 85 折。点击下载（需 Windows 10+）",
 	 		"thanks": "",
 	 		"button": "下载",
 			"versions": ""
 		},
 		"CN": {
-			 "enabled": false,
+			 "enabled": true,
 			 "probability": 1,
 			 "campaign": "v10upgrade",
 			 "url": "https://github.com/getlantern/lantern/#", 
-    		 "message": "Lantern 10 已发布，更快更稳定。点击下载（需 Windows 10+）。",
+    		 "message": "Lantern 10 已发布，更快更稳定。下载新版并升级 Pro，输入优惠码 LN15 享 85 折。点击下载（需 Windows 10+）",
 			 "thanks": "",
 			 "button": "下载",
 			 "versions": ""
