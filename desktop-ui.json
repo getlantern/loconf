@@ -29,7 +29,7 @@
 	},
 	"survey": {
 		"zh-CN": {
-			"enabled": true,
+			"enabled": false,
 			"probability": 1,
 			"campaign": "v10upgrade",
 			"url": "https://github.com/getlantern/lantern/#", 
@@ -39,7 +39,7 @@
 			"versions": ""
 		},
 		"CN": {
-			 "enabled": true,
+			 "enabled": false,
 			 "probability": 1,
 			 "campaign": "v10upgrade",
 			 "url": "https://github.com/getlantern/lantern/#", 
