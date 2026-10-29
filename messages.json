@@ -835,23 +835,23 @@
       
   "zh-CN": {
     "enabled": false,
-    "probability": 0.25,
-    "campaign": "Airport Survey",
-    "url": "https://lantern.limesurvey.net/tool-survey?src=lantern", 
-    "message": "您的意见将直接影响「蓝灯」及其他工具的未来! 匿名问卷（5-10分钟），聊聊您的真实感受就好。完成后参与抽奖：$20美元礼品卡 或 蓝灯Pro账户",
+    "probability": 1.00,
+    "campaign": "v10 update",
+    "url": "https://github.com/getlantern/lantern#", 
+    "message": "Lantern 10 已发布，更快更稳定。更新新版并升级 Pro，输入优惠码 LN15 享 85 折。点击更新",
     "thanks": "",
-    "button": "探索！"
+    "button": "立即更新！"
     },
      
   
   "CN": {
     "enabled": false,
-    "probability": 0.25,
-    "campaign": "AirportSurvey",
-    "url": "https://lantern.limesurvey.net/tool-survey?src=lantern", 
-    "message": "您的意见将直接影响「蓝灯」及其他工具的未来! 匿名问卷（5-10分钟），聊聊您的真实感受就好。完成后参与抽奖：$20美元礼品卡 或 蓝灯Pro账户",
+    "probability": 1.00,
+    "campaign": "v10 update",
+    "url": "https://github.com/getlantern/lantern#", 
+    "message": "Lantern 10 已发布，更快更稳定。更新新版并升级 Pro，输入优惠码 LN15 享 85 折。点击更新",
     "thanks": "",
-    "button": "探索！"
+    "button": "立即更新！"
     },	   
   
    "GN": {
